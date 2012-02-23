@@ -1,13 +1,14 @@
-========== ========== ==========
+================================
   Terraria_JP  ver 0.1.0.0
-========== ========== ==========
+================================
 
 【 ソフト名 】Terraria_JP
 【 開発環境 】Visual Studio C# 2010 Express
 【バージョン】0.1.0.0
 【最終更新日】2012/02/23
 【ライセンス】MITライセンス（xnb ファイルを除く）
-【配布サイト】https://github.com/firisu/Terraria_JP
+【公開サイト】https://github.com/firisu/Terraria_JP
+【配布ＵＲＬ】https://github.com/firisu/Terraria_JP/downloads
 
 ---------- ---------- ----------
 
