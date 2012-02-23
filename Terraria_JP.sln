@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseAssembly", "BaseAssembly\BaseAssembly.csproj", "{6AB33FFF-C5B7-4503-889B-F05EE44D0C4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terraria_JP", "Terraria_JP\Terraria_JP\Terraria_JP.csproj", "{25622E29-65C1-4BB5-9FC6-832AEF12F291}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6AB33FFF-C5B7-4503-889B-F05EE44D0C4E} = {6AB33FFF-C5B7-4503-889B-F05EE44D0C4E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terraria_JPContent", "Terraria_JP\Terraria_JPContent\Terraria_JPContent.contentproj", "{66388D00-9FAE-4DD9-946A-627B22AE79D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AB33FFF-C5B7-4503-889B-F05EE44D0C4E}.Debug|x86.ActiveCfg = Debug|x86
+		{6AB33FFF-C5B7-4503-889B-F05EE44D0C4E}.Debug|x86.Build.0 = Debug|x86
+		{6AB33FFF-C5B7-4503-889B-F05EE44D0C4E}.Release|x86.ActiveCfg = Release|x86
+		{6AB33FFF-C5B7-4503-889B-F05EE44D0C4E}.Release|x86.Build.0 = Release|x86
+		{25622E29-65C1-4BB5-9FC6-832AEF12F291}.Debug|x86.ActiveCfg = Debug|x86
+		{25622E29-65C1-4BB5-9FC6-832AEF12F291}.Debug|x86.Build.0 = Debug|x86
+		{25622E29-65C1-4BB5-9FC6-832AEF12F291}.Release|x86.ActiveCfg = Release|x86
+		{25622E29-65C1-4BB5-9FC6-832AEF12F291}.Release|x86.Build.0 = Release|x86
+		{66388D00-9FAE-4DD9-946A-627B22AE79D0}.Debug|x86.ActiveCfg = Debug|x86
+		{66388D00-9FAE-4DD9-946A-627B22AE79D0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
