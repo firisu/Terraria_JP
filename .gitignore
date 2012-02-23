@@ -35,7 +35,6 @@ Ankh.NoLoad
 *.cachefile
 
 #XNA Framework
-*.spritefont
 WpfFontPipeline.dll
 
 #InstallShield
