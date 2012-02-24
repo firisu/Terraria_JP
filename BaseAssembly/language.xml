@@ -1,948 +1,1623 @@
-<language>
-  <lang>
-    <dialogs>
-      <dialog>
-        <int>1</int>
-        <en>I hope a scrawny kid like you isn't all that is standing between us and Cthulu's Eye.</en>
-        <ja></ja>
-      </dialog>
-      <dialog>
-        <int>2</int>
-        <en>Look at that shoddy armor you're wearing. Better buy some more healing potions.</en>
-        <ja></ja>
-      </dialog>
-      <dialog>
-        <int>3</int>
-        <en>I feel like an evil presence is watching me.</en>
-        <ja>邪悪な存在が私を見ている気がします。</ja>
-      </dialog>
-      <dialog>
-        <int>4</int>
-        <en>Sword beats paper! Get one today.</en>
-        <ja>剣はペンより強し。ということでお一つ買って行って下さい。</ja>
-      </dialog>
-      <dialog>
-        <int>5</int>
-        <en>You want apples? You want carrots? You want pineapples? We got torches.</en>
-        <ja>リンゴ？ニンジン？パイナップル？トーチならあるんですが。</ja>
-      </dialog>
-      <dialog>
-        <int>6</int>
-        <en>Lovely morning, wouldn't you say? Was there something you needed?</en>
-        <ja>いやぁ、良い朝ですね。何かご入用ですか？</ja>
-      </dialog>
-      <dialog>
-        <int>7</int>
-        <en>Night will be upon us soon, friend. Make your choices while you can.</en>
-        <ja>もうすぐ日が暮れますね。何を買っていきますか？</ja>
-      </dialog>
-      <dialog>
-        <int>8</int>
-        <en>You have no idea how much Dirt Blocks sell for overseas.</en>
-        <ja>海外では土のブロックも売り物になるんですよ。いくらで売れると思います？</ja>
-      </dialog>
-      <dialog>
-        <int>9</int>
-        <en>Ah, they will tell tales of {Player} some day... good ones I'm sure.</en>
-        <ja>いつか皆が{Player}の物語を語るでしょうね。勇者の物語を。</ja>
-      </dialog>
-      <dialog>
-        <int>10</int>
-        <en>Check out my dirt blocks, they are extra dirty.</en>
-        <ja>私の周りの土のブロックを見てください。どうも汚染されてるようです。</ja>
-      </dialog>
-      <dialog>
-        <int>11</int>
-        <en>Boy, that sun is hot! I do have some perfectly ventilated armor.</en>
-        <ja>今日は日差しが強いですね。私は通気性の良い防具も扱ってますよ。</ja>
-      </dialog>
-      <dialog>
-        <int>12</int>
-        <en>The sun is high, but my prices are not.</en>
-        <ja>陽が高いですねぇ。しかしウチの値段は違いますよ。</ja>
-      </dialog>
-      <dialog>
-        <int>13</int>
-        <en>Oh, great. I can hear {Mechanic} and {Nurse} arguing from here.</en>
-        <ja>{Mechanic}と{Nurse}が何か議論しているのが聞こえますね。</ja>
-      </dialog>
-      <dialog>
-        <int>14</int>
-        <en>Have you seen Chith...Shith.. Chat... The big eye?</en>
-        <ja>あなたはキトゥ…クトゥ…。…えーと、何とかの目玉を見たことがありますか？</ja>
-      </dialog>
-      <dialog>
-        <int>15</int>
-        <en>Hey, this house is secure, right? Right? {Player}?</en>
-        <ja>この家は安全ですよね？{Player}？</ja>
-      </dialog>
-      <dialog>
-        <int>16</int>
-        <en>Not even a blood moon can stop capitalism. Let's do some business.</en>
-        <ja>ブラッドムーンですら資本主義は止められませんよ。さぁ、ビジネスをしましょう。</ja>
-      </dialog>
-      <dialog>
-        <int>17</int>
-        <en>Keep your eye on the prize, buy a lense!</en>
-        <ja>掘り出し物がありますよ。レンズなんかどうです？</ja>
-      </dialog>
-      <dialog>
-        <int>18</int>
-        <en>Kosh, kapleck Mog. Oh sorry, that's klingon for 'Buy something or die.'</en>
-        <ja>Kosh, kapleck Mog. …あぁ、すいません。今のはクリンゴン語で「買うか死ぬか」という意味です。</ja>
-      </dialog>
-      <dialog>
-        <int>19</int>
-        <en>{Player} is it? I've heard good things, friend!</en>
-        <ja>{Player}さんですか？噂は聞いてますよ！</ja>
-      </dialog>
-      <dialog>
-        <int>20</int>
-        <en>I hear there's a secret treasure... oh never mind.</en>
-        <ja>秘密の宝があると聞いたんですが…いや、忘れてください。</ja>
-      </dialog>
-      <dialog>
-        <int>21</int>
-        <en>Angel Statue you say? I'm sorry, I'm not a junk dealer.</en>
-        <ja>天使の石像ですって？申し訳ないですが、私はジャンク屋ではないので。</ja>
-      </dialog>
-      <dialog>
-        <int>22</int>
-        <en>The last guy who was here left me some junk... er I mean... treasures!</en>
-      </dialog>
-      <dialog>
-        <int>23</int>
-        <en>I wonder if the moon is made of cheese...huh, what? Oh yes, buy something!</en>
-        <ja>もし月がチーズで出来ていたら…。え、はい？何か買いますか？</ja>
-      </dialog>
-      <dialog>
-        <int>24</int>
-        <en>Did you say gold?  I'll take that off of ya.</en>
-      </dialog>
-      <dialog>
-        <int>25</int>
-        <en>You better not get blood on me.</en>
-      </dialog>
-      <dialog>
-        <int>26</int>
-        <en>Hurry up and stop bleeding.</en>
-      </dialog>
-      <dialog>
-        <int>27</int>
-        <en>If you're going to die, do it outside.</en>
-      </dialog>
-      <dialog>
-        <int>28</int>
-        <en>What is that supposed to mean?!</en>
-      </dialog>
-      <dialog>
-        <int>29</int>
-        <en>I don't think I like your tone.</en>
-      </dialog>
-      <dialog>
-        <int>30</int>
-        <en>Why are you even here? If you aren't bleeding, you don't need to be here. Get out.</en>
-      </dialog>
-      <dialog>
-        <int>31</int>
-        <en>WHAT?!</en>
-      </dialog>
-      <dialog>
-        <int>32</int>
-        <en>Have you seen that old man pacing around the dungeon? He looks troubled.</en>
-      </dialog>
-      <dialog>
-        <int>33</int>
-        <en>I wish {Demolitionist} would be more careful.  I'm getting tired of having to sew his limbs back on every day.</en>
-      </dialog>
-      <dialog>
-        <int>34</int>
-        <en>Hey, has {Arms Dealer} mentioned needing to go to the doctor for any reason? Just wondering.</en>
-      </dialog>
-      <dialog>
-        <int>35</int>
-        <en>I need to have a serious talk with {Guide}. How many times a week can you come in with severe lava burns?</en>
-      </dialog>
-      <dialog>
-        <int>36</int>
-        <en>I think you look better this way.</en>
-      </dialog>
-      <dialog>
-        <int>37</int>
-        <en>Eww... What happened to your face?</en>
-      </dialog>
-      <dialog>
-        <int>38</int>
-        <en>MY GOODNESS! I'm good, but I'm not THAT good.</en>
-      </dialog>
-      <dialog>
-        <int>39</int>
-        <en>Dear friends we are gathered here today to bid farewell... Oh, you'll be fine.</en>
-      </dialog>
-      <dialog>
-        <int>40</int>
-        <en>You left your arm over there. Let me get that for you...</en>
-      </dialog>
-      <dialog>
-        <int>41</int>
-        <en>Quit being such a baby! I've seen worse.</en>
-      </dialog>
-      <dialog>
-        <int>42</int>
-        <en>That's gonna need stitches!</en>
-      </dialog>
-      <dialog>
-        <int>43</int>
-        <en>Trouble with those bullies again?</en>
-      </dialog>
-      <dialog>
-        <int>44</int>
-        <en>Hold on, I've got some cartoon bandages around here somewhere.</en>
-      </dialog>
-      <dialog>
-        <int>45</int>
-        <en>Walk it off, {Player}, you'll be fine. Sheesh.</en>
-      </dialog>
-      <dialog>
-        <int>46</int>
-        <en>Does it hurt when you do that? Don't do that.</en>
-      </dialog>
-      <dialog>
-        <int>47</int>
-        <en>You look half digested. Have you been chasing slimes again?</en>
-      </dialog>
-      <dialog>
-        <int>48</int>
-        <en>Turn your head and cough.</en>
-      </dialog>
-      <dialog>
-        <int>49</int>
-        <en>That's not the biggest I've ever seen... Yes, I've seen bigger wounds for sure.</en>
-      </dialog>
-      <dialog>
-        <int>50</int>
-        <en>Would you like a lollipop?</en>
-      </dialog>
-      <dialog>
-        <int>51</int>
-        <en>Show me where it hurts.</en>
-      </dialog>
-      <dialog>
-        <int>52</int>
-        <en>I'm sorry, but you can't afford me.</en>
-      </dialog>
-      <dialog>
-        <int>53</int>
-        <en>I'm gonna need more gold than that.</en>
-      </dialog>
-      <dialog>
-        <int>54</int>
-        <en>I don't work for free you know.</en>
-      </dialog>
-      <dialog>
-        <int>55</int>
-        <en>I don't give happy endings.</en>
-      </dialog>
-      <dialog>
-        <int>56</int>
-        <en>I can't do anymore for you without plastic surgery.</en>
-      </dialog>
-      <dialog>
-        <int>57</int>
-        <en>Quit wasting my time.</en>
-      </dialog>
-      <dialog>
-        <int>58</int>
-        <en>I heard there is a doll that looks very similar to {Guide} somewhere in the underworld.  I'd like to put a few rounds in it.</en>
-      </dialog>
-      <dialog>
-        <int>59</int>
-        <en>Make it quick! I've got a date with {Nurse} in an hour.</en>
-      </dialog>
-      <dialog>
-        <int>60</int>
-        <en>I want what {Nurse} is sellin'. What do you mean, she doesn't sell anything?</en>
-      </dialog>
-      <dialog>
-        <int>61</int>
-        <en>{Dryad} is a looker.  Too bad she's such a prude.</en>
-      </dialog>
-      <dialog>
-        <int>62</int>
-        <en>Don't bother with {Demolitionist}, I've got all you need right here.</en>
-      </dialog>
-      <dialog>
-        <int>63</int>
-        <en>What's {Demolitionist}'s problem? Does he even realize we sell completely different stuff?</en>
-      </dialog>
-      <dialog>
-        <int>64</int>
-        <en>Man, it's a good night not to talk to anybody, don't you think, {Player}?</en>
-      </dialog>
-      <dialog>
-        <int>65</int>
-        <en>I love nights like tonight.  There is never a shortage of things to kill!</en>
-      </dialog>
-      <dialog>
-        <int>66</int>
-        <en>I see you're eyeballin' the Minishark.. You really don't want to know how it was made.</en>
-      </dialog>
-      <dialog>
-        <int>67</int>
-        <en>Hey, this ain't a movie, pal. Ammo is extra.</en>
-      </dialog>
-      <dialog>
-        <int>68</int>
-        <en>Keep your hands off my gun, buddy!</en>
-      </dialog>
-      <dialog>
-        <int>69</int>
-        <en>Have you tried using purification powder on the ebonstone of the corruption?</en>
-      </dialog>
-      <dialog>
-        <int>70</int>
-        <en>I wish {Arms Dealer} would stop flirting with me. Doesn't he realize I'm 500 years old?</en>
-      </dialog>
-      <dialog>
-        <int>71</int>
-        <en>Why does {Merchant} keep trying to sell me an angel statues? Everyone knows that they don't do anything.</en>
-      </dialog>
-      <dialog>
-        <int>72</int>
-        <en>Have you seen the old man walking around the dungeon? He doesn't look well at all...</en>
-      </dialog>
-      <dialog>
-        <int>73</int>
-        <en>I sell what I want! If you don't like it, too bad.</en>
-      </dialog>
-      <dialog>
-        <int>74</int>
-        <en>Why do you have to be so confrontational during a time like this?</en>
-      </dialog>
-      <dialog>
-        <int>75</int>
-        <en>I don't want you to buy my stuff. I want you to want to buy my stuff, ok?</en>
-      </dialog>
-      <dialog>
-        <int>76</int>
-        <en>Dude, is it just me or is there like a million zombies out tonight?</en>
-      </dialog>
-      <dialog>
-        <int>77</int>
-        <en>You must cleanse the world of this corruption.</en>
-      </dialog>
-      <dialog>
-        <int>78</int>
-        <en>Be safe; Terraria needs you!</en>
-      </dialog>
-      <dialog>
-        <int>79</int>
-        <en>The sands of time are flowing. And well, you are not aging very gracefully.</en>
-      </dialog>
-      <dialog>
-        <int>80</int>
-        <en>What's this about me having more 'bark' than bite?</en>
-      </dialog>
-      <dialog>
-        <int>81</int>
-        <en>So two goblins walk into a bar, and one says to the other, 'Want to get a Goblet of beer?!</en>
-      </dialog>
-      <dialog>
-        <int>82</int>
-        <en>I cannot let you enter until you free me of my curse.</en>
-      </dialog>
-      <dialog>
-        <int>83</int>
-        <en>Come back at night if you wish to enter.</en>
-      </dialog>
-      <dialog>
-        <int>84</int>
-        <en>My master cannot be summoned under the light of day.</en>
-      </dialog>
-      <dialog>
-        <int>85</int>
-        <en>You are far too weak to defeat my curse.  Come back when you aren't so worthless.</en>
-      </dialog>
-      <dialog>
-        <int>86</int>
-        <en>You pathetic fool.  You cannot hope to face my master as you are now.</en>
-      </dialog>
-      <dialog>
-        <int>87</int>
-        <en>I hope you have like six friends standing around behind you.</en>
-      </dialog>
-      <dialog>
-        <int>88</int>
-        <en>Please, no, stranger. You'll only get yourself killed.</en>
-      </dialog>
-      <dialog>
-        <int>89</int>
-        <en>You just might be strong enough to free me from my curse...</en>
-      </dialog>
-      <dialog>
-        <int>90</int>
-        <en>Stranger, do you possess the strength to defeat my master?</en>
-      </dialog>
-      <dialog>
-        <int>91</int>
-        <en>Please! Battle my captor and free me! I beg you!</en>
-      </dialog>
-      <dialog>
-        <int>92</int>
-        <en>Defeat my master, and I will grant you passage into the Dungeon.</en>
-      </dialog>
-      <dialog>
-        <int>93</int>
-        <en>Trying to get past that ebonrock, eh?  Why not introduce it to one of these explosives!</en>
-      </dialog>
-      <dialog>
-        <int>94</int>
-        <en>Hey, have you seen a clown around?</en>
-      </dialog>
-      <dialog>
-        <int>95</int>
-        <en>There was a bomb sitting right here, and now I can't seem to find it...</en>
-      </dialog>
-      <dialog>
-        <int>96</int>
-        <en>I've got something for them zombies alright!</en>
-      </dialog>
-      <dialog>
-        <int>97</int>
-        <en>Even {Arms Dealer} wants what I'm selling!</en>
-      </dialog>
-      <dialog>
-        <int>98</int>
-        <en>Would you rather have a bullet hole or a grenade hole? That's what I thought.</en>
-      </dialog>
-      <dialog>
-        <int>99</int>
-        <en>I'm sure {Nurse} will help if you accidentally lose a limb to these.</en>
-      </dialog>
-      <dialog>
-        <int>100</int>
-        <en>Why purify the world when you can just blow it up?</en>
-      </dialog>
-      <dialog>
-        <int>101</int>
-        <en>If you throw this one in the bathtub and close all the windows, it'll clear your sinuses and pop your ears!</en>
-      </dialog>
-      <dialog>
-        <int>102</int>
-        <en>Wanna play Fuse Chicken?</en>
-      </dialog>
-      <dialog>
-        <int>103</int>
-        <en>Hey, could you sign this Griefing Waiver?</en>
-      </dialog>
-      <dialog>
-        <int>104</int>
-        <en>NO SMOKING IN HERE!!</en>
-      </dialog>
-      <dialog>
-        <int>105</int>
-        <en>Explosives are da' bomb these days.  Buy some now!</en>
-      </dialog>
-      <dialog>
-        <int>106</int>
-        <en>It's a good day to die!</en>
-      </dialog>
-      <dialog>
-        <int>107</int>
-        <en>I wonder what happens if I... (BOOM!)... Oh, sorry, did you need that leg?</en>
-      </dialog>
-      <dialog>
-        <int>108</int>
-        <en>Dynamite, my own special cure-all for what ails ya.</en>
-      </dialog>
-      <dialog>
-        <int>109</int>
-        <en>Check out my goods; they have explosive prices!</en>
-      </dialog>
-      <dialog>
-        <int>110</int>
-        <en>I keep having vague memories of tying up a woman and throwing her in a dungeon.</en>
-      </dialog>
-      <dialog>
-        <int>111</int>
-        <en>... we have a problem! Its a blood moon out there!</en>
-      </dialog>
-      <dialog>
-        <int>112</int>
-        <en>T'were I younger, I would ask {Nurse} out. I used to be quite the lady killer.</en>
-      </dialog>
-      <dialog>
-        <int>113</int>
-        <en>That Red Hat of yours looks familiar...</en>
-      </dialog>
-      <dialog>
-        <int>114</int>
-        <en>Thanks again for freeing me from my curse. Felt like something jumped up and bit me.</en>
-      </dialog>
-      <dialog>
-        <int>115</int>
-        <en>Mama always said I would make a great tailor.</en>
-      </dialog>
-      <dialog>
-        <int>116</int>
-        <en>Life's like a box of clothes; you never know what you are gonna wear!</en>
-      </dialog>
-      <dialog>
-        <int>117</int>
-        <en>Of course embroidery is hard! If it wasn't hard, no one would do it! That's what makes it great.</en>
-      </dialog>
-      <dialog>
-        <int>118</int>
-        <en>I know everything they is to know about the clothierin' business.</en>
-      </dialog>
-      <dialog>
-        <int>119</int>
-        <en>Being cursed was lonely, so I once made a friend out of leather. I named him Wilson.</en>
-      </dialog>
-      <dialog>
-        <int>120</int>
-        <en>Thank you for freeing me, human.  I was tied up and left here by the other goblins.  You could say that we didn't get along very well.</en>
-      </dialog>
-      <dialog>
-        <int>121</int>
-        <en>I can't believe they tied me up and left me here just for pointing out that they weren't going east!</en>
-      </dialog>
-      <dialog>
-        <int>122</int>
-        <en>Now that I'm an outcast, can I throw away the spiked balls? My pockets hurt.</en>
-      </dialog>
-      <dialog>
-        <int>123</int>
-        <en>Looking for a gadgets expert? I'm your goblin!</en>
-      </dialog>
-      <dialog>
-        <int>124</int>
-        <en>Thanks for your help. Now, I have to finish pacing around aimlessly here. I'm sure we'll meet again.</en>
-      </dialog>
-      <dialog>
-        <int>125</int>
-        <en>I thought you'd be taller.</en>
-      </dialog>
-      <dialog>
-        <int>126</int>
-        <en>Hey...what's {Mechanic} up to? Have you...have you talked to her, by chance?</en>
-      </dialog>
-      <dialog>
-        <int>127</int>
-        <en>Hey, does your hat need a motor? I think I have a motor that would fit exactly in that hat.</en>
-      </dialog>
-      <dialog>
-        <int>128</int>
-        <en>Yo, I heard you like rockets and running boots, so I put some rockets in your running boots.</en>
-      </dialog>
-      <dialog>
-        <int>129</int>
-        <en>Silence is golden. Duct tape is silver.</en>
-      </dialog>
-      <dialog>
-        <int>130</int>
-        <en>YES, gold is stronger than iron. What are they teaching these humans nowadays?</en>
-      </dialog>
-      <dialog>
-        <int>131</int>
-        <en>You know, that mining helmet-flipper combination was a much better idea on paper.</en>
-      </dialog>
-      <dialog>
-        <int>132</int>
-        <en>Goblins are surprisingly easy to anger. In fact, they could start a war over cloth!</en>
-      </dialog>
-      <dialog>
-        <int>133</int>
-        <en>To be honest, most goblins aren't exactly rocket scientists. Well, some are.</en>
-      </dialog>
-      <dialog>
-        <int>134</int>
-        <en>Do you know why we all carry around these spiked balls? Because I don't.</en>
-      </dialog>
-      <dialog>
-        <int>135</int>
-        <en>I just finished my newest creation! This version doesn't explode violently if you breathe on it too hard.</en>
-      </dialog>
-      <dialog>
-        <int>136</int>
-        <en>Goblin thieves aren't very good at their job. They can't even steal from an unlocked chest!</en>
-      </dialog>
-      <dialog>
-        <int>137</int>
-        <en>Thanks for saving me, friend!  This bondage was starting to chafe.</en>
-      </dialog>
-      <dialog>
-        <int>138</int>
-        <en>Ohh, my hero!</en>
-      </dialog>
-      <dialog>
-        <int>139</int>
-        <en>Oh, how heroic! Thank you for saving me, young lady!</en>
-      </dialog>
-      <dialog>
-        <int>140</int>
-        <en>Oh, how heroic! Thank you for saving me, young man!</en>
-      </dialog>
-      <dialog>
-        <int>141</int>
-        <en>Now that we know each other, I can move in with you, right?</en>
-      </dialog>
-      <dialog>
-        <int>142</int>
-        <en>Well, hi there, {Guide}! What can I do for you today?</en>
-      </dialog>
-      <dialog>
-        <int>143</int>
-        <en>Well, hi there, {Demolitionist}! What can I do for you today?</en>
-      </dialog>
-      <dialog>
-        <int>144</int>
-        <en>Well, hi there, {Goblin}! What can I do for you today?</en>
-      </dialog>
-      <dialog>
-        <int>145</int>
-        <en>Well, hi there, {Nurse}! What can I do for you today?</en>
-      </dialog>
-      <dialog>
-        <int>146</int>
-        <en>Well, hi there, {Mechanic}! What can I do for you today?</en>
-      </dialog>
-      <dialog>
-        <int>147</int>
-        <en>Well, hi there, {Dryad}! What can I do for you today?</en>
-      </dialog>
-      <dialog>
-        <int>148</int>
-        <en>Want me to pull a coin from behind your ear? No? Ok.</en>
-      </dialog>
-      <dialog>
-        <int>149</int>
-        <en>Do you want some magic candy? No? Ok.</en>
-      </dialog>
-      <dialog>
-        <int>150</int>
-        <en>I make a rather enchanting hot chocolate if you'd be inter...No? Ok.</en>
-      </dialog>
-      <dialog>
-        <int>151</int>
-        <en>Are you here for a peek at my crystal ball?</en>
-      </dialog>
-      <dialog>
-        <int>152</int>
-        <en>Ever wanted an enchanted ring that turns rocks into slimes? Well neither did I.</en>
-      </dialog>
-      <dialog>
-        <int>153</int>
-        <en>Someone once told me friendship is magic. That's ridiculous. You can't turn people into frogs with friendship.</en>
-      </dialog>
-      <dialog>
-        <int>154</int>
-        <en>I can see your future now... You will buy a lot of items from me!</en>
-      </dialog>
-      <dialog>
-        <int>155</int>
-        <en>I once tried to bring an Angel Statue to life. It didn't do anything.</en>
-      </dialog>
-      <dialog>
-        <int>156</int>
-        <en>Thanks!  It was just a matter of time before I ended up like the rest of the skeletons down here.</en>
-      </dialog>
-      <dialog>
-        <int>157</int>
-        <en>Hey, watch where you're going! I was over there a little while ago!</en>
-      </dialog>
-      <dialog>
-        <int>158</int>
-        <en>Hold on, I've almost got wifi going down here.</en>
-      </dialog>
-      <dialog>
-        <int>159</int>
-        <en>But I was almost done putting blinking lights up here!</en>
-      </dialog>
-      <dialog>
-        <int>160</int>
-        <en>DON'T MOVE. I DROPPED MY CONTACT.</en>
-      </dialog>
-      <dialog>
-        <int>161</int>
-        <en>All I want is for the switch to make the... What?!</en>
-      </dialog>
-      <dialog>
-        <int>162</int>
-        <en>Oh, let me guess. Didn't buy enough wire. Idiot.</en>
-      </dialog>
-      <dialog>
-        <int>163</int>
-        <en>Just-could you just... Please? Ok? Ok. Ugh.</en>
-      </dialog>
-      <dialog>
-        <int>164</int>
-        <en>I don't appreciate the way you're looking at me. I am WORKING right now.</en>
-      </dialog>
-      <dialog>
-        <int>165</int>
-        <en>Hey {Player}, did you just come from {Goblin}'s? Did he say anything about me by chance?</en>
-      </dialog>
-      <dialog>
-        <int>166</int>
-        <en>{Arms Dealer} keeps talking about pressing my pressure plate. I told him it was for stepping on.</en>
-      </dialog>
-      <dialog>
-        <int>167</int>
-        <en>Always buy more wire than you need!</en>
-      </dialog>
-      <dialog>
-        <int>168</int>
-        <en>Did you make sure your device was plugged in?</en>
-      </dialog>
-      <dialog>
-        <int>169</int>
-        <en>Oh, you know what this house needs? More blinking lights.</en>
-      </dialog>
-      <dialog>
-        <int>170</int>
-        <en>You can tell a Blood Moon is out when the sky turns red. There is something about it that causes monsters to swarm.</en>
-      </dialog>
-      <dialog>
-        <int>171</int>
-        <en>Hey, buddy, do you know where any deathweed is? Oh, no reason; just wondering, is all.</en>
-      </dialog>
-      <dialog>
-        <int>172</int>
-        <en>If you were to look up, you'd see that the moon is red right now.</en>
-      </dialog>
-      <dialog>
-        <int>173</int>
-        <en>You should stay indoors at night. It is very dangerous to be wandering around in the dark.</en>
-      </dialog>
-      <dialog>
-        <int>174</int>
-        <en>Greetings, {Player}. Is there something I can help you with?</en>
-      </dialog>
-      <dialog>
-        <int>175</int>
-        <en>I am here to give you advice on what to do next.  It is recommended that you talk with me anytime you get stuck.</en>
-      </dialog>
-      <dialog>
-        <int>176</int>
-        <en>They say there is a person who will tell you how to survive in this land... oh wait. That's me.</en>
-      </dialog>
-      <dialog>
-        <int>177</int>
-        <en>You can use your pickaxe to dig through dirt, and your axe to chop down trees. Just place your cursor over the tile and click!</en>
-      </dialog>
-      <dialog>
-        <int>178</int>
-        <en>If you want to survive, you will need to create weapons and shelter. Start by chopping down trees and gathering wood.</en>
-      </dialog>
-      <dialog>
-        <int>179</int>
-        <en>Press ESC to access your crafting menu. When you have enough wood, create a workbench. This will allow you to create more complicated things, as long as you are standing close to it.</en>
-      </dialog>
-      <dialog>
-        <int>180</int>
-        <en>You can build a shelter by placing wood or other blocks in the world. Don't forget to create and place walls.</en>
-      </dialog>
-      <dialog>
-        <int>181</int>
-        <en>Once you have a wooden sword, you might try to gather some gel from the slimes. Combine wood and gel to make a torch!</en>
-      </dialog>
-      <dialog>
-        <int>182</int>
-        <en>To interact with backgrounds and placed objects, use a hammer!</en>
-      </dialog>
-      <dialog>
-        <int>183</int>
-        <en>You should do some mining to find metal ore. You can craft very useful things with it.</en>
-      </dialog>
-      <dialog>
-        <int>184</int>
-        <en>Now that you have some ore, you will need to turn it into a bar in order to make items with it. This requires a furnace!</en>
-      </dialog>
-      <dialog>
-        <int>185</int>
-        <en>You can create a furnace out of torches, wood, and stone. Make sure you are standing near a work bench.</en>
-      </dialog>
-      <dialog>
-        <int>186</int>
-        <en>You will need an anvil to make most things out of metal bars.</en>
-      </dialog>
-      <dialog>
-        <int>187</int>
-        <en>Anvils can be crafted out of iron, or purchased from a merchant.</en>
-      </dialog>
-      <dialog>
-        <int>188</int>
-        <en>Underground are crystal hearts that can be used to increase your max life. You will need a hammer to obtain them.</en>
-      </dialog>
-      <dialog>
-        <int>189</int>
-        <en>If you gather 10 fallen stars, they can be combined to create an item that will increase your magic capacity.</en>
-      </dialog>
-      <dialog>
-        <int>190</int>
-        <en>Stars fall all over the world at night. They can be used for all sorts of usefull things. If you see one, be sure to grab it because they disappear after sunrise.</en>
-      </dialog>
-      <dialog>
-        <int>191</int>
-        <en>There are many different ways you can attract people to move in to our town. They will of course need a home to live in.</en>
-      </dialog>
-      <dialog>
-        <int>192</int>
-        <en>In order for a room to be considered a home, it needs to have a door, chair, table, and a light source.  Make sure the house has walls as well.</en>
-      </dialog>
-      <dialog>
-        <int>193</int>
-        <en>Two people will not live in the same home. Also, if their home is destroyed, they will look for a new place to live.</en>
-      </dialog>
-      <dialog>
-        <int>194</int>
-        <en>You can use the housing interface to assign and view housing. Open you inventory and click the house icon.</en>
-      </dialog>
-      <dialog>
-        <int>195</int>
-        <en>If you want a merchant to move in, you will need to gather plenty of money. 50 silver coins should do the trick!</en>
-      </dialog>
-      <dialog>
-        <int>196</int>
-        <en>For a nurse to move in, you might want to increase your maximum life.</en>
-      </dialog>
-      <dialog>
-        <int>197</int>
-        <en>If you had a gun, I bet an arms dealer might show up to sell you some ammo!</en>
-      </dialog>
-      <dialog>
-        <int>198</int>
-        <en>You should prove yourself by defeating a strong monster. That will get the attention of a dryad.</en>
-      </dialog>
-      <dialog>
-        <int>199</int>
-        <en>Make sure to explore the dungeon thoroughly. There may be prisoners held deep within.</en>
-      </dialog>
-      <dialog>
-        <int>200</int>
-        <en>Perhaps the old man by the dungeon would like to join us now that his curse has been lifted.</en>
-      </dialog>
-      <dialog>
-        <int>201</int>
-        <en>Hang on to any bombs you might find. A demolitionist may want to have a look at them.</en>
-      </dialog>
-      <dialog>
-        <int>202</int>
-        <en>Are goblins really so different from us that we couldn't live together peacefully?</en>
-      </dialog>
-      <dialog>
-        <int>203</int>
-        <en>I heard there was a powerfully wizard who lives in these parts.  Make sure to keep an eye out for him next time you go underground.</en>
-      </dialog>
-      <dialog>
-        <int>204</int>
-        <en>If you combine lenses at a demon altar, you might be able to find a way to summon a powerful monster. You will want to wait until night before using it, though.</en>
-      </dialog>
-      <dialog>
-        <int>205</int>
-        <en>You can create worm bait with rotten chunks and vile powder. Make sure you are in a corrupt area before using it.</en>
-      </dialog>
-      <dialog>
-        <int>206</int>
-        <en>Demonic altars can usually be found in the corruption. You will need to be near them to craft some items.</en>
-      </dialog>
-      <dialog>
-        <int>207</int>
-        <en>You can make a grappling hook from a hook and 3 chains. Skeletons found deep underground usually carry hooks, and chains can be made from iron bars.</en>
-      </dialog>
-      <dialog>
-        <int>208</int>
-        <en>If you see a pot, be sure to smash it open. They contain all sorts of useful supplies.</en>
-      </dialog>
-      <dialog>
-        <int>209</int>
-        <en>There is treasure hidden all over the world. Some amazing things can be found deep underground!</en>
-      </dialog>
-      <dialog>
-        <int>210</int>
-        <en>Smashing a shadow orb will sometimes cause a meteor to fall out of the sky. Shadow orbs can usually be found in the chasms around corrupt areas.</en>
-      </dialog>
-      <dialog>
-        <int>211</int>
-        <en>You should focus on gathering more heart crystals to increase your maximum life.</en>
-      </dialog>
-      <dialog>
-        <int>212</int>
-        <en>Your current equipment simply won't do. You need to make better armor.</en>
-      </dialog>
-      <dialog>
-        <int>213</int>
-        <en>I think you are ready for your first major battle. Gather some lenses from the eyeballs at night and take them to a demon altar.</en>
-      </dialog>
-      <dialog>
-        <int>214</int>
-        <en>You will want to increase your life before facing your next challenge. Fifteen hearts should be enough.</en>
-      </dialog>
-      <dialog>
-        <int>215</int>
-        <en>The ebonstone in the corruption can be purified using some powder from a dryad, or it can be destroyed with explosives.</en>
-      </dialog>
-      <dialog>
-        <int>216</int>
-        <en>Your next step should be to explore the corrupt chasms.  Find and destroy any shadow orb you find.</en>
-      </dialog>
-      <dialog>
-        <int>217</int>
-        <en>There is a old dungeon not far from here. Now would be a good time to go check it out.</en>
-      </dialog>
-      <dialog>
-        <int>218</int>
-        <en>You should make an attempt to max out your available life. Try to gather twenty hearts.</en>
-      </dialog>
-      <dialog>
-        <int>219</int>
-        <en>There are many treasures to be discovered in the jungle, if you are willing to dig deep enough.</en>
-      </dialog>
-      <dialog>
-        <int>220</int>
-        <en>The underworld is made of a material called hellstone. It's perfect for making weapons and armor.</en>
-      </dialog>
-      <dialog>
-        <int>221</int>
-        <en>When you are ready to challenge the keeper of the underworld, you will have to make a living sacrifice. Everything you need for it can be found in the underworld.</en>
-      </dialog>
-      <dialog>
-        <int>222</int>
-        <en>Make sure to smash any demon altar you can find. Something good is bound to happen if you do!</en>
-      </dialog>
-      <dialog>
-        <int>223</int>
-        <en>Souls can sometimes be gathered from fallen creatures in places of extreme light or dark.</en>
-      </dialog>
-      <dialog>
-        <int>224</int>
-        <en>Ho ho ho, and a bottle of... Egg Nog!</en>
-      </dialog>
-      <dialog>
-        <int>225</int>
-        <en>Care to bake me some cookies?</en>
-      </dialog>
-      <dialog>
-        <int>226</int>
-        <en>What? You thought I wasn't real?</en>
-      </dialog>
-      <dialog>
-        <int>227</int>
-        <en>I managed to sew your face back on. Be more careful next time.</en>
-      </dialog>
-      <dialog>
-        <int>228</int>
-        <en>That's probably going to leave a scar.</en>
-      </dialog>
-      <dialog>
-        <int>229</int>
-        <en>All better. I don't want to see you jumping off anymore cliffs.</en>
-      </dialog>
-      <dialog>
-        <int>230</int>
-        <en>That didn't hurt too bad, now did it?</en>
-      </dialog>
-    </dialogs>
-  </lang>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<lang>
+		<dialogs>
+			<dialog>
+				<int>1</int>
+				<char>Merchant</char>
+				<pattern>cthulhu</pattern>
+				<en>I hope a scrawny kid like you isn't all that is standing between us and Cthulu's Eye.</en>
+				<ja>クトゥルフの目と戦うのが君みたいなもやしっ子一人じゃない事を祈りますよ。</ja>
+			</dialog>
+			<dialog>
+				<int>2</int>
+				<char>Merchant</char>
+				<pattern>cthulhu</pattern>
+				<en>Look at that shoddy armor you're wearing. Better buy some more healing potions.</en>
+				<ja>そんな防具で大丈夫ですか？回復薬をもっと買った方がいいですよ。</ja>
+			</dialog>
+			<dialog>
+				<int>3</int>
+				<char>Merchant</char>
+				<pattern>cthulhu</pattern>
+				<en>I feel like an evil presence is watching me.</en>
+				<ja>邪悪な存在がこちらを見ている気がします…。</ja>
+			</dialog>
+			<dialog>
+				<int>4</int>
+				<char>Merchant</char>
+				<pattern>morning</pattern>
+				<en>Sword beats paper! Get one today.</en>
+				<ja>剣はペンより強し。そういう訳で、お一つどうです？</ja>
+			</dialog>
+			<dialog>
+				<int>5</int>
+				<char>Merchant</char>
+				<pattern>morning</pattern>
+				<en>You want apples? You want carrots? You want pineapples? We got torches.</en>
+				<ja>リンゴ？ニンジン？パイナップル？トーチならあるんですが。</ja>
+			</dialog>
+			<dialog>
+				<int>6</int>
+				<char>Merchant</char>
+				<pattern>morning</pattern>
+				<en>Lovely morning, wouldn't you say? Was there something you needed?</en>
+				<ja>いやぁ、良い朝ですね。何かご入用ですか？</ja>
+			</dialog>
+			<dialog>
+				<int>7</int>
+				<char>Merchant</char>
+				<pattern>evening</pattern>
+				<en>Night will be upon us soon, friend. Make your choices while you can.</en>
+				<ja>もうすぐ日が暮れそうですね。今のうちに買った方がいいですよ。</ja>
+			</dialog>
+			<dialog>
+				<int>8</int>
+				<char>Merchant</char>
+				<pattern>evening</pattern>
+				<en>You have no idea how much Dirt Blocks sell for overseas.</en>
+				<ja>海外では土のブロックが凄い高値で売られるんですよ。</ja>
+			</dialog>
+			<dialog>
+				<int>9</int>
+				<char>Merchant</char>
+				<pattern>evening</pattern>
+				<en>Ah, they will tell tales of {Player} some day... good ones I'm sure.</en>
+				<ja>いつか皆が{Player}の物語を語るでしょうね。勇者の物語を。</ja>
+			</dialog>
+			<dialog>
+				<int>10</int>
+				<char>Merchant</char>
+				<pattern>afternoon</pattern>
+				<en>Check out my dirt blocks, they are extra dirty.</en>
+				<ja>この土のブロックなんてどうですか？すごいドロだらけですよ。</ja>
+			</dialog>
+			<dialog>
+				<int>11</int>
+				<char>Merchant</char>
+				<pattern>afternoon</pattern>
+				<en>Boy, that sun is hot! I do have some perfectly ventilated armor.</en>
+				<ja>今日は日差しが強いですね。私は通気性の良い防具も扱ってますよ。</ja>
+			</dialog>
+			<dialog>
+				<int>12</int>
+				<char>Merchant</char>
+				<pattern>afternoon</pattern>
+				<en>The sun is high, but my prices are not.</en>
+				<ja>陽が高いですねぇ。しかしウチの値段は違いますよ。</ja>
+			</dialog>
+			<dialog>
+				<int>13</int>
+				<char>Merchant</char>
+				<pattern>bloodmoon</pattern>
+				<en>Oh, great. I can hear {Mechanic} and {Nurse} arguing from here.</en>
+				<ja>{Mechanic}と{Nurse}が何か議論しているのが聞こえますね。</ja>
+			</dialog>
+			<dialog>
+				<int>14</int>
+				<char>Merchant</char>
+				<pattern>bloodmoon</pattern>
+				<en>Have you seen Chith...Shith.. Chat... The big eye?</en>
+				<ja>あなたはキトゥ…クトゥ…。…えーと、何とかの目玉を見たことがありますか？</ja>
+			</dialog>
+			<dialog>
+				<int>15</int>
+				<char>Merchant</char>
+				<pattern>bloodmoon</pattern>
+				<en>Hey, this house is secure, right? Right? {Player}?</en>
+				<ja>この家は安全ですよね？ですよね！？{Player}？</ja>
+			</dialog>
+			<dialog>
+				<int>16</int>
+				<char>Merchant</char>
+				<pattern>bloodmoon</pattern>
+				<en>Not even a blood moon can stop capitalism. Let's do some business.</en>
+				<ja>ブラッドムーンですら資本主義は止められませんよ。さぁ、ビジネスをしましょう。</ja>
+			</dialog>
+			<dialog>
+				<int>17</int>
+				<char>Merchant</char>
+				<pattern>bloodmoon</pattern>
+				<en>Keep your eye on the prize, buy a lense!</en>
+				<ja>掘り出し物がありますよ。レンズなんかどうです？</ja>
+			</dialog>
+			<dialog>
+				<int>18</int>
+				<char>Merchant</char>
+				<pattern>beginnight</pattern>
+				<en>Kosh, kapleck Mog. Oh sorry, that's klingon for 'Buy something or die.'</en>
+				<ja>Kosh, kapleck Mog. …あぁ、すいません。今のはクリンゴン語で「買うか死ぬか」という意味です。</ja>
+			</dialog>
+			<dialog>
+				<int>19</int>
+				<char>Merchant</char>
+				<pattern>beginnight</pattern>
+				<en>{Player} is it? I've heard good things, friend!</en>
+				<ja>{Player}さんですか？噂は聞いてますよ！</ja>
+			</dialog>
+			<dialog>
+				<int>20</int>
+				<char>Merchant</char>
+				<pattern>endnight</pattern>
+				<en>I hear there's a secret treasure... oh never mind.</en>
+				<ja>秘密の宝があると聞いたんですが…いや、忘れてください。</ja>
+			</dialog>
+			<dialog>
+				<int>21</int>
+				<char>Merchant</char>
+				<pattern>endnight</pattern>
+				<en>Angel Statue you say? I'm sorry, I'm not a junk dealer.</en>
+				<ja>天使の石像ですって？申し訳ないですが、私はジャンク屋ではないので。</ja>
+			</dialog>
+			<dialog>
+				<int>22</int>
+				<char>Merchant</char>
+				<pattern>midnight</pattern>
+				<en>The last guy who was here left me some junk... er I mean... treasures!</en>
+				<ja>前回来た人がゴミを...あ、じゃなくて掘り出し物を持ち込んできたんですよ！</ja>
+			</dialog>
+			<dialog>
+				<int>23</int>
+				<char>Merchant</char>
+				<pattern>midnight</pattern>
+				<en>I wonder if the moon is made of cheese...huh, what? Oh yes, buy something!</en>
+				<ja>月ってチーズで出来ているのかな…。え、はい？何か買いますか？</ja>
+			</dialog>
+			<dialog>
+				<int>24</int>
+				<char>Merchant</char>
+				<pattern>midnight</pattern>
+				<en>Did you say gold?  I'll take that off of ya.</en>
+				<ja>金貨ですって？ぜひともお支払い頂きたいですね。</ja>
+			</dialog>
+			<dialog>
+				<int>25</int>
+				<char>Nurse</char>
+				<pattern>blood_badly</pattern>
+				<en>You better not get blood on me.</en>
+				<ja>ちょっと、血を私に付けないでよ。</ja>
+			</dialog>
+			<dialog>
+				<int>26</int>
+				<char>Nurse</char>
+				<pattern>blood_badly</pattern>
+				<en>Hurry up and stop bleeding.</en>
+				<ja>血が出てるわよ。急いで止血しなさい。</ja>
+			</dialog>
+			<dialog>
+				<int>27</int>
+				<char>Nurse</char>
+				<pattern>blood_badly</pattern>
+				<en>If you're going to die, do it outside.</en>
+				<ja>死ぬなら外で死んでよね。</ja>
+			</dialog>
+			<dialog>
+				<int>28</int>
+				<char>Nurse</char>
+				<pattern>blood_middle</pattern>
+				<en>What is that supposed to mean?!</en>
+				<ja>それってどういう意味よ！？</ja>
+			</dialog>
+			<dialog>
+				<int>29</int>
+				<char>Nurse</char>
+				<pattern>blood_middle</pattern>
+				<en>I don't think I like your tone.</en>
+				<ja>そういう言い方は好きじゃないわ。</ja>
+			</dialog>
+			<dialog>
+				<int>30</int>
+				<char>Nurse</char>
+				<pattern>blood_middle</pattern>
+				<en>Why are you even here? If you aren't bleeding, you don't need to be here. Get out.</en>
+				<ja>なんでまだここにいるの？怪我してないなら用はないでしょ。出て行って。</ja>
+			</dialog>
+			<dialog>
+				<int>31</int>
+				<char>Nurse</char>
+				<pattern>blood_middle</pattern>
+				<en>WHAT?!</en>
+				<ja>何よ！？</ja>
+			</dialog>
+			<dialog>
+				<int>32</int>
+				<char>Nurse</char>
+				<pattern>full</pattern>
+				<en>Have you seen that old man pacing around the dungeon? He looks troubled.</en>
+				<ja>ダンジョンの周りをウロウロしている老人を見た？何か困ってそうよね。</ja>
+			</dialog>
+			<dialog>
+				<int>33</int>
+				<char>Nurse</char>
+				<pattern>full</pattern>
+				<en>I wish {Demolitionist} would be more careful.  I'm getting tired of having to sew his limbs back on every day.</en>
+				<ja>{Arms Dealer} はもう少し気をつけてくれないかしら。毎日体を縫い付けるの疲れたわ</ja>
+			</dialog>
+			<dialog>
+				<int>34</int>
+				<char>Nurse</char>
+				<pattern>full</pattern>
+				<en>Hey, has {Arms Dealer} mentioned needing to go to the doctor for any reason? Just wondering.</en>
+				<ja>ねぇ、 {Arms Dealer} が何かしら医者に行く必要があるって言っていなかった？ちょっと気になっただけ。</ja>
+			</dialog>
+			<dialog>
+				<int>35</int>
+				<char>Nurse</char>
+				<pattern>full</pattern>
+				<en>I need to have a serious talk with {Guide}. How many times a week can you come in with severe lava burns?</en>
+				<ja>ちょっと {Guide} と話す必要があるね。週に何回、溶岩でヤケドを負えば気が済むのよ。</ja>
+			</dialog>
+			<dialog>
+				<int>36</int>
+				<char>Nurse</char>
+				<pattern>badly</pattern>
+				<en>I think you look better this way.</en>
+				<ja>怪我してる方が格好よく見えるわよ。</ja>
+			</dialog>
+			<dialog>
+				<int>37</int>
+				<char>Nurse</char>
+				<pattern>badly</pattern>
+				<en>Eww... What happened to your face?</en>
+				<ja>うわ...その顔どうしたの？</ja>
+			</dialog>
+			<dialog>
+				<int>38</int>
+				<char>Nurse</char>
+				<pattern>badly</pattern>
+				<en>MY GOODNESS! I'm good, but I'm not THAT good.</en>
+				<ja>もう！私は凄いけど、そこまでは凄くない。</ja>
+			</dialog>
+			<dialog>
+				<int>39</int>
+				<char>Nurse</char>
+				<pattern>badly</pattern>
+				<en>Dear friends we are gathered here today to bid farewell... Oh, you'll be fine.</en>
+				<ja>お集まりの皆様、本日はこの方にお別れを言う為に...あら、あなたの事じゃないわよ。</ja>
+			</dialog>
+			<dialog>
+				<int>40</int>
+				<char>Nurse</char>
+				<pattern>badly</pattern>
+				<en>You left your arm over there. Let me get that for you...</en>
+				<ja>そこに腕を忘れてるわよ。取ってあげる。</ja>
+			</dialog>
+			<dialog>
+				<int>41</int>
+				<char>Nurse</char>
+				<pattern>middle</pattern>
+				<en>Quit being such a baby! I've seen worse.</en>
+				<ja>駄々をこねないの！もっと酷い人もいたんだから。</ja>
+			</dialog>
+			<dialog>
+				<int>42</int>
+				<char>Nurse</char>
+				<pattern>middle</pattern>
+				<en>That's gonna need stitches!</en>
+				<ja>それは縫わなきゃいけないわよ！</ja>
+			</dialog>
+			<dialog>
+				<int>43</int>
+				<char>Nurse</char>
+				<pattern>middle</pattern>
+				<en>Trouble with those bullies again?</en>
+				<ja>またイジメられたの？</ja>
+			</dialog>
+			<dialog>
+				<int>44</int>
+				<char>Nurse</char>
+				<pattern>middle</pattern>
+				<en>Hold on, I've got some cartoon bandages around here somewhere.</en>
+				<ja>ちょっと待って、ここら辺にキャラ物のバンソウコウがあったはず。</ja>
+			</dialog>
+			<dialog>
+				<int>45</int>
+				<char>Nurse</char>
+				<pattern>middle</pattern>
+				<en>Walk it off, {Player}, you'll be fine. Sheesh.</en>
+				<ja>ほっとけば直るよ {Player}、 大丈夫だって。やれやれ。</ja>
+			</dialog>
+			<dialog>
+				<int>46</int>
+				<char>Nurse</char>
+				<pattern>middle</pattern>
+				<en>Does it hurt when you do that? Don't do that.</en>
+				<ja>そうすると痛いの？じゃあしないでね。</ja>
+			</dialog>
+			<dialog>
+				<int>47</int>
+				<char>Nurse</char>
+				<pattern>middle</pattern>
+				<en>You look half digested. Have you been chasing slimes again?</en>
+				<ja>半分消化されたみたいになってるわよ。またスライムを追いかけてたの？</ja>
+			</dialog>
+			<dialog>
+				<int>48</int>
+				<char>Nurse</char>
+				<pattern>full</pattern>
+				<en>Turn your head and cough.</en>
+				<ja>向こうを向いて咳しなさい。</ja>
+			</dialog>
+			<dialog>
+				<int>49</int>
+				<char>Nurse</char>
+				<pattern>full</pattern>
+				<en>That's not the biggest I've ever seen... Yes, I've seen bigger wounds for sure.</en>
+				<ja>今まで見た中で一番ではないわ。うん、もっと大きな怪我を見た事があるわよ。</ja>
+			</dialog>
+			<dialog>
+				<int>50</int>
+				<char>Nurse</char>
+				<pattern>full</pattern>
+				<en>Would you like a lollipop?</en>
+				<ja>飴なめる？</ja>
+			</dialog>
+			<dialog>
+				<int>51</int>
+				<char>Nurse</char>
+				<pattern>full</pattern>
+				<en>Show me where it hurts.</en>
+				<ja>どこが痛いのか、見せてみなさい。</ja>
+			</dialog>
+			<dialog>
+				<int>52</int>
+				<char>Nurse</char>
+				<pattern>no_money</pattern>
+				<en>I'm sorry, but you can't afford me.</en>
+				<ja>ごめんなさい。その金額じゃ治せないわ。</ja>
+			</dialog>
+			<dialog>
+				<int>53</int>
+				<char>Nurse</char>
+				<pattern>no_money</pattern>
+				<en>I'm gonna need more gold than that.</en>
+				<ja>それじゃお金が足りないわ。</ja>
+			</dialog>
+			<dialog>
+				<int>54</int>
+				<char>Nurse</char>
+				<pattern>no_money</pattern>
+				<en>I don't work for free you know.</en>
+				<ja>私は無料奉仕はしないのよ。</ja>
+			</dialog>
+			<dialog>
+				<int>55</int>
+				<char>Nurse</char>
+				<pattern>heal_full</pattern>
+				<en>I don't give happy endings.</en>
+				<ja>いい終わり方はしないわよ。</ja>
+			</dialog>
+			<dialog>
+				<int>56</int>
+				<char>Nurse</char>
+				<pattern>heal_full</pattern>
+				<en>I can't do anymore for you without plastic surgery.</en>
+				<ja>これ以上治せないわよ。整形手術でもお望みなのかしら？</ja>
+			</dialog>
+			<dialog>
+				<int>57</int>
+				<char>Nurse</char>
+				<pattern>heal_full</pattern>
+				<en>Quit wasting my time.</en>
+				<ja>私の時間を無駄にしないで。</ja>
+			</dialog>
+			<dialog>
+				<int>58</int>
+				<char>Arms Dealer</char>
+				<pattern>normal</pattern>
+				<en>I heard there is a doll that looks very similar to {Guide} somewhere in the underworld.  I'd like to put a few rounds in it.</en>
+				<ja>地下世界のどこかに {Guide} そっくりな人形があるらしい。何発かブチ込みたいぜ。</ja>
+			</dialog>
+			<dialog>
+				<int>59</int>
+				<char>Arms Dealer</char>
+				<pattern>normal</pattern>
+				<en>Make it quick! I've got a date with {Nurse} in an hour.</en>
+				<ja>早くしてくれ！あと１時間で {Nurse} とデートなんだ。</ja>
+			</dialog>
+			<dialog>
+				<int>60</int>
+				<char>Arms Dealer</char>
+				<pattern>normal</pattern>
+				<en>I want what {Nurse} is sellin'. What do you mean, she doesn't sell anything?</en>
+				<ja>{Nurse} が売っている物が欲しい。何も売っていないってどういう事だ？</ja>
+			</dialog>
+			<dialog>
+				<int>61</int>
+				<char>Arms Dealer</char>
+				<pattern>normal</pattern>
+				<en>{Dryad} is a looker.  Too bad she's such a prude.</en>
+				<ja>{Dryad} は美人だよな。自意識過剰なのが玉に瑕だ。</ja>
+			</dialog>
+			<dialog>
+				<int>62</int>
+				<char>Arms Dealer</char>
+				<pattern>normal</pattern>
+				<en>Don't bother with {Demolitionist}, I've got all you need right here.</en>
+				<ja>{Demolitionist} の事は気にするな。必要な物はすべてココにある。</ja>
+			</dialog>
+			<dialog>
+				<int>63</int>
+				<char>Arms Dealer</char>
+				<pattern>normal</pattern>
+				<en>What's {Demolitionist}'s problem? Does he even realize we sell completely different stuff?</en>
+				<ja>何を言ってるんだ {Demolitionist} は？オレが奴と別の物を売っている事すら知らないのか？</ja>
+			</dialog>
+			<dialog>
+				<int>64</int>
+				<char>Arms Dealer</char>
+				<pattern>bloodmoon</pattern>
+				<en>Man, it's a good night not to talk to anybody, don't you think, {Player}?</en>
+				<ja>今晩は誰とも話さないのに良い日だと思わないか、{Player}？</ja>
+			</dialog>
+			<dialog>
+				<int>65</int>
+				<char>Arms Dealer</char>
+				<pattern>bloodmoon</pattern>
+				<en>I love nights like tonight.  There is never a shortage of things to kill!</en>
+				<ja>今晩みたいな夜は好きだ。殺す物に困らないからな！</ja>
+			</dialog>
+			<dialog>
+				<int>66</int>
+				<char>Arms Dealer</char>
+				<pattern>normal</pattern>
+				<en>I see you're eyeballin' the Minishark.. You really don't want to know how it was made.</en>
+				<ja>ミニシャークに興味津々だね。どうやって作られたかは知らないほうがいいけどな。</ja>
+			</dialog>
+			<dialog>
+				<int>67</int>
+				<char>Arms Dealer</char>
+				<pattern>normal</pattern>
+				<en>Hey, this ain't a movie, pal. Ammo is extra.</en>
+				<ja>おい、これは映画じゃないんだ。弾丸は別料金だぜ。</ja>
+			</dialog>
+			<dialog>
+				<int>68</int>
+				<char>Arms Dealer</char>
+				<pattern>normal</pattern>
+				<en>Keep your hands off my gun, buddy!</en>
+				<ja>俺のエモノに触るんじゃないぜ、相棒！</ja>
+			</dialog>
+			<dialog>
+				<int>69</int>
+				<char>Dryad</char>
+				<pattern>normal</pattern>
+				<en>Have you tried using purification powder on the ebonstone of the corruption?</en>
+				<ja>浄化の粉をエボンストーンに使ってみた？</ja>
+			</dialog>
+			<dialog>
+				<int>70</int>
+				<char>Dryad</char>
+				<pattern>normal</pattern>
+				<en>I wish {Arms Dealer} would stop flirting with me. Doesn't he realize I'm 500 years old?</en>
+				<ja>{Arms Dealer} は私をナンパするのをやめてくれないかしら。私が500歳だって知らないのかしら？</ja>
+			</dialog>
+			<dialog>
+				<int>71</int>
+				<char>Dryad</char>
+				<pattern>normal</pattern>
+				<en>Why does {Merchant} keep trying to sell me an angel statues? Everyone knows that they don't do anything.</en>
+				<ja>なんで {Merchant} は私に天使の石像を売ろうとするのかしら。あれが何の役にも立たないって皆知っているのに。</ja>
+			</dialog>
+			<dialog>
+				<int>72</int>
+				<char>Dryad</char>
+				<pattern>normal</pattern>
+				<en>Have you seen the old man walking around the dungeon? He doesn't look well at all...</en>
+				<ja>ダンジョンの周りをウロウロしている老人を見た？すごく調子が悪そう...</ja>
+			</dialog>
+			<dialog>
+				<int>73</int>
+				<char>Dryad</char>
+				<pattern>bloodmoon</pattern>
+				<en>I sell what I want! If you don't like it, too bad.</en>
+				<ja>私は売りたい物を売るの！欲しくないならお生憎さま。</ja>
+			</dialog>
+			<dialog>
+				<int>74</int>
+				<char>Dryad</char>
+				<pattern>bloodmoon</pattern>
+				<en>Why do you have to be so confrontational during a time like this?</en>
+				<ja>こんな時にどうしてそんなにケンカ腰なの？</ja>
+			</dialog>
+			<dialog>
+				<int>75</int>
+				<char>Dryad</char>
+				<pattern>bloodmoon</pattern>
+				<en>I don't want you to buy my stuff. I want you to want to buy my stuff, ok?</en>
+				<ja>あなたに買って欲しいんじゃなくて、あなたに買いたいと思わせたいの。わかる？</ja>
+			</dialog>
+			<dialog>
+				<int>76</int>
+				<char>Dryad</char>
+				<pattern>bloodmoon</pattern>
+				<en>Dude, is it just me or is there like a million zombies out tonight?</en>
+				<ja>ねぇ、ゾンビがウジャウジャいる気がするのは私だけじゃないわよね？</ja>
+			</dialog>
+			<dialog>
+				<int>77</int>
+				<char>Dryad</char>
+				<pattern>normal</pattern>
+				<en>You must cleanse the world of this corruption.</en>
+				<ja>不浄の地を清めてきて。</ja>
+			</dialog>
+			<dialog>
+				<int>78</int>
+				<char>Dryad</char>
+				<pattern>normal</pattern>
+				<en>Be safe; Terraria needs you!</en>
+				<ja>気をつけてね。テラリアはあなたを必要としているの。</ja>
+			</dialog>
+			<dialog>
+				<int>79</int>
+				<char>Dryad</char>
+				<pattern>normal</pattern>
+				<en>The sands of time are flowing. And well, you are not aging very gracefully.</en>
+				<ja>時は流れていくけれども、あなたが年を取ることは無いわ。</ja>
+			</dialog>
+			<dialog>
+				<int>80</int>
+				<char>Dryad</char>
+				<pattern>normal</pattern>
+				<en>What's this about me having more 'bark' than bite?</en>
+				<ja>骨折り損の草臥れ儲けよ。</ja>
+			</dialog>
+			<dialog>
+				<int>81</int>
+				<char>Dryad</char>
+				<pattern>normal</pattern>
+				<en>So two goblins walk into a bar, and one says to the other, 'Want to get a Goblet of beer?!</en>
+				<ja>騎手が２人で飲み屋に行って、１人が「"ジョッキ" 生でいいか？」って言ったんだって。</ja>
+			</dialog>
+			<dialog>
+				<int>82</int>
+				<char>Old Man</char>
+				<pattern>day</pattern>
+				<en>I cannot let you enter until you free me of my curse.</en>
+				<ja>私の呪いを解くまで中に通すわけには行かないな。</ja>
+			</dialog>
+			<dialog>
+				<int>83</int>
+				<char>Old Man</char>
+				<pattern>day</pattern>
+				<en>Come back at night if you wish to enter.</en>
+				<ja>入りたければ夜に出直して来なさい。</ja>
+			</dialog>
+			<dialog>
+				<int>84</int>
+				<char>Old Man</char>
+				<pattern>day</pattern>
+				<en>My master cannot be summoned under the light of day.</en>
+				<ja>私の主人は日の光の下には出てこられないのだ。</ja>
+			</dialog>
+			<dialog>
+				<int>85</int>
+				<char>Old Man</char>
+				<pattern>night_weak</pattern>
+				<en>You are far too weak to defeat my curse.  Come back when you aren't so worthless.</en>
+				<ja>君は私の呪いを解くには弱すぎる。もっと力を付けて出直してきなさい。</ja>
+			</dialog>
+			<dialog>
+				<int>86</int>
+				<char>Old Man</char>
+				<pattern>night_weak</pattern>
+				<en>You pathetic fool.  You cannot hope to face my master as you are now.</en>
+				<ja>愚か者め。今の君の強さでは私の主人には会えん。</ja>
+			</dialog>
+			<dialog>
+				<int>87</int>
+				<char>Old Man</char>
+				<pattern>night_weak</pattern>
+				<en>I hope you have like six friends standing around behind you.</en>
+				<ja>君が６人くらい仲間を引き連れていれば良かったのに。</ja>
+			</dialog>
+			<dialog>
+				<int>88</int>
+				<char>Old Man</char>
+				<pattern>night_weak</pattern>
+				<en>Please, no, stranger. You'll only get yourself killed.</en>
+				<ja>死にたくなければお止めなさい、見知らぬ人よ。</ja>
+			</dialog>
+			<dialog>
+				<int>89</int>
+				<char>Old Man</char>
+				<pattern>night_strong</pattern>
+				<en>You just might be strong enough to free me from my curse...</en>
+				<ja>お前なら私の呪いを解けるかもしれん…。</ja>
+			</dialog>
+			<dialog>
+				<int>90</int>
+				<char>Old Man</char>
+				<pattern>night_strong</pattern>
+				<en>Stranger, do you possess the strength to defeat my master?</en>
+				<ja>見知らぬ人よ、私の主人を倒す強さを持っているのかな？</ja>
+			</dialog>
+			<dialog>
+				<int>91</int>
+				<char>Old Man</char>
+				<pattern>night_strong</pattern>
+				<en>Please! Battle my captor and free me! I beg you!</en>
+				<ja>頼む、私の主人を倒して私を解放してくれ！</ja>
+			</dialog>
+			<dialog>
+				<int>92</int>
+				<char>Old Man</char>
+				<pattern>night_strong</pattern>
+				<en>Defeat my master, and I will grant you passage into the Dungeon.</en>
+				<ja>私の主人を倒せれば、ダンジョンに入らせてやろう。</ja>
+			</dialog>
+			<dialog>
+				<int>93</int>
+				<char>Demolitionist</char>
+				<pattern>?</pattern>
+				<en>Trying to get past that ebonrock, eh?  Why not introduce it to one of these explosives!</en>
+				<ja>エボンストーンを突破したいのかい？爆発物を試してみな！</ja>
+			</dialog>
+			<dialog>
+				<int>94</int>
+				<char>Demolitionist</char>
+				<pattern>bloodmoon</pattern>
+				<en>Hey, have you seen a clown around?</en>
+				<ja>なぁ、この辺でピエロを見なかったか？</ja>
+			</dialog>
+			<dialog>
+				<int>95</int>
+				<char>Demolitionist</char>
+				<pattern>bloodmoon</pattern>
+				<en>There was a bomb sitting right here, and now I can't seem to find it...</en>
+				<ja>ココに爆弾があったんだが、見当たらないんだ。</ja>
+			</dialog>
+			<dialog>
+				<int>96</int>
+				<char>Demolitionist</char>
+				<pattern>bloodmoon</pattern>
+				<en>I've got something for them zombies alright!</en>
+				<ja>あのゾンビどもにくれてやるブツを持ってるぜ！</ja>
+			</dialog>
+			<dialog>
+				<int>97</int>
+				<char>Demolitionist</char>
+				<pattern>all</pattern>
+				<en>Even {Arms Dealer} wants what I'm selling!</en>
+				<ja>{Arms Dealer} でさえ俺の売っている物を欲しがるんだ！</ja>
+			</dialog>
+			<dialog>
+				<int>98</int>
+				<char>Demolitionist</char>
+				<pattern>all</pattern>
+				<en>Would you rather have a bullet hole or a grenade hole? That's what I thought.</en>
+				<ja>弾丸の穴と手榴弾の穴ならどっちがいい？って考えてたんだ。</ja>
+			</dialog>
+			<dialog>
+				<int>99</int>
+				<char>Demolitionist</char>
+				<pattern>all</pattern>
+				<en>I'm sure {Nurse} will help if you accidentally lose a limb to these.</en>
+				<ja>もし足を失っても {Nurse} が助けてくれるさ。</ja>
+			</dialog>
+			<dialog>
+				<int>100</int>
+				<char>Demolitionist</char>
+				<pattern>all</pattern>
+				<en>Why purify the world when you can just blow it up?</en>
+				<ja>ふっ飛ばせば済むのに、なぜ世界を浄化するんだ？</ja>
+			</dialog>
+			<dialog>
+				<int>101</int>
+				<char>Demolitionist</char>
+				<pattern>night</pattern>
+				<en>If you throw this one in the bathtub and close all the windows, it'll clear your sinuses and pop your ears!</en>
+				<ja>こいつを風呂に入れて窓を閉めれば、鼻づまりも耳詰まりもすっきりだぜ！</ja>
+			</dialog>
+			<dialog>
+				<int>102</int>
+				<char>Demolitionist</char>
+				<pattern>night</pattern>
+				<en>Wanna play Fuse Chicken?</en>
+				<ja>鳥爆弾ゲームするかい？</ja>
+			</dialog>
+			<dialog>
+				<int>103</int>
+				<char>Demolitionist</char>
+				<pattern>night</pattern>
+				<en>Hey, could you sign this Griefing Waiver?</en>
+				<ja>なぁ、「爆発物を使った破壊行為はしない」ってこの証書にサインしてくれないか？</ja>
+				<description>Griefingはゲーム内で他人プレイヤーに嫌がらせをすること。爆発物でオブジェクトを壊せるから。</description>
+			</dialog>
+			<dialog>
+				<int>104</int>
+				<char>Demolitionist</char>
+				<pattern>night</pattern>
+				<en>NO SMOKING IN HERE!!</en>
+				<ja>ここは禁煙だ！</ja>
+			</dialog>
+			<dialog>
+				<int>105</int>
+				<char>Demolitionist</char>
+				<pattern>all</pattern>
+				<en>Explosives are da' bomb these days.  Buy some now!</en>
+				<ja>今日日爆弾が「爆発」的な人気なんだ。今すぐ買おうぜ！</ja>
+			</dialog>
+			<dialog>
+				<int>106</int>
+				<char>Demolitionist</char>
+				<pattern>all</pattern>
+				<en>It's a good day to die!</en>
+				<ja>死ぬにはいい日だ！</ja>
+			</dialog>
+			<dialog>
+				<int>107</int>
+				<char>Demolitionist</char>
+				<pattern>all</pattern>
+				<en>I wonder what happens if I... (BOOM!)... Oh, sorry, did you need that leg?</en>
+				<ja>こうするとどうなるん...（ドッカーン！）...あぁ、ごめん、その足必要だった？</ja>
+			</dialog>
+			<dialog>
+				<int>108</int>
+				<char>Demolitionist</char>
+				<pattern>all</pattern>
+				<en>Dynamite, my own special cure-all for what ails ya.</en>
+				<ja>ダイナマイトは俺専用の問題解決の万能薬だ。</ja>
+			</dialog>
+			<dialog>
+				<int>109</int>
+				<char>Demolitionist</char>
+				<pattern>all</pattern>
+				<en>Check out my goods; they have explosive prices!</en>
+				<ja>品物を見ていってくれ。安さ爆発だぜ！</ja>
+			</dialog>
+			<dialog>
+				<int>110</int>
+				<char>Clothier</char>
+				<pattern>all</pattern>
+				<en>I keep having vague memories of tying up a woman and throwing her in a dungeon.</en>
+				<ja>呪われていた時、女を一人を縛り上げてダンジョンに放り込んだ記憶があるような…。</ja>
+			</dialog>
+			<dialog>
+				<int>111</int>
+				<char>Clothier</char>
+				<pattern>bloodmoon</pattern>
+				<en>... we have a problem! Its a blood moon out there!</en>
+				<ja>大変だ！ブラッドムーンだ！</ja>
+			</dialog>
+			<dialog>
+				<int>112</int>
+				<char>Clothier</char>
+				<pattern>all</pattern>
+				<en>T'were I younger, I would ask {Nurse} out. I used to be quite the lady killer.</en>
+				<ja>もし私が若かったら、{Nurse} を誘うんだけどな。昔はヤリ手だったんだよ。</ja>
+			</dialog>
+			<dialog>
+				<int>113</int>
+				<char>Clothier</char>
+				<pattern>redhat</pattern>
+				<en>That Red Hat of yours looks familiar...</en>
+				<ja>その赤い帽子、どこかで見覚えが...</ja>
+			</dialog>
+			<dialog>
+				<int>114</int>
+				<char>Clothier</char>
+				<pattern>all</pattern>
+				<en>Thanks again for freeing me from my curse. Felt like something jumped up and bit me.</en>
+				<ja>呪いから開放してくれてありがとう。飛び上がりたくなるような気分だったよ。</ja>
+				<description>後半はフォレストガンプが元ネタらしい。「噛み付かれたような気分」って表現は日本語っぽくないので意訳。</description>
+			</dialog>
+			<dialog>
+				<int>115</int>
+				<char>Clothier</char>
+				<pattern>all</pattern>
+				<en>Mama always said I would make a great tailor.</en>
+				<ja>いい仕立て屋になれるって、母ちゃんがいつも言ってくれた</ja>
+			</dialog>
+			<dialog>
+				<int>116</int>
+				<char>Clothier</char>
+				<pattern>all</pattern>
+				<en>Life's like a box of clothes; you never know what you are gonna wear!</en>
+				<ja>人生は服の詰まった箱みたいな物さ。着てみないことには分からない！</ja>
+			</dialog>
+			<dialog>
+				<int>117</int>
+				<char>Clothier</char>
+				<pattern>all</pattern>
+				<en>Of course embroidery is hard! If it wasn't hard, no one would do it! That's what makes it great.</en>
+				<ja>もちろん刺繍は難しい。難しくなかったら誰もやらないさ。だから凄いんじゃないか。</ja>
+			</dialog>
+			<dialog>
+				<int>118</int>
+				<char>Clothier</char>
+				<pattern>all</pattern>
+				<en>I know everything they is to know about the clothierin' business.</en>
+				<ja>俺は仕立屋の仕事に関しては何でも知ってる。</ja>
+			</dialog>
+			<dialog>
+				<int>119</int>
+				<char>Clothier</char>
+				<pattern>all</pattern>
+				<en>Being cursed was lonely, so I once made a friend out of leather. I named him Wilson.</en>
+				<ja>呪われているのは寂しくてな、いちど革で友達を作ったんだ。ウィルソンって名前にしたんだ。</ja>
+			</dialog>
+			<dialog>
+				<int>120</int>
+				<char>Goblin</char>
+				<pattern>rescue</pattern>
+				<en>Thank you for freeing me, human.  I was tied up and left here by the other goblins.  You could say that we didn't get along very well.</en>
+				<ja>開放してくれてありがとう人間よ。ゴブリンに縛られて放置されていたんだ。あまり仲が良くなくってね。</ja>
+			</dialog>
+			<dialog>
+				<int>121</int>
+				<char>Goblin</char>
+				<pattern>rescue_after</pattern>
+				<en>I can't believe they tied me up and left me here just for pointing out that they weren't going east!</en>
+				<ja>行き先を示す為だけに、ここに縛り付けていくなんて信じられない！</ja>
+			</dialog>
+			<dialog>
+				<int>122</int>
+				<char>Goblin</char>
+				<pattern>rescue_after</pattern>
+				<en>Now that I'm an outcast, can I throw away the spiked balls? My pockets hurt.</en>
+				<ja>もう僕は部外者だから、スパイクボール捨てていいよね？ポケットに入れてると痛いんだ。</ja>
+			</dialog>
+			<dialog>
+				<int>123</int>
+				<char>Goblin</char>
+				<pattern>rescue_after</pattern>
+				<en>Looking for a gadgets expert? I'm your goblin!</en>
+				<ja>ガジェット通をお探しかい？このゴブリンにお任せを！</ja>
+			</dialog>
+			<dialog>
+				<int>124</int>
+				<char>Goblin</char>
+				<pattern>rescue_after</pattern>
+				<en>Thanks for your help. Now, I have to finish pacing around aimlessly here. I'm sure we'll meet again.</en>
+				<ja>助けてくれてありがとう。もうここらをむやみにウロウロするのは止めるよ。またいつか会おう。</ja>
+			</dialog>
+			<dialog>
+				<int>125</int>
+				<char>Goblin</char>
+				<pattern>rescue_after</pattern>
+				<en>I thought you'd be taller.</en>
+				<ja>もっと背が高いと思ってた。</ja>
+			</dialog>
+			<dialog>
+				<int>126</int>
+				<char>Goblin</char>
+				<pattern>all</pattern>
+				<en>Hey...what's {Mechanic} up to? Have you...have you talked to her, by chance?</en>
+				<ja>なぁ... {Mechanic} は何をしているんだ？彼女と...彼女と何か話した事ある？</ja>
+			</dialog>
+			<dialog>
+				<int>127</int>
+				<char>Goblin</char>
+				<pattern>Night</pattern>
+				<en>Hey, does your hat need a motor? I think I have a motor that would fit exactly in that hat.</en>
+				<ja>ねぇ、帽子にモーター付ける？その帽子にピッタリなモーターを持ってるんだけど。</ja>
+			</dialog>
+			<dialog>
+				<int>128</int>
+				<char>Goblin</char>
+				<pattern>Night</pattern>
+				<en>Yo, I heard you like rockets and running boots, so I put some rockets in your running boots.</en>
+				<ja>やぁ、ロケットやランニングブーツが好きって聞いたから、ランニングブーツにロケットを付けてみたよ。</ja>
+			</dialog>
+			<dialog>
+				<int>129</int>
+				<char>Goblin</char>
+				<pattern>Night</pattern>
+				<en>Silence is golden. Duct tape is silver.</en>
+				<ja>沈黙は金なり。ガムテープは銀なり。</ja>
+			</dialog>
+			<dialog>
+				<int>130</int>
+				<char>Goblin</char>
+				<pattern>Night</pattern>
+				<en>YES, gold is stronger than iron. What are they teaching these humans nowadays?</en>
+				<ja>そうだよ、金は鉄より強い。最近の人間はどんな教育を受けているんだ？</ja>
+				<description>現実では鉄のほうが強いのに、ゲームでは金の方が強く設定されることへの皮肉。Minecraftなど。</description>
+			</dialog>
+			<dialog>
+				<int>131</int>
+				<char>Goblin</char>
+				<pattern>Night</pattern>
+				<en>You know, that mining helmet-flipper combination was a much better idea on paper.</en>
+				<ja>あの水かきとヘルメットの組み合わせは発想としては良かったんだよね。</ja>
+			</dialog>
+			<dialog>
+				<int>132</int>
+				<char>Goblin</char>
+				<pattern>Day</pattern>
+				<en>Goblins are surprisingly easy to anger. In fact, they could start a war over cloth!</en>
+				<ja>ゴブリンはいとも簡単に怒らせられる。実際、布切れ１枚で殺し合いになるんだ！</ja>
+			</dialog>
+			<dialog>
+				<int>133</int>
+				<char>Goblin</char>
+				<pattern>Day</pattern>
+				<en>To be honest, most goblins aren't exactly rocket scientists. Well, some are.</en>
+				<ja>正直言って、ほとんどのゴブリンは賢くないんだ。まぁ、そうじゃないのも何人かいるけど。</ja>
+			</dialog>
+			<dialog>
+				<int>134</int>
+				<char>Goblin</char>
+				<pattern>Day</pattern>
+				<en>Do you know why we all carry around these spiked balls? Because I don't.</en>
+				<ja>何で僕達がスパイクボールを持ち歩いているか分かる？僕も知らないんだけどさ。</ja>
+			</dialog>
+			<dialog>
+				<int>135</int>
+				<char>Goblin</char>
+				<pattern>Day</pattern>
+				<en>I just finished my newest creation! This version doesn't explode violently if you breathe on it too hard.</en>
+				<ja>丁度いま新発明が終わったところだ！今度のは強く息を吹きかけても大爆発しないよ。</ja>
+			</dialog>
+			<dialog>
+				<int>136</int>
+				<char>Goblin</char>
+				<pattern>Day</pattern>
+				<en>Goblin thieves aren't very good at their job. They can't even steal from an unlocked chest!</en>
+				<ja>盗賊ゴブリンはあまり腕が良くないんだ。鍵の掛かってないチェストの中身すら取れないからね！</ja>
+			</dialog>
+			<dialog>
+				<int>137</int>
+				<char>Wizard</char>
+				<pattern>rescue</pattern>
+				<en>Thanks for saving me, friend!  This bondage was starting to chafe.</en>
+				<ja>助けてくれてありがとう、友よ！拘束具が擦り切れ始めていたんだ。</ja>
+			</dialog>
+			<dialog>
+				<int>138</int>
+				<char>Wizard</char>
+				<pattern>rescue_after</pattern>
+				<en>Ohh, my hero!</en>
+				<ja>おー、勇者様！</ja>
+			</dialog>
+			<dialog>
+				<int>139</int>
+				<char>Wizard</char>
+				<pattern>rescue_after</pattern>
+				<en>Oh, how heroic! Thank you for saving me, young lady!</en>
+				<ja>なんてカッコイイんだ！助けてくれてありがとう、お嬢さん！</ja>
+			</dialog>
+			<dialog>
+				<int>140</int>
+				<char>Wizard</char>
+				<pattern>rescue_after</pattern>
+				<en>Oh, how heroic! Thank you for saving me, young man!</en>
+				<ja>なんてカッコイイんだ！助けてくれてありがとう、お兄さん！</ja>
+			</dialog>
+			<dialog>
+				<int>141</int>
+				<char>Wizard</char>
+				<pattern>rescue_after</pattern>
+				<en>Now that we know each other, I can move in with you, right?</en>
+				<ja>お互い知り合いになったし、同居しても構わないかな？</ja>
+			</dialog>
+			<dialog>
+				<int>142</int>
+				<char>Wizard</char>
+				<pattern>all</pattern>
+				<en>Well, hi there, {Guide}! What can I do for you today?</en>
+				<ja>やぁ、{Guide} さん！今日はどういった御用ですか？</ja>
+				<description>同姓のキャラクターと名前を間違える。ボケているらしい。以下全部同じ。</description>
+			</dialog>
+			<dialog>
+				<int>143</int>
+				<char>Wizard</char>
+				<pattern>all</pattern>
+				<en>Well, hi there, {Demolitionist}! What can I do for you today?</en>
+				<ja>やぁ、{Demolitionist} さん！今日はどういった御用かな？</ja>
+			</dialog>
+			<dialog>
+				<int>144</int>
+				<char>Wizard</char>
+				<pattern>all</pattern>
+				<en>Well, hi there, {Goblin}! What can I do for you today?</en>
+				<ja>やぁ、{Goblin} さん！今日はどういった御用かな？</ja>
+			</dialog>
+			<dialog>
+				<int>145</int>
+				<char>Wizard</char>
+				<pattern>all</pattern>
+				<en>Well, hi there, {Nurse}! What can I do for you today?</en>
+				<ja>やぁ、{Nurse} さん！今日はどういった御用かな？</ja>
+			</dialog>
+			<dialog>
+				<int>146</int>
+				<char>Wizard</char>
+				<pattern>all</pattern>
+				<en>Well, hi there, {Mechanic}! What can I do for you today?</en>
+				<ja>やぁ、{Mechanic} さん！今日はどういった御用かな？</ja>
+			</dialog>
+			<dialog>
+				<int>147</int>
+				<char>Wizard</char>
+				<pattern>all</pattern>
+				<en>Well, hi there, {Dryad}! What can I do for you today?</en>
+				<ja>やぁ、{Dryad} さん！今日はどういった御用かな？</ja>
+			</dialog>
+			<dialog>
+				<int>148</int>
+				<char>Wizard</char>
+				<pattern>day</pattern>
+				<en>Want me to pull a coin from behind your ear? No? Ok.</en>
+				<ja>君の耳の後ろからコインを出現させようか？嫌？そう。</ja>
+			</dialog>
+			<dialog>
+				<int>149</int>
+				<char>Wizard</char>
+				<pattern>day</pattern>
+				<en>Do you want some magic candy? No? Ok.</en>
+				<ja>魔法の飴いる？いらない？そう。</ja>
+			</dialog>
+			<dialog>
+				<int>150</int>
+				<char>Wizard</char>
+				<pattern>day</pattern>
+				<en>I make a rather enchanting hot chocolate if you'd be inter...No? Ok.</en>
+				<ja>興味があれば魅惑のココアを作ってあｇ...いらない？そう。</ja>
+			</dialog>
+			<dialog>
+				<int>151</int>
+				<char>Wizard</char>
+				<pattern>night</pattern>
+				<en>Are you here for a peek at my crystal ball?</en>
+				<ja>私の水晶玉を見に来たのかい？</ja>
+			</dialog>
+			<dialog>
+				<int>152</int>
+				<char>Wizard</char>
+				<pattern>night</pattern>
+				<en>Ever wanted an enchanted ring that turns rocks into slimes? Well neither did I.</en>
+				<ja>岩をスライムに変える魔法の指輪が欲しいと思った事は無いかい？私も無いけどね。</ja>
+			</dialog>
+			<dialog>
+				<int>153</int>
+				<char>Wizard</char>
+				<pattern>night</pattern>
+				<en>Someone once told me friendship is magic. That's ridiculous. You can't turn people into frogs with friendship.</en>
+				<ja>いつか誰かが友情は魔法だと言っていた。くだらない。友情で人間をカエルに変えれないじゃないか。</ja>
+			</dialog>
+			<dialog>
+				<int>154</int>
+				<char>Wizard</char>
+				<pattern>night</pattern>
+				<en>I can see your future now... You will buy a lot of items from me!</en>
+				<ja>アナタの未来が見えます...私からたくさん買い物をするでしょう！</ja>
+			</dialog>
+			<dialog>
+				<int>155</int>
+				<char>Wizard</char>
+				<pattern>night</pattern>
+				<en>I once tried to bring an Angel Statue to life. It didn't do anything.</en>
+				<ja>むかし、天使の石像に命を吹き込もうとした事がある。何も起こらなかったけど。</ja>
+			</dialog>
+			<dialog>
+				<int>156</int>
+				<char>Mechanic</char>
+				<pattern>rescue</pattern>
+				<en>Thanks!  It was just a matter of time before I ended up like the rest of the skeletons down here.</en>
+				<ja>ありがとう！もう少しでここの骸骨の仲間入りをするところだったわ。</ja>
+			</dialog>
+			<dialog>
+				<int>157</int>
+				<char>Mechanic</char>
+				<pattern>rescue_after</pattern>
+				<en>Hey, watch where you're going! I was over there a little while ago!</en>
+				<ja>ちょっと、どこ見て歩いてるの！？ぶつかりそうだったじゃない！</ja>
+			</dialog>
+			<dialog>
+				<int>158</int>
+				<char>Mechanic</char>
+				<pattern>rescue_after</pattern>
+				<en>Hold on, I've almost got wifi going down here.</en>
+				<ja>待って、もうちょっとでWIFIを繋げてるところなの。</ja>
+			</dialog>
+			<dialog>
+				<int>159</int>
+				<char>Mechanic</char>
+				<pattern>rescue_after</pattern>
+				<en>But I was almost done putting blinking lights up here!</en>
+				<ja>もうちょっとで点滅灯を付け終わるところだったのに！</ja>
+			</dialog>
+			<dialog>
+				<int>160</int>
+				<char>Mechanic</char>
+				<pattern>rescue_after</pattern>
+				<en>DON'T MOVE. I DROPPED MY CONTACT.</en>
+				<ja>動かないで！…コンタクト落としちゃったの。</ja>
+				<description>英語だとおかしく聞こえるらしい。アニメネタ。</description>
+			</dialog>
+			<dialog>
+				<int>161</int>
+				<char>Mechanic</char>
+				<pattern>bloodmoon</pattern>
+				<en>All I want is for the switch to make the... What?!</en>
+				<ja>ただこのスイッチが動けば…。…何か用？</ja>
+			</dialog>
+			<dialog>
+				<int>162</int>
+				<char>Mechanic</char>
+				<pattern>bloodmoon</pattern>
+				<en>Oh, let me guess. Didn't buy enough wire. Idiot.</en>
+				<ja>あら、分かるわよ。ワイヤーを買い忘れたんでしょ。ばか。</ja>
+			</dialog>
+			<dialog>
+				<int>163</int>
+				<char>Mechanic</char>
+				<pattern>bloodmoon</pattern>
+				<en>Just-could you just... Please? Ok? Ok. Ugh.</en>
+				<ja>ちょっと、マジで今は...ダメ？いい？そう。あぁー。</ja>
+			</dialog>
+			<dialog>
+				<int>164</int>
+				<char>Mechanic</char>
+				<pattern>bloodmoon</pattern>
+				<en>I don't appreciate the way you're looking at me. I am WORKING right now.</en>
+				<ja>何ジロジロみてるの？私はいま仕事してるの。</ja>
+			</dialog>
+			<dialog>
+				<int>165</int>
+				<char>Mechanic</char>
+				<pattern>normal</pattern>
+				<en>Hey {Player}, did you just come from {Goblin}'s? Did he say anything about me by chance?</en>
+				<ja>いま {Goblin} の所から来たよね {Player}？私の事なにか言っていなかった？</ja>
+			</dialog>
+			<dialog>
+				<int>166</int>
+				<char>Mechanic</char>
+				<pattern>normal</pattern>
+				<en>{Arms Dealer} keeps talking about pressing my pressure plate. I told him it was for stepping on.</en>
+				<ja>また {Arms Dealer} は感圧板を「押す」なんて言ってる。あれは踏むものだって教えてあげたのに。</ja>
+			</dialog>
+			<dialog>
+				<int>167</int>
+				<char>Mechanic</char>
+				<pattern>normal</pattern>
+				<en>Always buy more wire than you need!</en>
+				<ja>ワイヤーは余分に買っておくようにね！</ja>
+			</dialog>
+			<dialog>
+				<int>168</int>
+				<char>Mechanic</char>
+				<pattern>normal</pattern>
+				<en>Did you make sure your device was plugged in?</en>
+				<ja>「お使いのデバイスが接続されていることを確認しましたか？」ってね。</ja>
+				<description>Windowsの定番のメッセージのこと。</description>
+			</dialog>
+			<dialog>
+				<int>169</int>
+				<char>Mechanic</char>
+				<pattern>normal</pattern>
+				<en>Oh, you know what this house needs? More blinking lights.</en>
+				<ja>この家は何が足りないと思う？点滅灯だよ。</ja>
+			</dialog>
+			<dialog>
+				<int>170</int>
+				<char>Guide</char>
+				<pattern>bloodmoon</pattern>
+				<en>You can tell a Blood Moon is out when the sky turns red. There is something about it that causes monsters to swarm.</en>
+				<ja>ブラッドムーンの時は空が赤くなるよ。モンスターを出現させる何かがあるんだろうね。</ja>
+			</dialog>
+			<dialog>
+				<int>171</int>
+				<char>Guide</char>
+				<pattern>bloodmoon</pattern>
+				<en>Hey, buddy, do you know where any deathweed is? Oh, no reason; just wondering, is all.</en>
+				<ja>デスウィードがどこにあるか知ってるかい？特に理由はないよ、気になっただけさ。</ja>
+			</dialog>
+			<dialog>
+				<int>172</int>
+				<char>Guide</char>
+				<pattern>bloodmoon</pattern>
+				<en>If you were to look up, you'd see that the moon is red right now.</en>
+				<ja>上を見れば分かるけど、月が赤くなっているね。</ja>
+			</dialog>
+			<dialog>
+				<int>173</int>
+				<char>Guide</char>
+				<pattern>normal</pattern>
+				<en>You should stay indoors at night. It is very dangerous to be wandering around in the dark.</en>
+				<ja>夜は屋内に居たほうがいいよ。暗いところをウロウロするのは危険だからね。</ja>
+			</dialog>
+			<dialog>
+				<int>174</int>
+				<char>Guide</char>
+				<pattern>normal</pattern>
+				<en>Greetings, {Player}. Is there something I can help you with?</en>
+				<ja>やぁ、{Player}。何か手伝うことはあるかい？</ja>
+			</dialog>
+			<dialog>
+				<int>175</int>
+				<char>Guide</char>
+				<pattern>normal</pattern>
+				<en>I am here to give you advice on what to do next.  It is recommended that you talk with me anytime you get stuck.</en>
+				<ja>僕は君が次に何をするかアドバイスする為にいるんだ。行き詰ったら僕に話しかけて欲しい。</ja>
+			</dialog>
+			<dialog>
+				<int>176</int>
+				<char>Guide</char>
+				<pattern>normal</pattern>
+				<en>They say there is a person who will tell you how to survive in this land... oh wait. That's me.</en>
+				<ja>この土地で生き残る術を教えてくれる人がどこかにいるらしいよ。…ちょっと待って、それは僕の事だ。</ja>
+			</dialog>
+			<dialog>
+				<int>177</int>
+				<char>Guide</char>
+				<pattern>tips_beginning</pattern>
+				<en>You can use your pickaxe to dig through dirt, and your axe to chop down trees. Just place your cursor over the tile and click!</en>
+				<ja>ピッケルで土を掘れるし、斧で木を切り倒せる。カーソルをマスに合わせてクリックするだけさ。</ja>
+			</dialog>
+			<dialog>
+				<int>178</int>
+				<char>Guide</char>
+				<pattern>tips_beginning</pattern>
+				<en>If you want to survive, you will need to create weapons and shelter. Start by chopping down trees and gathering wood.</en>
+				<ja>生き延びるためには、武器と家が必要になるよ。木を切って木材を集めるところから始めよう。</ja>
+			</dialog>
+			<dialog>
+				<int>179</int>
+				<char>Guide</char>
+				<pattern>tips_beginning</pattern>
+				<en>Press ESC to access your crafting menu. When you have enough wood, create a workbench. This will allow you to create more complicated things, as long as you are standing close to it.</en>
+				<ja>Escを押すとクラフティングメニューが出る。木材を集めて、作業台を作るんだ。作業台を設置すれば、もっと複雑な物を作れるからね。</ja>
+			</dialog>
+			<dialog>
+				<int>180</int>
+				<char>Guide</char>
+				<pattern>tips_beginning</pattern>
+				<en>You can build a shelter by placing wood or other blocks in the world. Don't forget to create and place walls.</en>
+				<ja>木材や他のブロックを置けば家が作れるよ。壁材の作成と設置も忘れずにね。</ja>
+			</dialog>
+			<dialog>
+				<int>181</int>
+				<char>Guide</char>
+				<pattern>tips_beginning</pattern>
+				<en>Once you have a wooden sword, you might try to gather some gel from the slimes. Combine wood and gel to make a torch!</en>
+				<ja>木で剣を作ったら、スライムからジェルを集めよう。木材と合わせると、たいまつが作れるよ。</ja>
+			</dialog>
+			<dialog>
+				<int>182</int>
+				<char>Guide</char>
+				<pattern>tips_beginning</pattern>
+				<en>To interact with backgrounds and placed objects, use a hammer!</en>
+				<ja>設置物を動かしたり壁材を剥がすにはハンマーを使うんだ。</ja>
+			</dialog>
+			<dialog>
+				<int>183</int>
+				<char>Guide</char>
+				<pattern>tips_beginning</pattern>
+				<en>You should do some mining to find metal ore. You can craft very useful things with it.</en>
+				<ja>採掘をして金属の鉱石を探そう。便利な物が色々作れるよ。</ja>
+			</dialog>
+			<dialog>
+				<int>184</int>
+				<char>Guide</char>
+				<pattern>tips_ore</pattern>
+				<en>Now that you have some ore, you will need to turn it into a bar in order to make items with it. This requires a furnace!</en>
+				<ja>鉱石が手に入ったら、アイテムを作るためにインゴットに加工するんだ。そのためには「かまど」が必要だけどね。</ja>
+			</dialog>
+			<dialog>
+				<int>185</int>
+				<char>Guide</char>
+				<pattern>tips_ore</pattern>
+				<en>You can create a furnace out of torches, wood, and stone. Make sure you are standing near a work bench.</en>
+				<ja>かまどは松明、木材、石で作れるよ。作業台の近くに立つのを忘れずに。</ja>
+			</dialog>
+			<dialog>
+				<int>186</int>
+				<char>Guide</char>
+				<pattern>tips_bar</pattern>
+				<en>You will need an anvil to make most things out of metal bars.</en>
+				<ja>大抵の場合、金属のインゴットで物を作るには金床が必要になるよ。</ja>
+			</dialog>
+			<dialog>
+				<int>187</int>
+				<char>Guide</char>
+				<pattern>tips_bar</pattern>
+				<en>Anvils can be crafted out of iron, or purchased from a merchant.</en>
+				<ja>金床は鉄で作るか、商人から買える。</ja>
+			</dialog>
+			<dialog>
+				<int>188</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>Underground are crystal hearts that can be used to increase your max life. You will need a hammer to obtain them.</en>
+				<ja>地下には体力の最大値を上げるクリスタル・ハートがあるんだ。ハンマーで回収できるよ。</ja>
+			</dialog>
+			<dialog>
+				<int>189</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>If you gather 10 fallen stars, they can be combined to create an item that will increase your magic capacity.</en>
+				<ja>流れ星を10個集めると、マナの最大値を上げるアイテムが作れます。</ja>
+			</dialog>
+			<dialog>
+				<int>190</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>Stars fall all over the world at night. They can be used for all sorts of usefull things. If you see one, be sure to grab it because they disappear after sunrise.</en>
+				<ja>夜になると流れ星が世界中に降ってくる。色々な便利な事に使えるよ。夜が明けると消えるから、見つけたら忘れず拾っておこう。</ja>
+			</dialog>
+			<dialog>
+				<int>191</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>There are many different ways you can attract people to move in to our town. They will of course need a home to live in.</en>
+				<ja>自分の作った家に人を呼び込むには、色々な方法があるよ。もちろんきっちりとした住居も必要になるけど。</ja>
+			</dialog>
+			<dialog>
+				<int>192</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>In order for a room to be considered a home, it needs to have a door, chair, table, and a light source.  Make sure the house has walls as well.</en>
+				<ja>部屋を「住居」と呼ぶにはドア、イス、テーブル、明かりが必要になる。あと壁材も貼らないといけないよ。</ja>
+			</dialog>
+			<dialog>
+				<int>193</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>Two people will not live in the same home. Also, if their home is destroyed, they will look for a new place to live.</en>
+				<ja>同じ住居に住めるのは１人だけだ。それと、住居が破壊されたらそこの住人は別の住居を探し始める。</ja>
+			</dialog>
+			<dialog>
+				<int>194</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>You can use the housing interface to assign and view housing. Open you inventory and click the house icon.</en>
+				<ja>ハウジング・インターフェースを使えば部屋の割り振りや住居の確認ができる。インベントリを開いて家のアイコンをクリックするんだ。</ja>
+			</dialog>
+			<dialog>
+				<int>195</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>If you want a merchant to move in, you will need to gather plenty of money. 50 silver coins should do the trick!</en>
+				<ja>商人を呼ぶには、お金がたくさん必要になる。銀貨が５０枚あれば十分だよ！</ja>
+			</dialog>
+			<dialog>
+				<int>196</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>For a nurse to move in, you might want to increase your maximum life.</en>
+				<ja>ナースを呼ぶには、体力の最大値を上げるんだ。</ja>
+			</dialog>
+			<dialog>
+				<int>197</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>If you had a gun, I bet an arms dealer might show up to sell you some ammo!</en>
+				<ja>銃を持っていれば、きっと武器商人が来て銃弾を売ってくれるよ！</ja>
+			</dialog>
+			<dialog>
+				<int>198</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>You should prove yourself by defeating a strong monster. That will get the attention of a dryad.</en>
+				<ja>強いモンスターを倒すことが出来れば、ドライアドの興味をひけるかもね。</ja>
+			</dialog>
+			<dialog>
+				<int>199</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>Make sure to explore the dungeon thoroughly. There may be prisoners held deep within.</en>
+				<ja>ダンジョンはこと細かく探索しよう。深層に囚人がいるかもしれないよ。</ja>
+			</dialog>
+			<dialog>
+				<int>200</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>Perhaps the old man by the dungeon would like to join us now that his curse has been lifted.</en>
+				<ja>呪いが解けた今、ダンジョンに居た老人は味方になってくれるだろうね。</ja>
+			</dialog>
+			<dialog>
+				<int>201</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>Hang on to any bombs you might find. A demolitionist may want to have a look at them.</en>
+				<ja>見つけた爆弾は取っておこう。爆破技師が見に来るかもしれないからね。</ja>
+			</dialog>
+			<dialog>
+				<int>202</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>Are goblins really so different from us that we couldn't live together peacefully?</en>
+				<ja>平和に共存できないほど、ゴブリンと僕たちには本当に違いがあるのかな…。</ja>
+			</dialog>
+			<dialog>
+				<int>203</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>I heard there was a powerfully wizard who lives in these parts.  Make sure to keep an eye out for him next time you go underground.</en>
+				<ja>どこかにすごい魔法使いがいるらしいね。地下にいく時は注意深くしていよう。</ja>
+			</dialog>
+			<dialog>
+				<int>204</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>If you combine lenses at a demon altar, you might be able to find a way to summon a powerful monster. You will want to wait until night before using it, though.</en>
+				<ja>デーモンアルターでレンズを合成すれば、強力なモンスターを呼び出せるよ。夜にならないとだめだけどね。</ja>
+			</dialog>
+			<dialog>
+				<int>205</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>You can create worm bait with rotten chunks and vile powder. Make sure you are in a corrupt area before using it.</en>
+				<ja>腐った肉と不浄の粉を使えばワームのエサが作れるよ。不浄の地にいないと使えないけどね。</ja>
+			</dialog>
+			<dialog>
+				<int>206</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>Demonic altars can usually be found in the corruption. You will need to be near them to craft some items.</en>
+				<ja>デーモンアルターは通常、不浄の地にあるんだ。その近くにいると、ある種のアイテムを作成できるようになる</ja>
+			</dialog>
+			<dialog>
+				<int>207</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>You can make a grappling hook from a hook and 3 chains. Skeletons found deep underground usually carry hooks, and chains can be made from iron bars.</en>
+				<ja>フックとチェーン３つでグラップリングフックが作れる。フックは地下深くにいるスケルトンが持ってるよ。チェーンは鉄のインゴットで作れる。</ja>
+			</dialog>
+			<dialog>
+				<int>208</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>If you see a pot, be sure to smash it open. They contain all sorts of useful supplies.</en>
+				<ja>壷を見つけたら、必ず壊しておこう。便利な物が色々入ってるからね。</ja>
+			</dialog>
+			<dialog>
+				<int>209</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>There is treasure hidden all over the world. Some amazing things can be found deep underground!</en>
+				<ja>世界中に宝が隠されてるんだ。特に地下深くでは凄い物が見つかるよ！</ja>
+			</dialog>
+			<dialog>
+				<int>210</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>Smashing a shadow orb will sometimes cause a meteor to fall out of the sky. Shadow orbs can usually be found in the chasms around corrupt areas.</en>
+				<ja>シャドウオーブを壊すと、たまに隕石が空から降ってくるんだ。シャドウオーブは通常、不浄の地の割れ目の中にあるよ。</ja>
+			</dialog>
+			<dialog>
+				<int>211</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>You should focus on gathering more heart crystals to increase your maximum life.</en>
+				<ja>体力の最大値を上げるために、クリスタルハートを集めた方が良いよ。</ja>
+			</dialog>
+			<dialog>
+				<int>212</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>Your current equipment simply won't do. You need to make better armor.</en>
+				<ja>今の装備のままじゃ無理だよ。より良い防具を作るんだ。</ja>
+			</dialog>
+			<dialog>
+				<int>213</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>I think you are ready for your first major battle. Gather some lenses from the eyeballs at night and take them to a demon altar.</en>
+				<ja>決戦の準備が整ったみたいだね。夜になったらアイボールからレンズを集めて、デーモンアルターに持っていくんだ。</ja>
+			</dialog>
+			<dialog>
+				<int>214</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>You will want to increase your life before facing your next challenge. Fifteen hearts should be enough.</en>
+				<ja>次の試練に向かう前に体力を上げた方がいいよ。ハート１５個もあれば十分だ。</ja>
+			</dialog>
+			<dialog>
+				<int>215</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>The ebonstone in the corruption can be purified using some powder from a dryad, or it can be destroyed with explosives.</en>
+				<ja>不浄の地にあるエボンストーンはドライアドから入手できる浄化の粉で浄化するか、爆発物で破壊するんだ。</ja>
+			</dialog>
+			<dialog>
+				<int>216</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>Your next step should be to explore the corrupt chasms.  Find and destroy any shadow orb you find.</en>
+				<ja>次は割れ目を探索するといいと思う。シャドウオーブを探して出して破壊するんだ。</ja>
+			</dialog>
+			<dialog>
+				<int>217</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>There is a old dungeon not far from here. Now would be a good time to go check it out.</en>
+				<ja>そう遠くない所に古いダンジョンがある。そろそろ見に行っても良いと思うよ。</ja>
+			</dialog>
+			<dialog>
+				<int>218</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>You should make an attempt to max out your available life. Try to gather twenty hearts.</en>
+				<ja>体力を最大値まで上げよう。ハートを２０個集めるんだ。</ja>
+			</dialog>
+			<dialog>
+				<int>219</int>
+				<char>Guide</char>
+				<pattern>tips_?</pattern>
+				<en>There are many treasures to be discovered in the jungle, if you are willing to dig deep enough.</en>
+				<ja>十分深くまで掘る気があるなら、ジャングル内にたくさんの宝があるよ。</ja>
+			</dialog>
+			<dialog>
+				<int>220</int>
+				<char>Guide</char>
+				<pattern>tips_hardmode</pattern>
+				<en>The underworld is made of a material called hellstone. It's perfect for making weapons and armor.</en>
+				<ja>地下世界はヘルストーンと言う素材で構成されている。それは武器や防具を作るのに最適なんだ。</ja>
+			</dialog>
+			<dialog>
+				<int>221</int>
+				<char>Guide</char>
+				<pattern>tips_hardmode</pattern>
+				<en>When you are ready to challenge the keeper of the underworld, you will have to make a living sacrifice. Everything you need for it can be found in the underworld.</en>
+				<ja>地下世界の主に挑戦するには、生贄が必要になるんだ。そのために必要な物は全て地下世界で見つかるよ。</ja>
+			</dialog>
+			<dialog>
+				<int>222</int>
+				<char>Guide</char>
+				<pattern>tips_hardmode</pattern>
+				<en>Make sure to smash any demon altar you can find. Something good is bound to happen if you do!</en>
+				<ja>デーモンアルターを見つけたら必ず破壊しよう。そうすれば何か良い事が起こるよ！</ja>
+			</dialog>
+			<dialog>
+				<int>223</int>
+				<char>Guide</char>
+				<pattern>tips_hardmode</pattern>
+				<en>Souls can sometimes be gathered from fallen creatures in places of extreme light or dark.</en>
+				<ja>極端に明るい・暗い所で倒した生物からは特殊なソウルを回収できる事があるよ。</ja>
+			</dialog>
+			<dialog>
+				<int>224</int>
+				<char>Santa Claus</char>
+				<pattern>all</pattern>
+				<en>Ho ho ho, and a bottle of... Egg Nog!</en>
+				<ja>わっはっはー。エッグノッグでも飲むかい！</ja>
+			</dialog>
+			<dialog>
+				<int>225</int>
+				<char>Santa Claus</char>
+				<pattern>all</pattern>
+				<en>Care to bake me some cookies?</en>
+				<ja>クッキーを焼いてくれないかな？</ja>
+			</dialog>
+			<dialog>
+				<int>226</int>
+				<char>Santa Claus</char>
+				<pattern>all</pattern>
+				<en>What? You thought I wasn't real?</en>
+				<ja>なに？ワシが現実にはいないと思ってたじゃと？</ja>
+			</dialog>
+			<dialog>
+				<int>227</int>
+				<char>Nurse</char>
+				<pattern>heal_verybadly</pattern>
+				<en>I managed to sew your face back on. Be more careful next time.</en>
+				<ja>なんとか顔を縫い合わせることが出来たわ。次からは気をつけてね。</ja>
+			</dialog>
+			<dialog>
+				<int>228</int>
+				<char>Nurse</char>
+				<pattern>heal_badly</pattern>
+				<en>That's probably going to leave a scar.</en>
+				<ja>これは傷痕が残りそうね。</ja>
+			</dialog>
+			<dialog>
+				<int>229</int>
+				<char>Nurse</char>
+				<pattern>heal_middle</pattern>
+				<en>All better. I don't want to see you jumping off anymore cliffs.</en>
+				<ja>ばっちりよ。もう崖から飛び降りないでね。</ja>
+			</dialog>
+			<dialog>
+				<int>230</int>
+				<char>Nurse</char>
+				<pattern>heal_light</pattern>
+				<en>That didn't hurt too bad, now did it?</en>
+				<ja>そんなに痛くなかったでしょ、ね？</ja>
+			</dialog>
+		</dialogs>
+	</lang>
 </language>
