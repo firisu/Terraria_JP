@@ -152,19 +152,6 @@ namespace Terraria_JP
                         }
                     }
                 }
-                // Main.LoadContent()をリネーム
-                else if (type.Name == "Main")
-                {
-                    foreach (var method in type.Methods)
-                    {
-                        if (method.Name == "LoadContent")
-                        {
-                            method.IsPublic = true;
-                            MethodDup(type, method);
-                            break;
-                        }
-                    }
-                }
             }
 
             // ベースアセンブリの全てのクラスをpublicにする
