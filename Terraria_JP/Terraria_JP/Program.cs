@@ -42,6 +42,7 @@ namespace Terraria_JP
                 // スプライトフォントのバックアップとコピー
                 var files = Directory.GetFiles("Terraria_JP/Fonts", "*.xnb");
                 var font_dir = "Content" + Path.DirectorySeparatorChar + "Fonts" + Path.DirectorySeparatorChar;
+                Directory.CreateDirectory(font_dir + "old");
                 foreach (var file in files)
 	            {
                     var file_name = Path.GetFileName(file);
