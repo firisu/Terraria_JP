@@ -107,6 +107,7 @@
       <ProcessorParameters_OutlineColor>0, 0, 0, 255</ProcessorParameters_OutlineColor>
       <ProcessorParameters_Text>©</ProcessorParameters_Text>
       <ProcessorParameters_MessageFilenames>multi_language.txt</ProcessorParameters_MessageFilenames>
+      <ProcessorParameters_HasZenkakuLatinLetters>True</ProcessorParameters_HasZenkakuLatinLetters>
     </Compile>
   </ItemGroup>
   <ItemGroup>

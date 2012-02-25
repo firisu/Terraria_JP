@@ -71,6 +71,8 @@ namespace Terraria
                         {
                             var temp = node["ja"].InnerText;
 
+                            Console.WriteLine("未編集：" + Environment.NewLine + temp);
+
                             // 全角空白文字は改行コードに変換する
                             temp = temp.Replace('　', '\n');
 
@@ -137,7 +139,7 @@ namespace Terraria
                             // 最後に改行コードで連結
                             var new_text = string.Join("\n", strs);
 
-                            Console.WriteLine(new_text);
+                            Console.WriteLine("出力テキスト：" + Environment.NewLine + new_text);
                             return new_text;
                         }
                         else return "";
