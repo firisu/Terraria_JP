@@ -39,6 +39,16 @@ namespace Terraria_JP
                 thread.IsBackground = true;
                 thread.Start();
 
+                // スプライトフォントのバックアップとコピー
+                var files = Directory.GetFiles("Terraria_JP/Fonts", "*.xnb");
+                var font_dir = "Content" + Path.DirectorySeparatorChar + "Fonts" + Path.DirectorySeparatorChar;
+                foreach (var file in files)
+	            {
+                    var file_name = Path.GetFileName(file);
+                    File.Copy(font_dir + file_name, font_dir + "old" + Path.DirectorySeparatorChar + file_name, true);
+                    File.Copy(file, font_dir + file_name, true);
+	            }
+
                 // アセンブリ作成
                 MakeAssembly();
 
@@ -50,7 +60,8 @@ namespace Terraria_JP
                 File.Copy("Terraria_JP/asm_merge.exe", "Terraria.exe", true);
             }
 
-            MessageBox.Show("日本語化が完了しました。" + Environment.NewLine + "オリジナルのファイルはTerraria_old.exeにバックアップ済みです。",
+            MessageBox.Show("日本語化が完了しました。" + Environment.NewLine +
+                "オリジナルのファイルをTerraria_old.exeにバックアップしました。",
                 "完了",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Information);
@@ -133,6 +144,19 @@ namespace Terraria_JP
                     foreach (var method in type.Methods)
                     {
                         if (method.Name == "Init")
+                        {
+                            method.IsPublic = true;
+                            MethodDup(type, method);
+                            break;
+                        }
+                    }
+                }
+                // Main.LoadContent()をリネーム
+                else if (type.Name == "Main")
+                {
+                    foreach (var method in type.Methods)
+                    {
+                        if (method.Name == "LoadContent")
                         {
                             method.IsPublic = true;
                             MethodDup(type, method);

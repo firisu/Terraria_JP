@@ -539,7 +539,7 @@
 				<char>Dryad</char>
 				<pattern>normal</pattern>
 				<en>You must cleanse the world of this corruption.</en>
-				<ja>不浄の地を清めてきて。</ja>
+				<ja>あなたは不浄の地を清めなくちゃならないわ。</ja>
 			</dialog>
 			<dialog>
 				<int>78</int>
@@ -560,7 +560,7 @@
 				<char>Dryad</char>
 				<pattern>normal</pattern>
 				<en>What's this about me having more 'bark' than bite?</en>
-				<ja>骨折り損の草臥れ儲けよ。</ja>
+				<ja>骨折り損のくたびれ儲けよ。</ja>
 			</dialog>
 			<dialog>
 				<int>81</int>
@@ -1110,7 +1110,7 @@
 				<char>Mechanic</char>
 				<pattern>rescue_after</pattern>
 				<en>Hold on, I've almost got wifi going down here.</en>
-				<ja>待って、もうちょっとでWIFIを繋げてるところなの。</ja>
+				<ja>待って、もうちょっとでWIFIを繋がるところなの。</ja>
 			</dialog>
 			<dialog>
 				<int>159</int>

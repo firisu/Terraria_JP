@@ -177,6 +177,7 @@ namespace Terraria
             if (Program.Setting.NoSteam)
             {
                 Steam.SteamInit = true;
+                Console.WriteLine("Steam‰Šú‰»‚ÌŠÖ”");
             }
             else
             {
