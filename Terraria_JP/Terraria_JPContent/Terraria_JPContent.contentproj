@@ -60,42 +60,42 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Combat_Crit.spritefont">
-      <Name>Fonts/Combat_Crit</Name>
+    <None Include="Combat_Crit.spritefont">
+      <Name>Combat_Crit</Name>
       <Importer>FontDescriptionImporter</Importer>
       <Processor>WpfFontDescriptionProcessor</Processor>
       <SubType>Designer</SubType>
       <ProcessorParameters_MessageFilenames>multi_language.txt</ProcessorParameters_MessageFilenames>
-    </Compile>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Combat_Text.spritefont">
-      <Name>Fonts/Combat_Text</Name>
+    <None Include="Combat_Text.spritefont">
+      <Name>Combat_Text</Name>
       <Importer>FontDescriptionImporter</Importer>
       <Processor>WpfFontDescriptionProcessor</Processor>
       <ProcessorParameters_MessageFilenames>multi_language.txt</ProcessorParameters_MessageFilenames>
-    </Compile>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Death_Text.spritefont">
-      <Name>Fonts/Death_Text</Name>
+    <None Include="Death_Text.spritefont">
+      <Name>Death_Text</Name>
       <Importer>FontDescriptionImporter</Importer>
       <Processor>WpfFontDescriptionProcessor</Processor>
       <ProcessorParameters_HasHiragana>True</ProcessorParameters_HasHiragana>
       <ProcessorParameters_MessageFilenames>multi_language.txt</ProcessorParameters_MessageFilenames>
-    </Compile>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Item_Stack.spritefont">
-      <Name>Fonts/Item_Stack</Name>
+    <None Include="Item_Stack.spritefont">
+      <Name>Item_Stack</Name>
       <Importer>FontDescriptionImporter</Importer>
       <Processor>WpfFontDescriptionProcessor</Processor>
       <ProcessorParameters_MessageFilenames>multi_language.txt</ProcessorParameters_MessageFilenames>
-    </Compile>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Mouse_Text.spritefont">
-      <Name>Fonts/Mouse_Text</Name>
+    <None Include="Mouse_Text.spritefont">
+      <Name>Mouse_Text</Name>
       <Importer>FontDescriptionImporter</Importer>
       <Processor>WpfFontDescriptionProcessor</Processor>
       <ProcessorParameters_HasHiragana>True</ProcessorParameters_HasHiragana>
@@ -108,7 +108,7 @@
       <ProcessorParameters_Text>©</ProcessorParameters_Text>
       <ProcessorParameters_MessageFilenames>multi_language.txt</ProcessorParameters_MessageFilenames>
       <ProcessorParameters_HasZenkakuLatinLetters>True</ProcessorParameters_HasZenkakuLatinLetters>
-    </Compile>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.0">

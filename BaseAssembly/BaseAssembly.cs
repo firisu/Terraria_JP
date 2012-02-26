@@ -43,7 +43,7 @@ namespace Terraria
             // Œ³X‚ÌMainŠÖ”‚ğŒÄ‚Ño‚·
             var type = typeof(Terraria.Program);
             var method = type.GetMethod("_Main");
-            method.Invoke(type, new Object[]{args});
+            method.Invoke(type, new object[] { args });
 
             return;
         }

@@ -17,7 +17,7 @@ namespace Terraria_JP
         static void Main(string[] args)
         {
             // デフォルトのTerraria.exeではなかった場合、警告して終了
-            if (!TitleIsTerraria())
+            if (!TitleIsTerraria() && !ExistsBackup())
             {
                 MessageBox.Show("既にTerraria.exeが加工済みです。" + Environment.NewLine + "終了します。",
                     "エラー", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -26,7 +26,14 @@ namespace Terraria_JP
             // デフォルトのTerraria.exeがあれば、新しいアセンブリを作成
             else
             {
-                var result = MessageBox.Show("Terraria.exeを日本語化します。" + Environment.NewLine + "数十秒前後かかります。",
+                string old = "";
+                if (!TitleIsTerraria() && ExistsBackup())
+                {
+                    old = "（バックアップ使用）" + Environment.NewLine;
+                    File.Copy("Terraria_old.exe", "Terraria.exe", true);
+                }
+
+                var result = MessageBox.Show("Terraria.exeを日本語化します。" + Environment.NewLine + old + "数十秒前後かかります。",
                     "注意",
                     MessageBoxButtons.OKCancel,
                     MessageBoxIcon.Exclamation);
@@ -38,17 +45,6 @@ namespace Terraria_JP
                 var thread = new Thread(new ThreadStart(Waiting));
                 thread.IsBackground = true;
                 thread.Start();
-
-                // スプライトフォントのバックアップとコピー
-                var files = Directory.GetFiles("Terraria_JP/Fonts", "*.xnb");
-                var font_dir = "Content" + Path.DirectorySeparatorChar + "Fonts" + Path.DirectorySeparatorChar;
-                Directory.CreateDirectory(font_dir + "old");
-                foreach (var file in files)
-	            {
-                    var file_name = Path.GetFileName(file);
-                    File.Copy(font_dir + file_name, font_dir + "old" + Path.DirectorySeparatorChar + file_name, true);
-                    File.Copy(file, font_dir + file_name, true);
-	            }
 
                 // アセンブリ作成
                 MakeAssembly();
@@ -98,6 +94,12 @@ namespace Terraria_JP
             return false;
         }
 
+        // Terraria_old.exeが存在するか調べる
+        static bool ExistsBackup()
+        {
+            return File.Exists("Terraria_old.exe");
+        }
+
         static void MakeAssembly()
         {
             // 各アセンブリの読み込み
@@ -108,50 +110,18 @@ namespace Terraria_JP
              * Terrariaのアセンブリに以下の加工を行う
              * 　(1) 全てのクラスをpublicにする
              * 　(2) 特定の関数をリネームしてpublicにする
+             * 　(3) 特定の関数の末尾に操作用関数を追加する
              */
             foreach (var type in asm_tera.MainModule.GetTypes())
             {
                 if (!type.IsNested) type.IsPublic = true;
 
                 // Program.Main()をリネーム
-                if (type.Name == "Program")
-                {
-                    foreach (var method in type.Methods)
-                    {
-                        if (method.Name == "Main")
-                        {
-                            method.IsPublic = true;
-                            MethodDup(type, method);
-                            break;
-                        }
-                    }
-                }
+                if (type.Name == "Program") RenameMethod(type, "Main");
                 // Lang.dialog()をリネーム
-                else if (type.Name == "Lang")
-                {
-                    foreach (var method in type.Methods)
-                    {
-                        if (method.Name == "dialog")
-                        {
-                            method.IsPublic = true;
-                            MethodDup(type, method);
-                            break;
-                        }
-                    }
-                }
+                else if (type.Name == "Lang") RenameMethod(type, "dialog");
                 // Steam.Init()をリネーム
-                else if (type.Name == "Steam")
-                {
-                    foreach (var method in type.Methods)
-                    {
-                        if (method.Name == "Init")
-                        {
-                            method.IsPublic = true;
-                            MethodDup(type, method);
-                            break;
-                        }
-                    }
-                }
+                else if (type.Name == "Steam") RenameMethod(type, "Init");
             }
 
             // ベースアセンブリの全てのクラスをpublicにする
@@ -178,10 +148,11 @@ namespace Terraria_JP
             psi.UseShellExecute = false;
             psi.CreateNoWindow = true;
 
-            Process p = Process.Start(psi);
-            //var output = p.StandardOutput.ReadToEnd();
-            p.WaitForExit();
-            //Console.WriteLine("Output: " + Environment.NewLine + output);
+            if (true)
+            {
+                Process p = Process.Start(psi);
+                p.WaitForExit();
+            }
 
             // 一時アセンブリを削除する
             if (true)
@@ -197,37 +168,115 @@ namespace Terraria_JP
                 mod.Architecture = TargetArchitecture.I386;
                 mod.Attributes |= ModuleAttributes.Required32Bit;
             }
+
+            // 一部の特殊なクラスを書き換える
+            var tail = asm_merge.MainModule.GetType("Terraria.Tail");
+
+            foreach (var type in asm_merge.MainModule.GetTypes())
+            {
+                if (type.Name == "Main")
+                {
+                    TailMethod(type, tail, "LoadContent");
+                }
+            }
+
             var fs3 = new FileStream("Terraria_JP/asm_merge.exe", FileMode.Create);
             asm_merge.Write(fs3);
             fs3.Close();
         }
 
-        static void MethodDup(TypeDefinition type, MethodDefinition method)
+        static void TailMethod(TypeDefinition type, TypeDefinition tail, string method_name)
         {
-            var new_method = new MethodDefinition("_" + method.Name, method.Attributes, method.ReturnType);
-
-            // パラメータのコピー
-            foreach (var par in method.Parameters)
+            foreach (var method1 in type.Methods)
             {
-                new_method.Parameters.Add(new ParameterDefinition(par.ParameterType));
+                if (method1.Name == method_name)
+                {
+                    foreach (var method2 in tail.Methods)
+                    {
+                        // 末尾命令の追加
+                        if (method2.Name == "Tail" + method_name)
+                        {
+                            var instr1 = method1.Body.Instructions;
+                            var last = instr1[instr1.Count - 1];
+                            if (last.OpCode == OpCodes.Ret) instr1.Remove(last);
+
+                            foreach (var item in method2.Body.Instructions) instr1.Add(item);
+                        }
+                        // 末尾命令で呼び出されるメソッドの追加
+                        else if (method2.Name == "_" + method_name)
+                        {
+                            var new_method = new MethodDefinition(method2.Name, method2.Attributes, method2.ReturnType);
+
+                            // ローカル変数の追加
+                            foreach (var item in method2.Body.Variables) new_method.Body.Variables.Add(item);
+
+                            // メソッド本体の追加
+                            foreach (var item in method2.Body.Instructions) new_method.Body.Instructions.Add(item);
+
+                            // 新メソッドを追加
+                            type.Methods.Add(new_method);
+                        }
+                    }
+                    return;
+                }
+            }
+        }
+
+        static void RenameMethod(TypeDefinition type, string method_name)
+        {
+            foreach (var method in type.Methods)
+            {
+                if (method.Name == method_name)
+                {
+                    method.IsPublic = true;
+
+                    var new_method = new MethodDefinition("_" + method.Name, method.Attributes, method.ReturnType);
+
+                    // パラメータのコピー
+                    foreach (var par in method.Parameters)
+                    {
+                        new_method.Parameters.Add(new ParameterDefinition(par.ParameterType));
+                    }
+
+                    // ローカル変数のコピー
+                    foreach (var variable in method.Body.Variables)
+                    {
+                        new_method.Body.Variables.Add(new VariableDefinition(variable.VariableType));
+                    }
+
+                    // メソッド本体のコピー
+                    var il = new_method.Body.GetILProcessor();
+                    foreach (var instr in method.Body.Instructions)
+                    {
+                        il.Append(instr);
+                    }
+
+                    // 新しいメソッドを追加する
+                    type.Methods.Add(new_method);
+                    
+                    break;
+                }
+            }
+        }
+
+        static void ConcatMethod(MethodDefinition method_to, MethodDefinition method_from)
+        {
+            var instr1 = method_to.Body.Instructions;
+
+            // 最後がリターン命令だったら削除する（引数無し限定）
+            var last = instr1[instr1.Count - 1];
+            if (last.OpCode == OpCodes.Ret) instr1.Remove(last);
+
+            var local1 = method_to.Body.Variables;
+            foreach (var item in method_from.Body.Variables)
+            {
+                local1.Add(new VariableDefinition(item.VariableType));
             }
 
-            // ローカル変数のコピー
-            foreach (var variable in method.Body.Variables)
+            foreach (var item in method_from.Body.Instructions)
             {
-                new_method.Body.Variables.Add(new VariableDefinition(variable.VariableType));
+                instr1.Add(item);
             }
-
-            // メソッド本体のコピー
-            var il = new_method.Body.GetILProcessor();
-            foreach (var instr in method.Body.Instructions)
-            {
-                il.Append(instr);
-            }
-
-            // 新しいメソッドを追加する
-            type.Methods.Add(new_method);
-            return;
         }
     }
 #endif
