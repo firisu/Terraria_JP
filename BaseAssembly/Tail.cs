@@ -21,15 +21,11 @@ namespace Terraria
     {
         public void TailLoadContent()
         {
-            Console.WriteLine("TailLoadContent");
-
             Type.GetType("Terraria.Main").GetMethod("_LoadContent").Invoke(this, null);
         }
 
         public void _LoadContent()
         {
-            Console.WriteLine("_LoadContent");
-
             // フィールドを取得してくる
             var type = this.GetType();
             
@@ -37,15 +33,10 @@ namespace Terraria
             var fontMouseText = type.GetField("fontMouseText");
             var fontDeathText = type.GetField("fontDeathText");
 
-            Console.WriteLine("スプライトフォント取得済み");
-
             var type_base = base.GetType();
             var Content = (ContentManager)type_base.GetProperty("Content").GetValue(this, null);
 
-            Console.WriteLine("コンテントマネージャー全部取得済み");
-
             var test = (SpriteFont)fontMouseText.GetValue(this);
-            Console.WriteLine("マウスフォントの文字数：" + test.Characters.Count);
 
             // 日本語用のスプライトフォントを読み込ませる
             var font_dir = ".." + Path.DirectorySeparatorChar + "Terraria_JP" + Path.DirectorySeparatorChar + "Fonts" + Path.DirectorySeparatorChar;
@@ -56,13 +47,22 @@ namespace Terraria
             var fontCombatCrit = (SpriteFont)Content.Load<SpriteFont>(font_dir + "Combat_Crit");
 
             test = (SpriteFont)fontMouseText.GetValue(this);
-            Console.WriteLine("マウスフォント（日本語）の文字数：" + test.Characters.Count);
 
             // fontCombatTextは配列なのでセットの仕方が特殊
             type.InvokeMember("fontCombatText", BindingFlags.SetField, null, this, new object[] { 0, fontCombatText });
             type.InvokeMember("fontCombatText", BindingFlags.SetField, null, this, new object[] { 1, fontCombatCrit });
+        }
 
-            Console.WriteLine("日本語スプライト読み込み完了"); 
+        public void TailAffixName()
+        {
+            Type.GetType("Terraria.Lang").GetMethod("_AffixName").Invoke(this, null);
+        }
+
+        public string _AffixName()
+        {
+
+
+            return "";
         }
     }
 }

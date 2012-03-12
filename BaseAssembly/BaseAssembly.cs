@@ -149,6 +149,55 @@ namespace Terraria
 
             return "";
         }
+
+        public static string GetNpcName(int l)
+        {
+            if (xml == null) return "";
+
+            var xpath = "/language/lang/npcnames";
+            var parent = xml.DocumentElement.SelectSingleNode(xpath);
+            foreach (XmlElement node in parent.ChildNodes)
+            {
+                if (node["int"] != null)
+                {
+                    if (int.Parse(node["int"].InnerText) == l)
+                    {
+                        if (node["ja"] != null)
+                        {
+                            return node["ja"].InnerText;
+                        }
+                    }
+                }
+            }
+
+            return "";
+        }
+
+        public static void setLang(Type type)
+        {
+            if (xml == null) return;
+            var xpath = "/language/lang/";
+
+            var strs = new string[] { "misc", "menu", "gen", "inter", "tip" };
+            foreach (var str in strs)
+            {
+                var parent = xml.DocumentElement.SelectSingleNode(xpath + str + "s");
+                foreach (XmlElement node in parent.ChildNodes)
+                {
+                    if (node["int"] != null)
+                    {
+                        uint i = 0;
+                        if (uint.TryParse(node["int"].InnerText, out i))
+                        {
+                            if (node["ja"] != null)
+                            {
+                                type.InvokeMember(str, BindingFlags.SetField, null, null, new object[] { i, node["ja"].InnerText });
+                            }
+                        }
+                    }
+                }
+            }
+        }
     }
 
     public class Lang
@@ -165,6 +214,31 @@ namespace Terraria
 
             // 空でない方のテキストを返す
             return (str_ja == "") ? str_origin : str_ja;
+        }
+
+        public static string npcName(int l)
+        {
+            // オリジナルのテキストを取得
+            var type = typeof(Terraria.Lang);
+            var method = type.GetMethod("_npcName");
+            var str_origin = (string)method.Invoke(null, new object[] { l });
+
+            // XML上のテキストを取得
+            var str_ja = Ja.GetNpcName(l);
+
+            // 空でない方のテキストを返す
+            return (str_ja == "") ? str_origin : str_ja;
+        }
+
+        public static void setLang()
+        {
+            // オリジナルのテキストを取得
+            var type = typeof(Terraria.Lang);
+            var method = type.GetMethod("_setLang");
+            var str_origin = (string)method.Invoke(null, null);
+
+            // XML上のテキストを設定
+            Ja.setLang(type);
         }
     }
 

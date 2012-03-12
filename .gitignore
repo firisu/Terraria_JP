@@ -35,7 +35,7 @@ Ankh.NoLoad
 *.cachefile
 
 #XNA Framework
-WpfFontPipeline.dll
+#WpfFontPipeline.dll
 
 #InstallShield
 [Ss]ingle[Ii]mage/

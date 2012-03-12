@@ -77,13 +77,16 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Death_Text.spritefont">
+    <Compile Include="Death_Text.spritefont">
       <Name>Death_Text</Name>
       <Importer>FontDescriptionImporter</Importer>
       <Processor>WpfFontDescriptionProcessor</Processor>
       <ProcessorParameters_HasHiragana>True</ProcessorParameters_HasHiragana>
       <ProcessorParameters_MessageFilenames>multi_language.txt</ProcessorParameters_MessageFilenames>
-    </None>
+      <ProcessorParameters_HasKatakana>True</ProcessorParameters_HasKatakana>
+      <ProcessorParameters_HasSpecialCharacters>True</ProcessorParameters_HasSpecialCharacters>
+      <ProcessorParameters_HasJisKanjiLevel1>True</ProcessorParameters_HasJisKanjiLevel1>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Item_Stack.spritefont">

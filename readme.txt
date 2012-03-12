@@ -1,11 +1,10 @@
 ================================
-  Terraria_JP  ver 0.1.1.0
+  Terraria_JP  ver 0.2.0.0
 ================================
 
 【 ソフト名 】Terraria_JP
 【 開発環境 】Visual Studio C# 2010 Express
-【バージョン】0.1.1.0
-【最終更新日】2012/02/25
+【最終更新日】2012/03/12
 【ライセンス】MITライセンス（xnb ファイルを除く）
 【公開サイト】https://github.com/firisu/Terraria_JP
 【配布ＵＲＬ】https://github.com/firisu/Terraria_JP/downloads
@@ -74,6 +73,10 @@ ILRepack
 M+フォント
 	Author:  Itou Hiroki
 	License: IPAフォントライセンス等
+
+WpfFontPipeline.dll
+	Author:  @Higeneko
+	License: 改変・再配布自由。ただし変更内容を明示すること。
 
 
 ◇ Tips ◇

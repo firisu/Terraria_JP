@@ -116,11 +116,16 @@ namespace Terraria_JP
             {
                 if (!type.IsNested) type.IsPublic = true;
 
-                // Program.Main()をリネーム
+                // Program.Main
                 if (type.Name == "Program") RenameMethod(type, "Main");
-                // Lang.dialog()をリネーム
-                else if (type.Name == "Lang") RenameMethod(type, "dialog");
-                // Steam.Init()をリネーム
+                // Lang.dialog, Lang.npcName
+                else if (type.Name == "Lang")
+                {
+                    RenameMethod(type, "dialog");
+                    RenameMethod(type, "npcName");
+                    RenameMethod(type, "setLang");
+                }
+                // Steam.Init
                 else if (type.Name == "Steam") RenameMethod(type, "Init");
             }
 
