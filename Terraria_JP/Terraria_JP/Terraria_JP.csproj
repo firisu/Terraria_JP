@@ -147,6 +147,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="language.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <EmbeddedResource Include="ajax-loader.gif" />
     <Content Include="Game.ico" />
     <Content Include="GameThumbnail.png" />
@@ -197,6 +200,7 @@
   <PropertyGroup>
     <PostBuildEvent>copy /y "$(TargetDir)Content\*.xnb" "$(TargetDir)Terraria_JP\Fonts"
 del /q "$(TargetDir)Content\*.xnb"
+move /y "$(TargetDir)language.xml" "$(TargetDir)Terraria_JP\language.xml"
 </PostBuildEvent>
   </PropertyGroup>
   <PropertyGroup>
