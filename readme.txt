@@ -4,7 +4,7 @@
 
 【 ソフト名 】Terraria_JP
 【 開発環境 】Visual Studio C# 2010 Express
-【最終更新日】2012/03/12
+【最終更新日】2012/03/13
 【ライセンス】MITライセンス（xnb ファイルを除く）
 【公開サイト】https://github.com/firisu/Terraria_JP
 【配布ＵＲＬ】https://github.com/firisu/Terraria_JP/downloads
