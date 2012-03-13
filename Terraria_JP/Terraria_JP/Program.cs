@@ -118,15 +118,18 @@ namespace Terraria_JP
 
                 // Program.Main
                 if (type.Name == "Program") RenameMethod(type, "Main");
-                // Lang.dialog, Lang.npcName
+                // Lang.dialog, Lang.npcName, Lang.setLang, Lang.itemName
                 else if (type.Name == "Lang")
                 {
                     RenameMethod(type, "dialog");
                     RenameMethod(type, "npcName");
                     RenameMethod(type, "setLang");
+                    RenameMethod(type, "itemName");
                 }
                 // Steam.Init
                 else if (type.Name == "Steam") RenameMethod(type, "Init");
+                // Item.AffixName
+                else if (type.Name == "Item") RenameMethod(type, "AffixName");
             }
 
             // ベースアセンブリの全てのクラスをpublicにする

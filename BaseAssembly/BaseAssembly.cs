@@ -37,8 +37,41 @@ namespace Terraria
             }
 
             // XMLファイルを読み込む
-            Ja.xml = new XmlDocument();
-            Ja.xml.Load(stream);
+            var xml = new XmlDocument();
+            xml.Load(stream);
+
+            // XMLの内容を文字列に保存する
+            var xpath = "/language/lang";
+            var node_lang = xml.DocumentElement.SelectSingleNode(xpath);
+            Ja.language = new Dictionary<string,Dictionary<int,string>>();
+
+            // 各種ランゲージデータ（items, prefixsなど）を読み込んでいく
+            foreach (XmlNode node1 in node_lang.ChildNodes)
+            {
+                var index = node1.LocalName;
+                var dic = new Dictionary<int, string>();
+                Ja.language.Add(index, dic);
+
+                // 個別のランゲージデータ（item, prefixなど）を読み込む
+                foreach (XmlNode node2 in node1.ChildNodes)
+                {
+                    // 個別の項目がカラで無ければ、辞書に追加
+                    if (node2["int"] != null)
+                    {
+                        int i = 0;
+                        if (int.TryParse(node2["int"].InnerText, out i))
+                        {
+                            if (node2["ja"] != null)
+                            {
+                                dic.Add(i, node2["ja"].InnerText);
+                            }
+                        }
+                    }
+                }
+            }
+
+            // XMLを解放
+            xml = null;
 
             // 元々のMain関数を呼び出す
             var type = typeof(Terraria.Program);
@@ -52,149 +85,173 @@ namespace Terraria
     public static class Ja
     {
         const int MAX_NUM = 27;
-        public static XmlDocument xml;
-        
+        public static Dictionary<string, Dictionary<int, string>> language;
 
         public static string GetDialog(int l)
         {
-            if (xml == null) return "";
+            if (language == null) return "";
 
-            var xpath = "/language/lang/dialogs";
-            var parent = xml.DocumentElement.SelectSingleNode(xpath);
-            foreach (XmlElement node in parent.ChildNodes)
+            // 辞書を取得
+            Dictionary<int, string> dic;
+            if (language.TryGetValue("dialogs", out dic))
             {
-                if (node["int"] != null)
+                // テキストを取得
+                var temp = "";
+                if (dic.TryGetValue(l, out temp))
                 {
-                    if (int.Parse(node["int"].InnerText) == l)
+                    // 全角空白文字は改行コードに変換する
+                    temp = temp.Replace('　', '\n');
+
+                    // 各キャラクターの名前を変換する
+                    var type_main = Type.GetType("Terraria.Main");
+                    var fld_player = type_main.GetField("player");
+                    var fld_myPlayer = type_main.GetField("myPlayer");
+                    var fld_chrName = type_main.GetField("chrName");
+                    var type_player = Type.GetType("Terraria.Player");
+                    var fld_name = type_player.GetField("name");
+
+                    var chrName = (string[])fld_chrName.GetValue(null);
+                    var myPlayer = (int)fld_myPlayer.GetValue(null);
+                    var player = (Object[])fld_player.GetValue(null);
+                    var name = (string)fld_name.GetValue(player[myPlayer]);
+
+                    temp = temp.Replace("{Player}", name);
+                    temp = temp.Replace("{Nurse}", chrName[18]);
+                    temp = temp.Replace("{Mechanic}", chrName[124]);
+                    temp = temp.Replace("{Demolitionist}", chrName[38]);
+                    temp = temp.Replace("{Guide}", chrName[22]);
+                    temp = temp.Replace("{Merchant}", chrName[17]);
+                    temp = temp.Replace("{Arms Dealer}", chrName[19]);
+                    temp = temp.Replace("{Dryad}", chrName[20]);
+                    temp = temp.Replace("{Goblin}", chrName[107]);
+
+                    // 改行コードで一行ごとに分ける
+                    var strs = temp.Split(new char[] { '\n' });
+
+                    // １ラインごとに処理していき、１行２５文字前後を超えたら自動で改行を挿入
+                    for (int x = 0; x < strs.Length; x++)
                     {
-                        if (node["ja"] != null)
+                        if (strs[x].Length <= MAX_NUM) continue;
+
+                        int i = 0;
+                        int j = 0;
+                        bool not_newline = false;
+                        while (true)
                         {
-                            var temp = node["ja"].InnerText;
+                            if (i >= strs[x].Length) break;
+                            char c = strs[x][i];
 
-                            Console.WriteLine("未編集：" + Environment.NewLine + temp);
+                            // 半角文字の間は改行しない
+                            not_newline = (0x20 <= c && c <= 0x7D);
 
-                            // 全角空白文字は改行コードに変換する
-                            temp = temp.Replace('　', '\n');
+                            // 禁則文字の間は改行しない
+                            not_newline = not_newline || c == '。' || c == '、' || c == '「' || c == '」';
 
-                            // 各キャラクターの名前を変換する
-                            var type_main = Type.GetType("Terraria.Main");
-                            var fld_player = type_main.GetField("player");
-                            var fld_myPlayer = type_main.GetField("myPlayer");
-                            var fld_chrName = type_main.GetField("chrName");
-                            var type_player = Type.GetType("Terraria.Player");
-                            var fld_name = type_player.GetField("name");
-
-                            var chrName = (string[])fld_chrName.GetValue(null);
-                            var myPlayer = (int)fld_myPlayer.GetValue(null);
-                            var player = (Object[])fld_player.GetValue(null);
-                            var name = (string)fld_name.GetValue(player[myPlayer]);
-
-                            Console.WriteLine(temp);
-                            temp = temp.Replace("{Player}", name);
-                            temp = temp.Replace("{Nurse}", chrName[18]);
-                            temp = temp.Replace("{Mechanic}", chrName[124]);
-                            temp = temp.Replace("{Demolitionist}", chrName[38]);
-                            temp = temp.Replace("{Guide}", chrName[22]);
-                            temp = temp.Replace("{Merchant}", chrName[17]);
-                            temp = temp.Replace("{Arms Dealer}", chrName[19]);
-                            temp = temp.Replace("{Dryad}", chrName[20]);
-                            temp = temp.Replace("{Goblin}", chrName[107]);
-
-                            // 改行コードで一行ごとに分ける
-                            var strs = temp.Split(new char[] { '\n' });
-
-                            // １ラインごとに処理していき、１行２５文字前後を超えたら自動で改行を挿入
-                            for (int x = 0; x < strs.Length; x++)
+                            // 半角文字でなく、最大文字数を超えていたら改行
+                            if (!not_newline && (j / 2) >= (MAX_NUM - 1))
                             {
-                                if (strs[x].Length <= MAX_NUM) continue;
-
-                                int i = 0;
-                                int j = 0;
-                                bool flag_hankaku = false;
-                                while (true)
-                                {
-                                    if (i >= strs[x].Length) break;
-
-                                    // 半角文字の間は改行しない
-                                    flag_hankaku = (0x20 <= strs[x][i] && strs[x][i] <= 0x7D);
-
-                                    // 半角文字でなく、最大文字数を超えていたら改行
-                                    if (!flag_hankaku && (j/2) >= (MAX_NUM - 1))
-                                    {
-                                        strs[x] = strs[x].Insert(i, "\n");
-                                        Console.WriteLine("１ライン超えた：" + strs[x]);
-                                        j = 0;
-                                        i += 2;
-                                        continue;
-                                    }
-
-                                    i++;
-
-                                    // 半角なら１文字分、全角なら２文字分としてカウント
-                                    if (flag_hankaku) j++;
-                                    else j += 2;
-                                }
+                                strs[x] = strs[x].Insert(i, "\n");
+                                Console.WriteLine("１ライン超えた：" + strs[x]);
+                                j = 0;
+                                i += 2;
+                                continue;
                             }
 
-                            // 最後に改行コードで連結
-                            var new_text = string.Join("\n", strs);
+                            i++;
 
-                            Console.WriteLine("出力テキスト：" + Environment.NewLine + new_text);
-                            return new_text;
+                            // 半角なら１文字分、全角なら２文字分としてカウント
+                            if (not_newline) j++;
+                            else j += 2;
                         }
-                        else return "";
                     }
+
+                    // 最後に改行コードで連結
+                    var new_text = string.Join("\n", strs);
+                    return new_text;
                 }
             }
-
             return "";
         }
 
         public static string GetNpcName(int l)
         {
-            if (xml == null) return "";
+            if (language == null) return "";
 
-            var xpath = "/language/lang/npcnames";
-            var parent = xml.DocumentElement.SelectSingleNode(xpath);
-            foreach (XmlElement node in parent.ChildNodes)
+            // 辞書を取得
+            Dictionary<int, string> dic;
+            if (language.TryGetValue("npcnames", out dic))
             {
-                if (node["int"] != null)
+                // テキストを取得
+                var name = "";
+                if (dic.TryGetValue(l, out name))
                 {
-                    if (int.Parse(node["int"].InnerText) == l)
-                    {
-                        if (node["ja"] != null)
-                        {
-                            return node["ja"].InnerText;
-                        }
-                    }
+                    return name;
                 }
             }
-
             return "";
         }
 
+        public static string GetItemName(int l)
+        {
+            if (language == null) return "";
+
+            // 辞書を取得
+            Dictionary<int, string> dic;
+            if (language.TryGetValue("items", out dic))
+            {
+                // テキストを取得
+                var name = "";
+                if (dic.TryGetValue(l, out name))
+                {
+                    return name;
+                }
+            }
+            return "";
+        }
+
+        public static string GetPrefix(int l)
+        {
+            if (language == null) return "";
+
+            // 辞書を取得
+            Dictionary<int, string> dic;
+            if (language.TryGetValue("prefixs", out dic))
+            {
+                // テキストを取得
+                var name = "";
+                if (dic.TryGetValue(l, out name))
+                {
+                    return name;
+                }
+            }
+            return "";
+        }
+
+        // Terraria.Langのstaticメンバーに値をセットする
         public static void setLang(Type type)
         {
-            if (xml == null) return;
-            var xpath = "/language/lang/";
+            if (language == null) return;
 
-            var strs = new string[] { "misc", "menu", "gen", "inter", "tip" };
+            var strs = new string[] { "misc", "menu", "gen", "inter", "tip"};
             foreach (var str in strs)
             {
-                var parent = xml.DocumentElement.SelectSingleNode(xpath + str + "s");
-                foreach (XmlElement node in parent.ChildNodes)
+                // 存在する辞書のみ取得
+                Dictionary<int, string> dic;
+                if (language.TryGetValue(str+"s", out dic))
                 {
-                    if (node["int"] != null)
+                    foreach (var pair in dic)
                     {
-                        uint i = 0;
-                        if (uint.TryParse(node["int"].InnerText, out i))
+                        if (pair.Key < 0)
                         {
-                            if (node["ja"] != null)
-                            {
-                                type.InvokeMember(str, BindingFlags.SetField, null, null, new object[] { i, node["ja"].InnerText });
-                            }
+                            Console.WriteLine("キー値がマイナスです。キー：{0}　バリュー：{1}", pair.Key, pair.Value);
+                            continue;
                         }
+                        type.InvokeMember(str, BindingFlags.SetField, null, null, new object[] { pair.Key, pair.Value });
                     }
+                }
+                else
+                {
+                    Console.WriteLine("辞書データが見つかりません：" + str);
                 }
             }
         }
@@ -239,6 +296,49 @@ namespace Terraria
 
             // XML上のテキストを設定
             Ja.setLang(type);
+        }
+
+        public static string itemName(int l)
+        {
+            // オリジナルのテキストを取得
+            var type = typeof(Terraria.Lang);
+            var method = type.GetMethod("_itemName");
+            var str_origin = (string)method.Invoke(null, new object[] { l });
+
+            // XML上のテキストを取得
+            var str_ja = Ja.GetItemName(l);
+
+            // 空でない方のテキストを返す
+            return (str_ja == "") ? str_origin : str_ja;
+        }
+    }
+
+    public class Item
+    {
+        public string AffixName()
+        {
+            // オリジナルのテキストを取得
+            var type = typeof(Terraria.Item);
+            var method = type.GetMethod("_AffixName");
+            var str_origin = (string)method.Invoke(this, null);
+
+            // プレフィクスとアイテムのフィールドを取得
+            var f_prefix = type.GetField("prefix");
+            var f_name = type.GetField("name");
+
+            // フィールドから値を取得
+            var prefix = Ja.GetPrefix((byte)f_prefix.GetValue(this));
+            var name = (string)f_name.GetValue(this);
+
+            // 名前が空でなければ、日本語を返す
+            if (name != "")
+            {
+                if (prefix != "") return name + "（" + prefix + "）";
+                else return name;
+            }
+
+            // 名前が空ならば、元の名前を返す
+            return str_origin;
         }
     }
 
