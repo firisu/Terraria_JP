@@ -6,8 +6,9 @@
 【 開発環境 】Visual Studio C# 2010 Express
 【最終更新日】2012/03/13
 【ライセンス】MITライセンス（xnb ファイルを除く）
-【公開サイト】https://github.com/firisu/Terraria_JP
 【配布ＵＲＬ】https://github.com/firisu/Terraria_JP/downloads
+【 連 絡 先 】http://www58.atwiki.jp/terrariajp/
+
 
 --------------------------------
 
@@ -43,6 +44,11 @@
     ・Terraria_JP.exe
     ・Terraria_JP
 (2) Terraria_old.exe を Terraria.exe にリネームしてください。
+
+
+◇ バグを見つけたら ◇
+http://www58.atwiki.jp/terrariajp/
+上記のサイトにてコメントを付けてください。
 
 
 ◇ 免責 ◇
