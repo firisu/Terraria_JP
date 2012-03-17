@@ -60,12 +60,17 @@ namespace Terraria
 
         public void _Initialize()
         {
-            // これを追加しないと一部のアイテムの処理がおかしくなる
+            // これを追加しないとアイテム名の処理が上手くいかない
             var type = Type.GetType("Terraria.Main");
             for (int i = 0; i < 604; i++)
             {
                 type.InvokeMember("itemName", BindingFlags.SetField, null, this, new object[] { i, Terraria.Ja.GetItemName_en(i) });
             }
+
+            // レシピ作成を再度行う
+            type = Type.GetType("Terraria.Recipe");
+            type.InvokeMember("numRecipes", BindingFlags.SetField, null, null, new object[] { 0 });
+            var mi = type.GetMethod("SetupRecipes").Invoke(null, null);
         }
     }
 }

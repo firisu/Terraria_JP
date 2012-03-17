@@ -1,5 +1,5 @@
 ================================
-  Terraria_JP  ver 0.3.0.0
+  Terraria_JP  ver 0.3.0.1
 ================================
 
 【 ソフト名 】Terraria_JP
@@ -8,7 +8,7 @@
 【ライセンス】MITライセンス（xnb ファイルを除く）
 【配布ＵＲＬ】https://github.com/firisu/Terraria_JP/downloads
 【 連 絡 先 】http://www58.atwiki.jp/terrariajp/
-
+【 変更履歴 】https://github.com/firisu/Terraria_JP/blob/master/changelog.txt
 
 --------------------------------
 
