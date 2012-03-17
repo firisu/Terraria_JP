@@ -52,6 +52,9 @@ namespace Terraria
                 var dic = new Dictionary<int, string>();
                 Ja.language.Add(index, dic);
 
+                var dic_en = new Dictionary<int, string>();
+                Ja.language.Add(index + "_en", dic_en);
+
                 // 個別のランゲージデータ（item, prefixなど）を読み込む
                 foreach (XmlNode node2 in node1.ChildNodes)
                 {
@@ -64,6 +67,10 @@ namespace Terraria
                             if (node2["ja"] != null)
                             {
                                 dic.Add(i, node2["ja"].InnerText);
+                            }
+                            if (node2["en"] != null)
+                            {
+                                dic_en.Add(i, node2["en"].InnerText);
                             }
                         }
                     }
@@ -209,6 +216,24 @@ namespace Terraria
             return "";
         }
 
+        public static string GetItemName_en(int l)
+        {
+            if (language == null) return "";
+
+            // 辞書を取得
+            Dictionary<int, string> dic;
+            if (language.TryGetValue("items_en", out dic))
+            {
+                // テキストを取得
+                var name = "";
+                if (dic.TryGetValue(l, out name))
+                {
+                    return name;
+                }
+            }
+            return "";
+        }
+
         public static string GetPrefix(int l)
         {
             if (language == null) return "";
@@ -216,6 +241,60 @@ namespace Terraria
             // 辞書を取得
             Dictionary<int, string> dic;
             if (language.TryGetValue("prefixs", out dic))
+            {
+                // テキストを取得
+                var name = "";
+                if (dic.TryGetValue(l, out name))
+                {
+                    return name;
+                }
+            }
+            return "";
+        }
+
+        public static string GetTooltip(int l)
+        {
+            if (language == null) return "";
+
+            // 辞書を取得
+            Dictionary<int, string> dic;
+            if (language.TryGetValue("tooltips", out dic))
+            {
+                // テキストを取得
+                var name = "";
+                if (dic.TryGetValue(l, out name))
+                {
+                    return name;
+                }
+            }
+            return "";
+        }
+
+        public static string GetTooltip2(int l)
+        {
+            if (language == null) return "";
+
+            // 辞書を取得
+            Dictionary<int, string> dic;
+            if (language.TryGetValue("tooltip2s", out dic))
+            {
+                // テキストを取得
+                var name = "";
+                if (dic.TryGetValue(l, out name))
+                {
+                    return name;
+                }
+            }
+            return "";
+        }
+
+        public static string GetSetBonus(int l)
+        {
+            if (language == null) return "";
+
+            // 辞書を取得
+            Dictionary<int, string> dic;
+            if (language.TryGetValue("setbonuses", out dic))
             {
                 // テキストを取得
                 var name = "";
@@ -307,6 +386,48 @@ namespace Terraria
 
             // XML上のテキストを取得
             var str_ja = Ja.GetItemName(l);
+
+            // 空でない方のテキストを返す
+            return (str_ja == "") ? str_origin : str_ja;
+        }
+
+        public static string toolTip(int l)
+        {
+            // オリジナルのテキストを取得
+            var type = typeof(Terraria.Lang);
+            var method = type.GetMethod("_toolTip");
+            var str_origin = (string)method.Invoke(null, new object[] { l });
+
+            // XML上のテキストを取得
+            var str_ja = Ja.GetTooltip(l);
+
+            // 空でない方のテキストを返す
+            return (str_ja == "") ? str_origin : str_ja;
+        }
+
+        public static string toolTip2(int l)
+        {
+            // オリジナルのテキストを取得
+            var type = typeof(Terraria.Lang);
+            var method = type.GetMethod("_toolTip2");
+            var str_origin = (string)method.Invoke(null, new object[] { l });
+
+            // XML上のテキストを取得
+            var str_ja = Ja.GetTooltip2(l);
+
+            // 空でない方のテキストを返す
+            return (str_ja == "") ? str_origin : str_ja;
+        }
+
+        public static string setBonus(int l)
+        {
+            // オリジナルのテキストを取得
+            var type = typeof(Terraria.Lang);
+            var method = type.GetMethod("_setBonus");
+            var str_origin = (string)method.Invoke(null, new object[] { l });
+
+            // XML上のテキストを取得
+            var str_ja = Ja.GetSetBonus(l);
 
             // 空でない方のテキストを返す
             return (str_ja == "") ? str_origin : str_ja;

@@ -3915,5656 +3915,3148 @@
         <int>-24</int>
         <en>Yellow Phasesaber</en>
         <ja>イエローフェーズセーバー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-23</int>
         <en>White Phasesaber</en>
         <ja>ホワイトフェーズセーバー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-22</int>
         <en>Purple Phasesaber</en>
         <ja>パープルフェーズセーバー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-21</int>
         <en>Green Phasesaber</en>
         <ja>グリーンフェーズセーバー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-20</int>
         <en>Red Phasesaber</en>
         <ja>レッドフェーズセーバー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-19</int>
         <en>Blue Phasesaber</en>
         <ja>ブルーフェーズセーバー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-18</int>
         <en>Copper Bow</en>
         <ja>カッパーボウ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-17</int>
         <en>Copper Hammer</en>
         <ja>カッパーハンマー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-16</int>
         <en>Copper Axe</en>
         <ja>カッパーアックス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-15</int>
         <en>Copper Shortsword</en>
         <ja>カッパーショートソード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-14</int>
         <en>Copper Broadsword</en>
         <ja>カッパーブロードソード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-13</int>
         <en>Copper Pickaxe</en>
         <ja>カッパーピッケル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-12</int>
         <en>Silver Bow</en>
         <ja>シルバーボウ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-11</int>
         <en>Silver Hammer</en>
         <ja>シルバーハンマー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-10</int>
         <en>Silver Axe</en>
         <ja>シルバーアックス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-9</int>
         <en>Silver Shortsword</en>
         <ja>シルバーショートソード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-8</int>
         <en>Silver Broadsword</en>
         <ja>シルバーブロードソード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-7</int>
         <en>Silver Pickaxe</en>
         <ja>シルバーピッケル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-6</int>
         <en>Gold Bow</en>
         <ja>ゴールドボウ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-5</int>
         <en>Gold Hammer</en>
         <ja>ゴールドハンマー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-4</int>
         <en>Gold Axe</en>
         <ja>ゴールドアックス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-3</int>
         <en>Gold Shortsword</en>
         <ja>ゴールドショートソード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-2</int>
         <en>Gold Broadsword</en>
         <ja>ゴールドブロードソード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>-1</int>
         <en>Gold Pickaxe</en>
         <ja>ゴールドピッケル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>1</int>
         <en>Iron Pickaxe</en>
         <ja>アイアンピッケル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>2</int>
         <en>Dirt Block</en>
         <ja>土のブロック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>3</int>
         <en>Stone Block</en>
         <ja>石のブロック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>4</int>
         <en>Iron Broadsword</en>
         <ja>アイアンブロードソード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>5</int>
         <en>Mushroom</en>
         <ja>キノコ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>6</int>
         <en>Iron Shortsword</en>
         <ja>アイアンショートソード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>7</int>
         <en>Iron Hammer</en>
         <ja>アイアンハンマー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>8</int>
         <en>Torch</en>
         <ja>トーチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>9</int>
         <en>Wood</en>
         <ja>木</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>10</int>
         <en>Iron Axe</en>
         <ja>アイアンアックス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>11</int>
         <en>Iron Ore</en>
         <ja>鉄の鉱石</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>12</int>
         <en>Copper Ore</en>
         <ja>銅の鉱石</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>13</int>
         <en>Gold Ore</en>
         <ja>金の鉱石</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>14</int>
         <en>Silver Ore</en>
         <ja>銀の鉱石</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>15</int>
         <en>Copper Watch</en>
         <ja>カッパーウォッチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>16</int>
         <en>Silver Watch</en>
         <ja>シルバーウォッチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>17</int>
         <en>Gold Watch</en>
         <ja>ゴールドウォッチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>18</int>
         <en>Depth Meter</en>
         <ja>デプスメータ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>19</int>
         <en>Gold Bar</en>
         <ja>ゴールドインゴット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>20</int>
         <en>Copper Bar</en>
         <ja>カッパーインゴット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>21</int>
         <en>Silver Bar</en>
         <ja>シルバーインゴット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>22</int>
         <en>Iron Bar</en>
         <ja>アイアンインゴット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>23</int>
         <en>Gel</en>
         <ja>ジェル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>24</int>
         <en>Wooden Sword</en>
         <ja>ウッドゥンソード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>25</int>
         <en>Wooden Door</en>
         <ja>木のドア</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>26</int>
         <en>Stone Wall</en>
         <ja>石の壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>27</int>
         <en>Acorn</en>
         <ja>どんぐり</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>28</int>
         <en>Lesser Healing Potion</en>
         <ja>レッサーヒーリングポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>29</int>
         <en>Life Crystal</en>
         <ja>ライフクリスタル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>30</int>
         <en>Dirt Wall</en>
         <ja>土の壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>31</int>
         <en>Bottle</en>
         <ja>ボトル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>32</int>
         <en>Wooden Table</en>
         <ja>木のテーブル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>33</int>
         <en>Furnace</en>
         <ja>かまど</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>34</int>
         <en>Wooden Chair</en>
         <ja>木のイス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>35</int>
         <en>Iron Anvil</en>
         <ja>鉄の金床</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>36</int>
         <en>Work Bench</en>
         <ja>ワークベンチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>37</int>
         <en>Goggles</en>
         <ja>ゴーグル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>38</int>
         <en>Lens</en>
         <ja>レンズ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>39</int>
         <en>Wooden Bow</en>
         <ja>ウッドゥンボウ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>40</int>
         <en>Wooden Arrow</en>
         <ja>ウッドゥンアロー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>41</int>
         <en>Flaming Arrow</en>
         <ja>フレイムアロー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>42</int>
         <en>Shuriken</en>
         <ja>手裏剣</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>43</int>
         <en>Suspicious Looking Eye</en>
         <ja>怪しい目玉</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>44</int>
         <en>Demon Bow</en>
         <ja>デーモンボウ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>45</int>
         <en>War Axe of the Night</en>
         <ja>ナイトアックス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>46</int>
         <en>Light's Bane</en>
         <ja>ライツベイン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>47</int>
         <en>Unholy Arrow</en>
         <ja>アンホーリーアロー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>48</int>
         <en>Chest</en>
         <ja>木箱</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>49</int>
         <en>Band of Regeneration</en>
         <ja>リジェネバンド</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>50</int>
         <en>Magic Mirror</en>
         <ja>マジックミラー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>51</int>
         <en>Jester's Arrow</en>
         <ja>ジェスターアロー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>52</int>
         <en>Angel Statue</en>
         <ja>天使の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>53</int>
         <en>Cloud in a Bottle</en>
         <ja>ボトルクラウド</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>54</int>
         <en>Hermes Boots</en>
         <ja>エルメスの靴</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>55</int>
         <en>Enchanted Boomerang</en>
         <ja>エンチャントブーメラン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>56</int>
         <en>Demonite Ore</en>
         <ja>デモナイトの鉱石</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>57</int>
         <en>Demonite Bar</en>
         <ja>デモナイトインゴット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>58</int>
         <en>Heart</en>
         <ja>ハート</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>59</int>
         <en>Corrupt Seeds</en>
         <ja>不浄の種</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>60</int>
         <en>Vile Mushroom</en>
         <ja>毒キノコ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>61</int>
         <en>Ebonstone Block</en>
         <ja>エボンストーンブロック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>62</int>
         <en>Grass Seeds</en>
         <ja>草の種</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>63</int>
         <en>Sunflower</en>
         <ja>ヒマワリ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>64</int>
         <en>Vilethorn</en>
         <ja>ヴァイルソーン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>65</int>
         <en>Starfury</en>
         <ja>スターフューリー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>66</int>
         <en>Purification Powder</en>
         <ja>浄化の粉</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>67</int>
         <en>Vile Powder</en>
         <ja>不浄の粉</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>68</int>
         <en>Rotten Chunk</en>
         <ja>腐った肉</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>69</int>
         <en>Worm Tooth</en>
         <ja>ワームの歯</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>70</int>
         <en>Worm Food</en>
         <ja>ワームのエサ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>71</int>
         <en>Copper Coin</en>
         <ja>カッパーコイン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>72</int>
         <en>Silver Coin</en>
         <ja>シルバーコイン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>73</int>
         <en>Gold Coin</en>
         <ja>ゴールドコイン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>74</int>
         <en>Platinum Coin</en>
         <ja>プラチナコイン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>75</int>
         <en>Fallen Star</en>
         <ja>流れ星</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>76</int>
         <en>Copper Greaves</en>
         <ja>カッパーグリーブス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>77</int>
         <en>Iron Greaves</en>
         <ja>アイアングリーブス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>78</int>
         <en>Silver Greaves</en>
         <ja>シルバーグリーブス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>79</int>
         <en>Gold Greaves</en>
         <ja>ゴールドグリーブス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>80</int>
         <en>Copper Chainmail</en>
         <ja>カッパーチェインメイル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>81</int>
         <en>Iron Chainmail</en>
         <ja>アイアンチェインメイル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>82</int>
         <en>Silver Chainmail</en>
         <ja>シルバーチェインメイル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>83</int>
         <en>Gold Chainmail</en>
         <ja>ゴールドチェインメイル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>84</int>
         <en>Grappling Hook</en>
         <ja>グラップリングフック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>85</int>
         <en>Iron Chain</en>
         <ja>アイアンチェイン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>86</int>
         <en>Shadow Scale</en>
         <ja>シャドウスケール</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>87</int>
         <en>Piggy Bank</en>
         <ja>豚の貯金箱</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>88</int>
         <en>Mining Helmet</en>
         <ja>マイニングヘルメット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>89</int>
         <en>Copper Helmet</en>
         <ja>カッパーヘルメット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>90</int>
         <en>Iron Helmet</en>
         <ja>アイアンヘルメット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>91</int>
         <en>Silver Helmet</en>
         <ja>シルバーヘルメット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>92</int>
         <en>Gold Helmet</en>
         <ja>ゴールドヘルメット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>93</int>
         <en>Wood Wall</en>
         <ja>木の壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>94</int>
         <en>Wood Platform</en>
         <ja>木の足場</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>95</int>
         <en>Flintlock Pistol</en>
         <ja>フリントロックピストル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>96</int>
         <en>Musket</en>
         <ja>マスケット銃</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>97</int>
         <en>Musket Ball</en>
         <ja>マスケットの弾</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>98</int>
         <en>Minishark</en>
         <ja>ミニシャーク</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>99</int>
         <en>Iron Bow</en>
         <ja>アイアンボウ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>100</int>
         <en>Shadow Greaves</en>
         <ja>シャドウグリーブス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>101</int>
         <en>Shadow Scalemail</en>
         <ja>シャドウスケイルメイル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>102</int>
         <en>Shadow Helmet</en>
         <ja>シャドウヘルメット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>103</int>
         <en>Nightmare Pickaxe</en>
         <ja>ナイトメアピッケル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>104</int>
         <en>The Breaker</en>
         <ja>ブレイカー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>105</int>
         <en>Candle</en>
         <ja>キャンドル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>106</int>
         <en>Copper Chandelier</en>
         <ja>カッパーシャンデリア</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>107</int>
         <en>Silver Chandelier</en>
         <ja>シルバーシャンデリア</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>108</int>
         <en>Gold Chandelier</en>
         <ja>ゴールドシャンデリア</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>109</int>
         <en>Mana Crystal</en>
         <ja>マナクリスタル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>110</int>
         <en>Lesser Mana Potion</en>
         <ja>レッサーマナポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>111</int>
         <en>Band of Starpower</en>
         <ja>スターパワーバンド</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>112</int>
         <en>Flower of Fire</en>
         <ja>ファイアフラワー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>113</int>
         <en>Magic Missile</en>
         <ja>マジックミサイル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>114</int>
         <en>Dirt Rod</en>
         <ja>ダートロッド</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>115</int>
         <en>Orb of Light</en>
         <ja>ライトオーブ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>116</int>
         <en>Meteorite</en>
         <ja>メテオライト</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>117</int>
         <en>Meteorite Bar</en>
         <ja>メテオライトインゴット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>118</int>
         <en>Hook</en>
         <ja>フック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>119</int>
         <en>Flamarang</en>
         <ja>フレイムブーメラン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>120</int>
         <en>Molten Fury</en>
         <ja>モルトンフューリー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>121</int>
         <en>Fiery Greatsword</en>
         <ja>ファイアグレートソード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>122</int>
         <en>Molten Pickaxe</en>
         <ja>モルトンピッケル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>123</int>
         <en>Meteor Helmet</en>
         <ja>メテオヘルメット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>124</int>
         <en>Meteor Suit</en>
         <ja>メテオスーツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>125</int>
         <en>Meteor Leggings</en>
         <ja>メテオレギンス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>126</int>
         <en>Bottled Water</en>
         <ja>ボトルウォーター</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>127</int>
         <en>Space Gun</en>
         <ja>スペースガン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>128</int>
         <en>Rocket Boots</en>
         <ja>ロケットブーツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>129</int>
         <en>Gray Brick</en>
         <ja>グレーブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>130</int>
         <en>Gray Brick Wall</en>
         <ja>グレーブリックの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>131</int>
         <en>Red Brick</en>
         <ja>レッドブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>132</int>
         <en>Red Brick Wall</en>
         <ja>レッドブリックの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>133</int>
         <en>Clay Block</en>
         <ja>粘土のブロック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>134</int>
         <en>Blue Brick</en>
         <ja>ブルーブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>135</int>
         <en>Blue Brick Wall</en>
         <ja>ブルーブリックの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>136</int>
         <en>Chain Lantern</en>
         <ja>チェーンランタン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>137</int>
         <en>Green Brick</en>
         <ja>グリーンブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>138</int>
         <en>Green Brick Wall</en>
         <ja>グリーンブリックの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>139</int>
         <en>Pink Brick</en>
         <ja>ピンクブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>140</int>
         <en>Pink Brick Wall</en>
         <ja>ピンクブリックの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>141</int>
         <en>Gold Brick</en>
         <ja>ゴールドブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>142</int>
         <en>Gold Brick Wall</en>
         <ja>ゴールドブリックの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>143</int>
         <en>Silver Brick</en>
         <ja>シルバーブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>144</int>
         <en>Silver Brick Wall</en>
         <ja>シルバーブリックの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>145</int>
         <en>Copper Brick</en>
         <ja>カッパーブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>146</int>
         <en>Copper Brick Wall</en>
         <ja>カッパーブリックの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>147</int>
         <en>Spike</en>
         <ja>スパイク</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>148</int>
         <en>Water Candle</en>
         <ja>ウォーターキャンドル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>149</int>
         <en>Book</en>
         <ja>本</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>150</int>
         <en>Cobweb</en>
         <ja>クモの巣</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>151</int>
         <en>Necro Helmet</en>
         <ja>ネクロヘルメット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>152</int>
         <en>Necro Breastplate</en>
         <ja>ネクロプレート</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>153</int>
         <en>Necro Greaves</en>
         <ja>ネクログリーブス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>154</int>
         <en>Bone</en>
         <ja>骨</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>155</int>
         <en>Muramasa</en>
         <ja>ムラマサ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>156</int>
         <en>Cobalt Shield</en>
         <ja>コバルトシールド</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>157</int>
         <en>Aqua Scepter</en>
         <ja>アクアセプター</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>158</int>
         <en>Lucky Horseshoe</en>
         <ja>幸運のヒヅメ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
         <description>幸運の蹄鉄でもラッキーホースシューでもアホっぽい…。どうすりゃいいのやら。</description>
       </item>
       <item>
         <int>159</int>
         <en>Shiny Red Balloon</en>
         <ja>レッドバルーン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>160</int>
         <en>Harpoon</en>
         <ja>ハープーン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>161</int>
         <en>Spiky Ball</en>
         <ja>スパイクボール</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>162</int>
         <en>Ball O' Hurt</en>
         <ja>ボールオブハート</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>163</int>
         <en>Blue Moon</en>
         <ja>ブルームーン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>164</int>
         <en>Handgun</en>
         <ja>ハンドガン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>165</int>
         <en>Water Bolt</en>
         <ja>ウォーターボルト</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>166</int>
         <en>Bomb</en>
         <ja>ボム</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>167</int>
         <en>Dynamite</en>
         <ja>ダイナマイト</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>168</int>
         <en>Grenade</en>
         <ja>グレネード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>169</int>
         <en>Sand Block</en>
         <ja>サンドブロック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>170</int>
         <en>Glass</en>
         <ja>ガラス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>171</int>
         <en>Sign</en>
         <ja>看板</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>172</int>
         <en>Ash Block</en>
         <ja>灰のブロック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>173</int>
         <en>Obsidian</en>
         <ja>黒曜石</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>174</int>
         <en>Hellstone</en>
         <ja>ヘルストーン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>175</int>
         <en>Hellstone Bar</en>
         <ja>ヘルストーンインゴット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>176</int>
         <en>Mud Block</en>
         <ja>泥のブロック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>177</int>
         <en>Sapphire</en>
         <ja>サファイア</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>178</int>
         <en>Ruby</en>
         <ja>ルビー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>179</int>
         <en>Emerald</en>
         <ja>エメラルド</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>180</int>
         <en>Topaz</en>
         <ja>トパーズ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>181</int>
         <en>Amethyst</en>
         <ja>アメジスト</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>182</int>
         <en>Diamond</en>
         <ja>ダイアモンド</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>183</int>
         <en>Glowing Mushroom</en>
         <ja>光るキノコ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>184</int>
         <en>Star</en>
         <ja>星</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>185</int>
         <en>Ivy Whip</en>
         <ja>アイビーウィップ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>186</int>
         <en>Breathing Reed</en>
         <ja>竹筒</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>187</int>
         <en>Flipper</en>
         <ja>フリッパー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>188</int>
         <en>Healing Potion</en>
         <ja>ヒーリングポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>189</int>
         <en>Mana Potion</en>
         <ja>マナポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>190</int>
         <en>Blade of Grass</en>
         <ja>グラスブレード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>191</int>
         <en>Thorn Chakram</en>
         <ja>ソーンチャクラム</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>192</int>
         <en>Obsidian Brick</en>
         <ja>オブシディアンブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>193</int>
         <en>Obsidian Skull</en>
         <ja>オブシディアンスカル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>194</int>
         <en>Mushroom Grass Seeds</en>
         <ja>キノコ菌床の種</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>195</int>
         <en>Jungle Grass Seeds</en>
         <ja>ジャングルの草の種</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>196</int>
         <en>Wooden Hammer</en>
         <ja>ウッドゥンハンマー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>197</int>
         <en>Star Cannon</en>
         <ja>スターキャノン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>198</int>
         <en>Blue Phaseblade</en>
         <ja>ブルーフェーズブレード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>199</int>
         <en>Red Phaseblade</en>
         <ja>レッドフェーズブレード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>200</int>
         <en>Green Phaseblade</en>
         <ja>グリーンフェーズブレード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>201</int>
         <en>Purple Phaseblade</en>
         <ja>パープルフェーズブレード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>202</int>
         <en>White Phaseblade</en>
         <ja>ホワイトフェーズブレード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>203</int>
         <en>Yellow Phaseblade</en>
         <ja>イエローフェーズブレード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>204</int>
         <en>Meteor Hamaxe</en>
         <ja>メテオハンマーアックス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>205</int>
         <en>Empty Bucket</en>
         <ja>空のバケツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>206</int>
         <en>Water Bucket</en>
         <ja>水入りバケツt</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>207</int>
         <en>Lava Bucket</en>
         <ja>溶岩入りバケツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>208</int>
         <en>Jungle Rose</en>
         <ja>ジャングルローズ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>209</int>
         <en>Stinger</en>
         <ja>スティンガー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>210</int>
         <en>Vine</en>
         <ja>ツタ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>211</int>
         <en>Feral Claws</en>
         <ja>野生の爪</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>212</int>
         <en>Anklet of the Wind</en>
         <ja>ウィンドアンクレット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>213</int>
         <en>Staff of Regrowth</en>
         <ja>成長の杖</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>214</int>
         <en>Hellstone Brick</en>
         <ja>ヘルストーンブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>215</int>
         <en>Whoopie Cushion</en>
         <ja>ブーブークッション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>216</int>
         <en>Shackle</en>
         <ja>手枷</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>217</int>
         <en>Molten Hamaxe</en>
         <ja>モルトンハンマーアックス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>218</int>
         <en>Flamelash</en>
         <ja>フレイムラッシュ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>219</int>
         <en>Phoenix Blaster</en>
         <ja>フェニックスブラスター</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>220</int>
         <en>Sunfury</en>
         <ja>サンフューリー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>221</int>
         <en>Hellforge</en>
         <ja>ヘルフォージ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>222</int>
         <en>Clay Pot</en>
         <ja>クレイポット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>223</int>
         <en>Nature's Gift</en>
         <ja>ネイチャーギフト</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>224</int>
         <en>Bed</en>
         <ja>ベッド</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>225</int>
         <en>Silk</en>
         <ja>シルク</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>226</int>
         <en>Lesser Restoration Potion</en>
         <ja>レッサーリストアポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>227</int>
         <en>Restoration Potion</en>
         <ja>リストアポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>228</int>
         <en>Jungle Hat</en>
         <ja>ジャングルハット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>229</int>
         <en>Jungle Shirt</en>
         <ja>ジャングルシャツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>230</int>
         <en>Jungle Pants</en>
         <ja>ジャングルパンツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>231</int>
         <en>Molten Helmet</en>
         <ja>モルトンヘルメット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>232</int>
         <en>Molten Breastplate</en>
         <ja>モルトンプレート</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>233</int>
         <en>Molten Greaves</en>
         <ja>モルトングリーブス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>234</int>
         <en>Meteor Shot</en>
         <ja>メテオショット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>235</int>
         <en>Sticky Bomb</en>
         <ja>スティッキーボム</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>236</int>
         <en>Black Lens</en>
         <ja>ブレックレンズ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>237</int>
         <en>Sunglasses</en>
         <ja>サングラス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>238</int>
         <en>Wizard Hat</en>
         <ja>ウィザードハット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>239</int>
         <en>Top Hat</en>
         <ja>トップハット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>240</int>
         <en>Tuxedo Shirt</en>
         <ja>タキシードシャツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>241</int>
         <en>Tuxedo Pants</en>
         <ja>タキシードパンツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>242</int>
         <en>Summer Hat</en>
         <ja>サマーハット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>243</int>
         <en>Bunny Hood</en>
         <ja>バニーフード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>244</int>
         <en>Plumber's Hat</en>
         <ja>配管工の帽子</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>245</int>
         <en>Plumber's Shirt</en>
         <ja>配管工のシャツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>246</int>
         <en>Plumber's Pants</en>
         <ja>配管工のパンツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>247</int>
         <en>Hero's Hat</en>
         <ja>ヒーローの帽子</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>248</int>
         <en>Hero's Shirt</en>
         <ja>ヒーローのシャツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>249</int>
         <en>Hero's Pants</en>
         <ja>ヒーローのパンツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>250</int>
         <en>Fish Bowl</en>
         <ja>金魚鉢</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>251</int>
         <en>Archaeologist's Hat</en>
         <ja>考古学者の帽子</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>252</int>
         <en>Archaeologist's Jacket</en>
         <ja>考古学者のジャケット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>253</int>
         <en>Archaeologist's Pants</en>
         <ja>考古学者のパンツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>254</int>
         <en>Black Dye</en>
         <ja>黒の染料</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>255</int>
         <en>Green Dye</en>
         <ja>緑の染料</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>256</int>
         <en>Ninja Hood</en>
         <ja>ニンジャフード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>257</int>
         <en>Ninja Shirt</en>
         <ja>ニンジャシャツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>258</int>
         <en>Ninja Pants</en>
         <ja>ニンジャパンツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>259</int>
         <en>Leather</en>
         <ja>レザー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>260</int>
         <en>Red Hat</en>
         <ja>レッドハット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>261</int>
         <en>Goldfish</en>
         <ja>金魚</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>262</int>
         <en>Robe</en>
         <ja>ローブ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>263</int>
         <en>Robot Hat</en>
         <ja>ロボットハット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>264</int>
         <en>Gold Crown</en>
         <ja>ゴールドクラウン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>265</int>
         <en>Hellfire Arrow</en>
         <ja>ヘルファイアアロー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>266</int>
         <en>Sandgun</en>
         <ja>サンドガン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>267</int>
         <en>Guide Voodoo Doll</en>
         <ja>ガイドのブードゥー人形</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>268</int>
         <en>Diving Helmet</en>
         <ja>ダイビングヘルメット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>269</int>
         <en>Familiar Shirt</en>
         <ja>馴染みのシャツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>270</int>
         <en>Familiar Pants</en>
         <ja>馴染みのパンツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>271</int>
         <en>Familiar Wig</en>
         <ja>馴染みのカツラ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>272</int>
         <en>Demon Scythe</en>
         <ja>デーモンサイス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>273</int>
         <en>Night's Edge</en>
         <ja>ナイトエッジ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>274</int>
         <en>Dark Lance</en>
         <ja>ダークランス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>275</int>
         <en>Coral</en>
         <ja>サンゴ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>276</int>
         <en>Cactus</en>
         <ja>サボテン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>277</int>
         <en>Trident</en>
         <ja>トライデント</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>278</int>
         <en>Silver Bullet</en>
         <ja>銀の弾</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>279</int>
         <en>Throwing Knife</en>
         <ja>スローイングナイフ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>280</int>
         <en>Spear</en>
         <ja>スピア</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>281</int>
         <en>Blowpipe</en>
         <ja>吹き筒</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>282</int>
         <en>Glowstick</en>
         <ja>グロウスティック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>283</int>
         <en>Seed</en>
         <ja>種</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>284</int>
         <en>Wooden Boomerang</en>
         <ja>ウッドゥンブーメラン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>285</int>
         <en>Aglet</en>
         <ja>アグレット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>286</int>
         <en>Sticky Glowstick</en>
         <ja>スティッキーグロウスティック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>287</int>
         <en>Poisoned Knife</en>
         <ja>ポイズンナイフ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>288</int>
         <en>Obsidian Skin Potion</en>
         <ja>オブシディアンスキンポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>289</int>
         <en>Regeneration Potion</en>
         <ja>リジェネーレーションポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>290</int>
         <en>Swiftness Potion</en>
         <ja>スウィフトポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>291</int>
         <en>Gills Potion</en>
         <ja>ギルスポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>292</int>
         <en>Ironskin Potion</en>
         <ja>アイアンスキンポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>293</int>
         <en>Mana Regeneration Potion</en>
         <ja>マナリジェネレーションポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>294</int>
         <en>Magic Power Potion</en>
         <ja>マジックパワーポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>295</int>
         <en>Featherfall Potion</en>
         <ja>フェザーフォールポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>296</int>
         <en>Spelunker Potion</en>
         <ja>スペランカーポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>297</int>
         <en>Invisibility Potion</en>
         <ja>インビジリティーポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>298</int>
         <en>Shine Potion</en>
         <ja>シャインポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>299</int>
         <en>Night Owl Potion</en>
         <ja>ナイトオウルポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>300</int>
         <en>Battle Potion</en>
         <ja>バトルポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>301</int>
         <en>Thorns Potion</en>
         <ja>ソーンポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>302</int>
         <en>Water Walking Potion</en>
         <ja>ウォーターウォーキングポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>303</int>
         <en>Archery Potion</en>
         <ja>アーチェリーポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>304</int>
         <en>Hunter Potion</en>
         <ja>ハンターポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>305</int>
         <en>Gravitation Potion</en>
         <ja>グラビテーションポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>306</int>
         <en>Gold Chest</en>
         <ja>金の宝箱</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>307</int>
         <en>Daybloom Seeds</en>
         <ja>デイブルームの種</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>308</int>
         <en>Moonglow Seeds</en>
         <ja>ムーングロウの種</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>309</int>
         <en>Blinkroot Seeds</en>
         <ja>ブリンクルートの種</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>310</int>
         <en>Deathweed Seeds</en>
         <ja>デスウィードの種</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>311</int>
         <en>Waterleaf Seeds</en>
         <ja>ウォーターリーフの種</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>312</int>
         <en>Fireblossom Seeds</en>
         <ja>ファイアブロッサムの種</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>313</int>
         <en>Daybloom</en>
         <ja>デイブルーム</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>314</int>
         <en>Moonglow</en>
         <ja>ムーングロウ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>315</int>
         <en>Blinkroot</en>
         <ja>ブリンクルート</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>316</int>
         <en>Deathweed</en>
         <ja>デスウィード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>317</int>
         <en>Waterleaf</en>
         <ja>ウォーターリーフ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>318</int>
         <en>Fireblossom</en>
         <ja>ファイアブロッサム</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>319</int>
         <en>Shark Fin</en>
         <ja>サメのヒレ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>320</int>
         <en>Feather</en>
         <ja>羽</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>321</int>
         <en>Tombstone</en>
         <ja>墓石</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>322</int>
         <en>Mime Mask</en>
         <ja>マイムマスク</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>323</int>
         <en>Antlion Mandible</en>
         <ja>アントライオンの顎</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>324</int>
         <en>Illegal Gun Parts</en>
         <ja>違法パーツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>325</int>
         <en>The Doctor's Shirt</en>
         <ja>ドクターのシャツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>326</int>
         <en>The Doctor's Pants</en>
         <ja>ドクターのパンツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>327</int>
         <en>Golden Key</en>
         <ja>ゴールデンキー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>328</int>
         <en>Shadow Chest</en>
         <ja>シャドウチェスト</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>329</int>
         <en>Shadow Key</en>
         <ja>シャドウキー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>330</int>
         <en>Obsidian Brick Wall</en>
         <ja>オブシディアンブリックの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>331</int>
         <en>Jungle Spores</en>
         <ja>ジャングルの胞子</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>332</int>
         <en>Loom</en>
         <ja>織機</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>333</int>
         <en>Piano</en>
         <ja>ピアノ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>334</int>
         <en>Dresser</en>
         <ja>ドレッサー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>335</int>
         <en>Bench</en>
         <ja>ベンチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>336</int>
         <en>Bathtub</en>
         <ja>バスタブ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>337</int>
         <en>Red Banner</en>
         <ja>レッドバナー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>338</int>
         <en>Green Banner</en>
         <ja>グリーンバナー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>339</int>
         <en>Blue Banner</en>
         <ja>ブルーバナー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>340</int>
         <en>Yellow Banner</en>
         <ja>イエローバナー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>341</int>
         <en>Lamp Post</en>
         <ja>ランプ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>342</int>
         <en>Tiki Torch</en>
         <ja>ティキトーチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>343</int>
         <en>Barrel</en>
         <ja>樽</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>344</int>
         <en>Chinese Lantern</en>
         <ja>提灯</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>345</int>
         <en>Cooking Pot</en>
         <ja>クッキングポット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>346</int>
         <en>Safe</en>
         <ja>金庫</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>347</int>
         <en>Skull Lantern</en>
         <ja>スカルランタン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>348</int>
         <en>Trash Can</en>
         <ja>ゴミ箱</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>349</int>
         <en>Candelabra</en>
         <ja>燭台</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>350</int>
         <en>Pink Vase</en>
         <ja>ピンクの壷</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>351</int>
         <en>Mug</en>
         <ja>マグ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>352</int>
         <en>Keg</en>
         <ja>小樽</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>353</int>
         <en>Ale</en>
         <ja>エール</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>354</int>
         <en>Bookcase</en>
         <ja>本棚</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>355</int>
         <en>Throne</en>
         <ja>王座</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>356</int>
         <en>Bowl</en>
         <ja>ボウル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>357</int>
         <en>Bowl of Soup</en>
         <ja>ボウルスープ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>358</int>
         <en>Toilet</en>
         <ja>トイレ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>359</int>
         <en>Grandfather Clock</en>
         <ja>柱時計</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>360</int>
         <en>Armor Statue</en>
         <ja>鎧の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>361</int>
         <en>Goblin Battle Standard</en>
         <ja>ゴブリンの軍旗</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>362</int>
         <en>Tattered Cloth</en>
         <ja>ボロ布</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>363</int>
         <en>Sawmill</en>
         <ja>製材ノコギリ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>364</int>
         <en>Cobalt Ore</en>
         <ja>コバルトの鉱石</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>365</int>
         <en>Mythril Ore</en>
         <ja>ミスリルの鉱石</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>366</int>
         <en>Adamantite Ore</en>
         <ja>アダマンタイトの鉱石</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>367</int>
         <en>Pwnhammer</en>
         <ja>ポウンハンマー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>368</int>
         <en>Excalibur</en>
         <ja>エクスカリバー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>369</int>
         <en>Hallowed Seeds</en>
         <ja>聖なる種</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>370</int>
         <en>Ebonsand Block</en>
         <ja>エボンサンドブロック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>371</int>
         <en>Cobalt Hat</en>
         <ja>コバルトハット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>372</int>
         <en>Cobalt Helmet</en>
         <ja>コバルトヘルメット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>373</int>
         <en>Cobalt Mask</en>
         <ja>コバルトマスク</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>374</int>
         <en>Cobalt Breastplate</en>
         <ja>コバルトプレート</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>375</int>
         <en>Cobalt Leggings</en>
         <ja>コバルトレギンス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>376</int>
         <en>Mythril Hood</en>
         <ja>ミスリルフード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>377</int>
         <en>Mythril Helmet</en>
         <ja>ミスリルヘルメット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>378</int>
         <en>Mythril Hat</en>
         <ja>ミスリルハット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>379</int>
         <en>Mythril Chainmail</en>
         <ja>ミスリルチェインメイル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>380</int>
         <en>Mythril Greaves</en>
         <ja>ミスリルグリーブス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>381</int>
         <en>Cobalt Bar</en>
         <ja>コバルトインゴット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>382</int>
         <en>Mythril Bar</en>
         <ja>ミスリルインゴット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>383</int>
         <en>Cobalt Chainsaw</en>
         <ja>コバルトチェーンソー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>384</int>
         <en>Mythril Chainsaw</en>
         <ja>ミスリルチェーンソー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>385</int>
         <en>Cobalt Drill</en>
         <ja>コバルトドリル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>386</int>
         <en>Mythril Drill</en>
         <ja>ミスリルドリル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>387</int>
         <en>Adamantite Chainsaw</en>
         <ja>アダマンタイトチェーンソー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>388</int>
         <en>Adamantite Drill</en>
         <ja>アダマンタイトドリル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>389</int>
         <en>Dao of Pow</en>
         <ja>ダオオブポウ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>390</int>
         <en>Mythril Halberd</en>
         <ja>ミスリルハルバード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>391</int>
         <en>Adamantite Bar</en>
         <ja>アダマンタイトインゴット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>392</int>
         <en>Glass Wall</en>
         <ja>ガラスの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>393</int>
         <en>Compass</en>
         <ja>コンパス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>394</int>
         <en>Diving Gear</en>
         <ja>ダイビングギア</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>395</int>
         <en>GPS</en>
         <ja>GPS</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>396</int>
         <en>Obsidian Horseshoe</en>
         <ja>オブシディアンの蹄</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>397</int>
         <en>Obsidian Shield</en>
         <ja>オブシディアンシールド</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>398</int>
         <en>Tinkerer's Workshop</en>
         <ja>修理屋の工作台</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
         <description>難しい訳語No.1かもしれない。</description>
       </item>
       <item>
         <int>399</int>
         <en>Cloud in a Balloon</en>
         <ja>バルーンクラウド</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>400</int>
         <en>Adamantite Headgear</en>
         <ja>アダマンタイトヘッドギア</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>401</int>
         <en>Adamantite Helmet</en>
         <ja>アダマンタイトヘルメット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>402</int>
         <en>Adamantite Mask</en>
         <ja>アダマンタイトマスク</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>403</int>
         <en>Adamantite Breastplate</en>
         <ja>アダマンタイトプレート</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>404</int>
         <en>Adamantite Leggings</en>
         <ja>アダマンタイトレギンス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>405</int>
         <en>Spectre Boots</en>
         <ja>スペクターブーツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>406</int>
         <en>Adamantite Glaive</en>
         <ja>アダマンタイトグレイブ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>407</int>
         <en>Toolbelt</en>
         <ja>ツールベルト</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>408</int>
         <en>Pearlsand Block</en>
         <ja>パールサンドブロック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>409</int>
         <en>Pearlstone Block</en>
         <ja>パールストーンブロック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>410</int>
         <en>Mining Shirt</en>
         <ja>マイニングシャツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>411</int>
         <en>Mining Pants</en>
         <ja>マイニングパンツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>412</int>
         <en>Pearlstone Brick</en>
         <ja>パールストーンブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>413</int>
         <en>Iridescent Brick</en>
         <ja>虹色のブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>414</int>
         <en>Mudstone Block</en>
         <ja>泥岩のブロック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>415</int>
         <en>Cobalt Brick</en>
         <ja>コバルトブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>416</int>
         <en>Mythril Brick</en>
         <ja>ミスリルブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>417</int>
         <en>Pearlstone Brick Wall</en>
         <ja>パールストーンブリックの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>418</int>
         <en>Iridescent Brick Wall</en>
         <ja>虹色のブリックの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>419</int>
         <en>Mudstone Brick Wall</en>
         <ja>泥岩のブリックの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>420</int>
         <en>Cobalt Brick Wall</en>
         <ja>コバルトブリックの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>421</int>
         <en>Mythril Brick Wall</en>
         <ja>ミスリルブリックの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>422</int>
         <en>Holy Water</en>
         <ja>ホーリーウォーター</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>423</int>
         <en>Unholy Water</en>
         <ja>アンホーリーウォーター</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>424</int>
         <en>Silt Block</en>
         <ja>沈泥のブロック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>425</int>
         <en>Fairy Bell</en>
         <ja>フェアリーベル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>426</int>
         <en>Breaker Blade</en>
         <ja>ブレイカーブレード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>427</int>
         <en>Blue Torch</en>
         <ja>ブルートーチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>428</int>
         <en>Red Torch</en>
         <ja>レッドトーチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>429</int>
         <en>Green Torch</en>
         <ja>グリーントーチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>430</int>
         <en>Purple Torch</en>
         <ja>パープルトーチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>431</int>
         <en>White Torch</en>
         <ja>ホワイトトーチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>432</int>
         <en>Yellow Torch</en>
         <ja>イエロートーチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>433</int>
         <en>Demon Torch</en>
         <ja>デーモントーチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>434</int>
         <en>Clockwork Assault Rifle</en>
         <ja>クロックワークアサルトライフル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>435</int>
         <en>Cobalt Repeater</en>
         <ja>コバルトリピーター</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>436</int>
         <en>Mythril Repeater</en>
         <ja>ミスリルリピーター</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>437</int>
         <en>Dual Hook</en>
         <ja>デュアルフック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>438</int>
         <en>Star Statue</en>
         <ja>星の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>439</int>
         <en>Sword Statue</en>
         <ja>剣の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>440</int>
         <en>Slime Statue</en>
         <ja>スライムの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>441</int>
         <en>Goblin Statue</en>
         <ja>ゴブリンの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>442</int>
         <en>Shield Statue</en>
         <ja>シールドの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>443</int>
         <en>Bat Statue</en>
         <ja>コウモリの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>444</int>
         <en>Fish Statue</en>
         <ja>サカナの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>445</int>
         <en>Bunny Statue</en>
         <ja>ウサギの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>446</int>
         <en>Skeleton Statue</en>
         <ja>スケルトンの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>447</int>
         <en>Reaper Statue</en>
         <ja>死神の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>448</int>
         <en>Woman Statue</en>
         <ja>女の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>449</int>
         <en>Imp Statue</en>
         <ja>インプの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>450</int>
         <en>Gargoyle Statue</en>
         <ja>ガーゴイルの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>451</int>
         <en>Gloom Statue</en>
         <ja>ドクロの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
         <description>「暗黒の石像」より自然…だと思う</description>
       </item>
       <item>
         <int>452</int>
         <en>Hornet Statue</en>
         <ja>ホーネットの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>453</int>
         <en>Bomb Statue</en>
         <ja>ボムの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>454</int>
         <en>Crab Statue</en>
         <ja>カニの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>455</int>
         <en>Hammer Statue</en>
         <ja>ハンマーの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>456</int>
         <en>Potion Statue</en>
         <ja>ポーションの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>457</int>
         <en>Spear Statue</en>
         <ja>槍の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>458</int>
         <en>Cross Statue</en>
         <ja>十字架の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>459</int>
         <en>Jellyfish Statue</en>
         <ja>クラゲの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>460</int>
         <en>Bow Statue</en>
         <ja>弓の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>461</int>
         <en>Boomerang Statue</en>
         <ja>ブーメランの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>462</int>
         <en>Boot Statue</en>
         <ja>靴の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>463</int>
         <en>Chest Statue</en>
         <ja>木箱の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>464</int>
         <en>Bird Statue</en>
         <ja>鳥の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>465</int>
         <en>Axe Statue</en>
         <ja>斧の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>466</int>
         <en>Corrupt Statue</en>
         <ja>不浄の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>467</int>
         <en>Tree Statue</en>
         <ja>木の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>468</int>
         <en>Anvil Statue</en>
         <ja>金床の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>469</int>
         <en>Pickaxe Statue</en>
         <ja>ピッケルの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>470</int>
         <en>Mushroom Statue</en>
         <ja>キノコの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>471</int>
         <en>Eyeball Statue</en>
         <ja>目玉の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>472</int>
         <en>Pillar Statue</en>
         <ja>柱の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>473</int>
         <en>Heart Statue</en>
         <ja>ハートの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>474</int>
         <en>Pot Statue</en>
         <ja>帽子の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>475</int>
         <en>Sunflower Statue</en>
         <ja>ヒマワリの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>476</int>
         <en>King Statue</en>
         <ja>王の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>477</int>
         <en>Queen Statue</en>
         <ja>女王の石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>478</int>
         <en>Pirahna Statue</en>
         <ja>ピラニアの石像</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>479</int>
         <en>Planked Wall</en>
         <ja>厚板の壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
         <description>plankedを直訳しても意味不明なので、割りと悪あがき的な意訳</description>
       </item>
       <item>
         <int>480</int>
         <en>Wooden Beam</en>
         <ja>木の梁</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>481</int>
         <en>Adamantite Repeater</en>
         <ja>アダマンタイトリピーター</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>482</int>
         <en>Adamantite Sword</en>
         <ja>アダマンタイトソード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>483</int>
         <en>Cobalt Sword</en>
         <ja>コバルトソード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>484</int>
         <en>Mythril Sword</en>
         <ja>ミスリルソード</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>485</int>
         <en>Moon Charm</en>
         <ja>ムーンチャーム</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>486</int>
         <en>Ruler</en>
         <ja>定規</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>487</int>
         <en>Crystal Ball</en>
         <ja>水晶玉</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>488</int>
         <en>Disco Ball</en>
         <ja>ディスコボール</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>489</int>
         <en>Sorcerer Emblem</en>
         <ja>ソーサラーエンブレム</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>490</int>
         <en>Warrior Emblem</en>
         <ja>ウォーリアーエンブレム</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>491</int>
         <en>Ranger Emblem</en>
         <ja>レンジャーエンブレム</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>492</int>
         <en>Demon Wings</en>
         <ja>デーモンウィング</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>493</int>
         <en>Angel Wings</en>
         <ja>エンジェルウィング</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>494</int>
         <en>Magical Harp</en>
         <ja>マジカルハープ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>495</int>
         <en>Rainbow Rod</en>
         <ja>レインボーロッド</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>496</int>
         <en>Ice Rod</en>
         <ja>アイスロッド</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>497</int>
         <en>Neptune's Shell</en>
         <ja>ネプチューンシェル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>498</int>
         <en>Mannequin</en>
         <ja>マネキン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>499</int>
         <en>Greater Healing Potion</en>
         <ja>グレーターヒーリングポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>500</int>
         <en>Greater Mana Potion</en>
         <ja>グレーターマナポーション</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>501</int>
         <en>Pixie Dust</en>
         <ja>妖精の粉</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>502</int>
         <en>Crystal Shard</en>
         <ja>クリスタルの欠片</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>503</int>
         <en>Clown Hat</en>
         <ja>クラウンハット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>504</int>
         <en>Clown Shirt</en>
         <ja>Clown シャツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>505</int>
         <en>Clown Pants</en>
         <ja>クラウンパンツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>506</int>
         <en>Flamethrower</en>
         <ja>火炎放射器</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>507</int>
         <en>Bell</en>
         <ja>ベル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>508</int>
         <en>Harp</en>
         <ja>ハープ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>509</int>
         <en>Wrench</en>
         <ja>レンチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>510</int>
         <en>Wire Cutter</en>
         <ja>ワイヤーカッター</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>511</int>
         <en>Active Stone Block</en>
         <ja>アクティブストーン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>512</int>
         <en>Inactive Stone Block</en>
         <ja>インアクティブストーン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>513</int>
         <en>Lever</en>
         <ja>レバー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>514</int>
         <en>Laser Rifle</en>
         <ja>レーザーライフル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>515</int>
         <en>Crystal Bullet</en>
         <ja>クリスタルの弾</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>516</int>
         <en>Holy Arrow</en>
         <ja>ホーリーアロー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>517</int>
         <en>Magic Dagger</en>
         <ja>マジックダガー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>518</int>
         <en>Crystal Storm</en>
         <ja>クリスタルストーム</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>519</int>
         <en>Cursed Flames</en>
         <ja>カースドフレイム</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>520</int>
         <en>Soul of Light</en>
         <ja>ソウルオブライト</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>521</int>
         <en>Soul of Night</en>
         <ja>ソウルオブナイト</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>522</int>
         <en>Cursed Flame</en>
         <ja>カースドフレイム</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>523</int>
         <en>Cursed Torch</en>
         <ja>カースドトーチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>524</int>
         <en>Adamantite Forge</en>
         <ja>アダマンタイトフォージ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>525</int>
         <en>Mythril Anvil</en>
         <ja>ミスリルの金床</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>526</int>
         <en>Unicorn Horn</en>
         <ja>ユニコーンの角</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>527</int>
         <en>Dark Shard</en>
         <ja>闇の欠片</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>528</int>
         <en>Light Shard</en>
         <ja>光の欠片</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>529</int>
         <en>Red Pressure Plate</en>
         <ja>レッドプレート</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>530</int>
         <en>Wire</en>
         <ja>ワイヤー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>531</int>
         <en>Spell Tome</en>
         <ja>スペルブック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
         <description>日本語に大きな本を示す訳語はないのでシンプルにブックとした。</description>
       </item>
       <item>
         <int>532</int>
         <en>Star Cloak</en>
         <ja>スタークローク</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>533</int>
         <en>Megashark</en>
         <ja>メガシャーク</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>534</int>
         <en>Shotgun</en>
         <ja>ショットガン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>535</int>
         <en>Philosopher's Stone</en>
         <ja>賢者の石</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>536</int>
         <en>Titan Glove</en>
         <ja>タイアングローブ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>537</int>
         <en>Cobalt Naginata</en>
         <ja>コバルトナギナタ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>538</int>
         <en>Switch</en>
         <ja>スイッチ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>539</int>
         <en>Dart Trap</en>
         <ja>ダーツトラップ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>540</int>
         <en>Boulder</en>
         <ja>大岩</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>541</int>
         <en>Green Pressure Plate</en>
         <ja>グリーンプレート</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>542</int>
         <en>Gray Pressure Plate</en>
         <ja>グレープレート</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>543</int>
         <en>Brown Pressure Plate</en>
         <ja>ブラウンプレート</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>544</int>
         <en>Mechanical Eye</en>
         <ja>メカニカルアイ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>545</int>
         <en>Cursed Arrow</en>
         <ja>カースドアロー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>546</int>
         <en>Cursed Bullet</en>
         <ja>カースドバレット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
         <description>本当なら「～の弾」にしたいが、コイツだけしっくりこないので例外的に「バレット」にした。</description>
       </item>
       <item>
         <int>547</int>
         <en>Soul of Fright</en>
         <ja>ソウルオブテラー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
         <description>説明文に "pure terror" とある所から、テラーを採用。</description>
       </item>
       <item>
         <int>548</int>
         <en>Soul of Might</en>
         <ja>ソウルオブパワー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
         <description>マイトだと意味が通じない気がしたのでパワーに。</description>
       </item>
       <item>
         <int>549</int>
         <en>Soul of Sight</en>
         <ja>ソウルオブサイト</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
         <description>良い訳語が思いつかない…</description>
       </item>
       <item>
         <int>550</int>
         <en>Gungnir</en>
         <ja>グングニル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>551</int>
         <en>Hallowed Plate Mail</en>
         <ja>ハロウドプレートメイル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>552</int>
         <en>Hallowed Greaves</en>
         <ja>ハロウドグリーブス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>553</int>
         <en>Hallowed Helmet</en>
         <ja>ハロウドヘルメット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>554</int>
         <en>Cross Necklace</en>
         <ja>クロスネックレス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>555</int>
         <en>Mana Flower</en>
         <ja>マナフラワー</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>556</int>
         <en>Mechanical Worm</en>
         <ja>メカニカルワーム</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>557</int>
         <en>Mechanical Skull</en>
         <ja>メカニカルスカル</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>558</int>
         <en>Hallowed Headgear</en>
         <ja>ハロウドヘッドギア</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>559</int>
         <en>Hallowed Mask</en>
         <ja>ハロウドマスク</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>560</int>
         <en>Slime Crown</en>
         <ja>スライムの王冠</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>561</int>
         <en>Light Disc</en>
         <ja>ライトディスク</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>562</int>
         <en>Music Box (Overworld Day)</en>
         <ja>ミュージックボックス(Overworld Day)</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
         <description>以下、ミュージックボックスのBGM名はそのままにしてある。</description>
       </item>
       <item>
         <int>563</int>
         <en>Music Box (Eerie)</en>
         <ja>ミュージックボックス(Eerie)</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>564</int>
         <en>Music Box (Night)</en>
         <ja>ミュージックボックス(Night)</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>565</int>
         <en>Music Box (Title)</en>
         <ja>ミュージックボックス(Title)</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>566</int>
         <en>Music Box (Underground)</en>
         <ja>ミュージックボックス(Underground)</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>567</int>
         <en>Music Box (Boss 1)</en>
         <ja>ミュージックボックス(Boss 1)</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>568</int>
         <en>Music Box (Jungle)</en>
         <ja>ミュージックボックス(Jungle)</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>569</int>
         <en>Music Box (Corruption)</en>
         <ja>ミュージックボックス(Corruption)</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>570</int>
         <en>Music Box (Underground Corruption)</en>
         <ja>ミュージックボックス(Underground Corruption)</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>571</int>
         <en>Music Box (The Hallow)</en>
         <ja>ミュージックボックス(The Hallow)</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>572</int>
         <en>Music Box (Boss 2)</en>
         <ja>ミュージックボックス(Boss 2)</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>573</int>
         <en>Music Box (Underground Hallow)</en>
         <ja>ミュージックボックス(Underground Hallow)</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>574</int>
         <en>Music Box (Boss 3)</en>
         <ja>ミュージックボックス(Boss 3)</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>575</int>
         <en>Soul of Flight</en>
         <ja>ソウルオブフライト</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
         <description>フライトよりスカイとかの方が分かりやすいだろうか？</description>
       </item>
       <item>
         <int>576</int>
         <en>Music Box</en>
         <ja>ミュージックボックス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>577</int>
         <en>Demonite Brick</en>
         <ja>デモナイトブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>578</int>
         <en>Hallowed Repeater</en>
         <ja>ハロウドリピーター</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>579</int>
         <en>Hamdrax</en>
         <ja>ハンドラックス</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>580</int>
         <en>Explosives</en>
         <ja>爆発物</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>581</int>
         <en>Inlet Pump</en>
         <ja>インプットポンプ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
         <description>意訳だけどこっちの方が分かりやすいはず</description>
       </item>
       <item>
         <int>582</int>
         <en>Outlet Pump</en>
         <ja>アウトプットポンプ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>583</int>
         <en>1 Second Timer</en>
         <ja>タイマー（１秒）</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>584</int>
         <en>3 Second Timer</en>
         <ja>タイマー（３秒）</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>585</int>
         <en>5 Second Timer</en>
         <ja>タイマー（５秒）</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>586</int>
         <en>Candy Cane Block</en>
         <ja>キャンディブロック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>587</int>
         <en>Candy Cane Wall</en>
         <ja>キャンディの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>588</int>
         <en>Santa Hat</en>
         <ja>サンタハット</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>589</int>
         <en>Santa Shirt</en>
         <ja>サンタシャツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>590</int>
         <en>Santa Pants</en>
         <ja>サンタパンツ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>591</int>
         <en>Green Candy Cane Block</en>
         <ja>グリーンキャンディブロック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>592</int>
         <en>Green Candy Cane Wall</en>
         <ja>グリーンキャンディの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>593</int>
         <en>Snow Block</en>
         <ja>スノーブロック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>594</int>
         <en>Snow Brick</en>
         <ja>スノーブリック</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>595</int>
         <en>Snow Brick Wall</en>
         <ja>スノーブリックの壁材</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>596</int>
         <en>Blue Light</en>
         <ja>ブルーライト</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>597</int>
         <en>Red Light</en>
         <ja>レッドライト</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>598</int>
         <en>Green Light</en>
         <ja>グリーンライト</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>599</int>
         <en>Blue Present</en>
         <ja>ブループレゼント</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>600</int>
         <en>Green Present</en>
         <ja>グリーンプレゼント</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>601</int>
         <en>Yellow Present</en>
         <ja>イエロープレゼント</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>602</int>
         <en>Snow Globe</en>
         <ja>スノーグローブ</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
       <item>
         <int>603</int>
         <en>Carrot</en>
         <ja>ニンジン</ja>
-        <tooltip>
-        </tooltip>
-        <tooltip2>
-        </tooltip2>
       </item>
     </items>
     <prefixs>
@@ -9985,5 +7477,1315 @@
         <ja>ミシカル</ja>
       </prefix>
     </prefixs>
+    <tooltips>
+      <tooltip>
+        <int>-1</int>
+        <en>Can mine Meteorite</en>
+        <ja>メテオライトを採掘可能</ja>
+      </tooltip>
+      <tooltip>
+        <int>8</int>
+        <en>Provides light</en>
+        <ja>周りを照らす</ja>
+      </tooltip>
+      <tooltip>
+        <int>15</int>
+        <en>Tells the time</en>
+        <ja>時間を表示</ja>
+      </tooltip>
+      <tooltip>
+        <int>16</int>
+        <en>Tells the time</en>
+        <ja>時間を表示</ja>
+      </tooltip>
+      <tooltip>
+        <int>17</int>
+        <en>Tells the time</en>
+        <ja>時間を表示</ja>
+      </tooltip>
+      <tooltip>
+        <int>18</int>
+        <en>Shows depth</en>
+        <ja>深さを表示</ja>
+      </tooltip>
+      <tooltip>
+        <int>23</int>
+        <en>'Both tasty and flammable'</en>
+        <ja>「美味しい可燃物」</ja>
+      </tooltip>
+      <tooltip>
+        <int>29</int>
+        <en>Permanently increases maximum life by 20</en>
+        <ja>最大ライフを20増加する</ja>
+      </tooltip>
+      <tooltip>
+        <int>33</int>
+        <en>Used for smelting ore</en>
+        <ja>鉱石を溶かすのに使用</ja>
+      </tooltip>
+      <tooltip>
+        <int>35</int>
+        <en>Used to craft items from metal bars</en>
+        <ja>インゴットからアイテムを作成できる</ja>
+      </tooltip>
+      <tooltip>
+        <int>36</int>
+        <en>Used for basic crafting</en>
+        <ja>基本的なクラフトに使える</ja>
+      </tooltip>
+      <tooltip>
+        <int>43</int>
+        <en>Summons the Eye of Cthulhu</en>
+        <ja>クトゥルフの目玉を召喚する</ja>
+      </tooltip>
+      <tooltip>
+        <int>49</int>
+        <en>Slowly regenerates life</en>
+        <ja>ライフを自動回復</ja>
+      </tooltip>
+      <tooltip>
+        <int>50</int>
+        <en>Gaze in the mirror to return home</en>
+        <ja>使用するとホームポイントに戻る</ja>
+      </tooltip>
+      <tooltip>
+        <int>53</int>
+        <en>Allows the holder to double jump</en>
+        <ja>ダブルジャンプが出来る</ja>
+      </tooltip>
+      <tooltip>
+        <int>54</int>
+        <en>The wearer can run super fast</en>
+        <ja>走る速度が上がる</ja>
+      </tooltip>
+      <tooltip>
+        <int>56</int>
+        <en>'Pulsing with dark energy'</en>
+        <ja>闇のエネルギーを放っている</ja>
+      </tooltip>
+      <tooltip>
+        <int>57</int>
+        <en>'Pulsing with dark energy'</en>
+        <ja>闇のエネルギーを放っている</ja>
+      </tooltip>
+      <tooltip>
+        <int>64</int>
+        <en>Summons a vile thorn</en>
+        <ja>毒のトゲを召喚する</ja>
+      </tooltip>
+      <tooltip>
+        <int>65</int>
+        <en>Causes stars to rain from the sky</en>
+        <ja>空から星を落とす</ja>
+      </tooltip>
+      <tooltip>
+        <int>66</int>
+        <en>Cleanses the corruption</en>
+        <ja>不浄の地を浄化できる</ja>
+      </tooltip>
+      <tooltip>
+        <int>67</int>
+        <en>Removes the Hallow</en>
+        <ja>聖域を元に戻せる</ja>
+      </tooltip>
+      <tooltip>
+        <int>68</int>
+        <en>'Looks tasty!'</en>
+        <ja>「おいしそう！」</ja>
+      </tooltip>
+      <tooltip>
+        <int>70</int>
+        <en>Summons the Eater of Worlds</en>
+        <ja>イーターオブワールドを召喚する</ja>
+      </tooltip>
+      <tooltip>
+        <int>75</int>
+        <en>Disappears after the sunrise</en>
+        <ja>日が昇ると消滅する</ja>
+      </tooltip>
+      <tooltip>
+        <int>84</int>
+        <en>'Get over here!'</en>
+        <ja>「こっちに来い！」</ja>
+      </tooltip>
+      <tooltip>
+        <int>88</int>
+        <en>Provides light when worn</en>
+        <ja>ライト付き</ja>
+      </tooltip>
+      <tooltip>
+        <int>98</int>
+        <en>33% chance to not consume ammo</en>
+        <ja>33%の確率で弾薬非消費</ja>
+      </tooltip>
+      <tooltip>
+        <int>100</int>
+        <en>7% increased melee speed</en>
+        <ja>近接攻撃速度 +7%</ja>
+      </tooltip>
+      <tooltip>
+        <int>101</int>
+        <en>7% increased melee speed</en>
+        <ja>近接攻撃速度 +7%</ja>
+      </tooltip>
+      <tooltip>
+        <int>102</int>
+        <en>7% increased melee speed</en>
+        <ja>近接攻撃速度 +7%</ja>
+      </tooltip>
+      <tooltip>
+        <int>103</int>
+        <en>Able to mine Hellstone</en>
+        <ja>ヘルストーンを採掘可能</ja>
+      </tooltip>
+      <tooltip>
+        <int>109</int>
+        <en>Permanently increases maximum mana by 20</en>
+        <ja>最大マナを20増加</ja>
+      </tooltip>
+      <tooltip>
+        <int>111</int>
+        <en>Increases maximum mana by 20</en>
+        <ja>最大マナ +20</ja>
+      </tooltip>
+      <tooltip>
+        <int>112</int>
+        <en>Throws balls of fire</en>
+        <ja>ファイアボールを発射</ja>
+      </tooltip>
+      <tooltip>
+        <int>113</int>
+        <en>Casts a controllable missile</en>
+        <ja>マジックミサイルを自由に動かせる</ja>
+      </tooltip>
+      <tooltip>
+        <int>114</int>
+        <en>Magically moves dirt</en>
+        <ja>土を移動できる</ja>
+      </tooltip>
+      <tooltip>
+        <int>115</int>
+        <en>Creates a magical orb of light</en>
+        <ja>光のオーブを召喚する</ja>
+      </tooltip>
+      <tooltip>
+        <int>117</int>
+        <en>'Warm to the touch'</en>
+        <ja>「触ると暖かい」</ja>
+      </tooltip>
+      <tooltip>
+        <int>118</int>
+        <en>Sometimes dropped by Skeletons and Piranha</en>
+        <ja>スケルトンとピラニアがたまに落とす</ja>
+      </tooltip>
+      <tooltip>
+        <int>120</int>
+        <en>Lights wooden arrows ablaze</en>
+        <ja>ウッドゥンアローに火をつけて発射する</ja>
+      </tooltip>
+      <tooltip>
+        <int>121</int>
+        <en>'It's made out of fire!'</en>
+        <ja>「炎から作られた！」</ja>
+      </tooltip>
+      <tooltip>
+        <int>123</int>
+        <en>5% increased magic damage</en>
+        <ja>魔法ダメージ +5%</ja>
+      </tooltip>
+      <tooltip>
+        <int>124</int>
+        <en>5% increased magic damage</en>
+        <ja>魔法ダメージ +5%</ja>
+      </tooltip>
+      <tooltip>
+        <int>125</int>
+        <en>5% increased magic damage</en>
+        <ja>魔法ダメージ +5%</ja>
+      </tooltip>
+      <tooltip>
+        <int>128</int>
+        <en>Allows flight</en>
+        <ja>空を飛べる</ja>
+      </tooltip>
+      <tooltip>
+        <int>148</int>
+        <en>Holding this may attract unwanted attention</en>
+        <ja>持っていると敵を惹きつける</ja>
+      </tooltip>
+      <tooltip>
+        <int>149</int>
+        <en>'It contains strange symbols'</en>
+        <ja>「変なシンボルが書かれている」</ja>
+      </tooltip>
+      <tooltip>
+        <int>151</int>
+        <en>4% increased ranged damage.</en>
+        <ja>レンジダメージ +4%</ja>
+      </tooltip>
+      <tooltip>
+        <int>152</int>
+        <en>4% increased ranged damage.</en>
+        <ja>レンジダメージ +4%</ja>
+      </tooltip>
+      <tooltip>
+        <int>153</int>
+        <en>4% increased ranged damage.</en>
+        <ja>レンジダメージ +4%</ja>
+      </tooltip>
+      <tooltip>
+        <int>156</int>
+        <en>Grants immunity to knockback</en>
+        <ja>ノックバックを無効化する</ja>
+      </tooltip>
+      <tooltip>
+        <int>157</int>
+        <en>Sprays out a shower of water</en>
+        <ja>水のシャワーを発射する</ja>
+      </tooltip>
+      <tooltip>
+        <int>158</int>
+        <en>Negates fall damage</en>
+        <ja>落下ダメージを無効化する</ja>
+      </tooltip>
+      <tooltip>
+        <int>159</int>
+        <en>Increases jump height</en>
+        <ja>ジャンプの高さが上がる</ja>
+      </tooltip>
+      <tooltip>
+        <int>165</int>
+        <en>Casts a slow moving bolt of water</en>
+        <ja>ウォーターボルトを発射する</ja>
+      </tooltip>
+      <tooltip>
+        <int>166</int>
+        <en>A small explosion that will destroy some tiles</en>
+        <ja>ブロックを破壊できる小さな爆発を起こす</ja>
+      </tooltip>
+      <tooltip>
+        <int>167</int>
+        <en>A large explosion that will destroy most tiles</en>
+        <ja>ブロックを破壊できる大きな爆発を起こす</ja>
+      </tooltip>
+      <tooltip>
+        <int>168</int>
+        <en>A small explosion that will not destroy tiles</en>
+        <ja>ブロックを破壊しない小さな爆発を起こす</ja>
+      </tooltip>
+      <tooltip>
+        <int>175</int>
+        <en>'Hot to the touch'</en>
+        <ja>「触ると暖かい」</ja>
+      </tooltip>
+      <tooltip>
+        <int>186</int>
+        <en>'Because not drowning is kinda nice'</en>
+        <ja>「溺れないのは良いことだ」</ja>
+      </tooltip>
+      <tooltip>
+        <int>187</int>
+        <en>Grants the ability to swim</en>
+        <ja>泳げるようになる</ja>
+      </tooltip>
+      <tooltip>
+        <int>193</int>
+        <en>Grants immunity to fire blocks</en>
+        <ja>燃えるブロックのダメージを無効化する</ja>
+      </tooltip>
+      <tooltip>
+        <int>197</int>
+        <en>Shoots fallen stars</en>
+        <ja>流れ星を発射する</ja>
+      </tooltip>
+      <tooltip>
+        <int>208</int>
+        <en>'It's pretty, oh so pretty'</en>
+        <ja>「本当にかわいい」</ja>
+      </tooltip>
+      <tooltip>
+        <int>211</int>
+        <en>12% increased melee speed</en>
+        <ja>近接速度 +12%</ja>
+      </tooltip>
+      <tooltip>
+        <int>212</int>
+        <en>10% increased movement speed</en>
+        <ja>移動速度 +10%</ja>
+      </tooltip>
+      <tooltip>
+        <int>213</int>
+        <en>Creates grass on dirt</en>
+        <ja>土に草を生やす</ja>
+      </tooltip>
+      <tooltip>
+        <int>215</int>
+        <en>'May annoy others'</en>
+        <ja>「イライラさせちゃうかも」</ja>
+      </tooltip>
+      <tooltip>
+        <int>218</int>
+        <en>Summons a controllable ball of fire</en>
+        <ja>ファイアボールを自由に操作できる</ja>
+      </tooltip>
+      <tooltip>
+        <int>222</int>
+        <en>Grows plants</en>
+        <ja>植物を栽培可能</ja>
+      </tooltip>
+      <tooltip>
+        <int>223</int>
+        <en>6% reduced mana usage</en>
+        <ja>消費マナ -6%</ja>
+      </tooltip>
+      <tooltip>
+        <int>228</int>
+        <en>Increases maximum mana by 20</en>
+        <ja>最大マナ +20</ja>
+      </tooltip>
+      <tooltip>
+        <int>229</int>
+        <en>Increases maximum mana by 20</en>
+        <ja>最大マナ +20</ja>
+      </tooltip>
+      <tooltip>
+        <int>230</int>
+        <en>Increases maximum mana by 20</en>
+        <ja>最大マナ +20</ja>
+      </tooltip>
+      <tooltip>
+        <int>235</int>
+        <en>'Tossing may be difficult.'</en>
+        <ja>「トスするのは難しいかも」</ja>
+      </tooltip>
+      <tooltip>
+        <int>237</int>
+        <en>'Makes you look cool!'</en>
+        <ja>「クールになれる」</ja>
+      </tooltip>
+      <tooltip>
+        <int>238</int>
+        <en>15% increased magic damage</en>
+        <ja>魔法ダメージ +15%</ja>
+      </tooltip>
+      <tooltip>
+        <int>261</int>
+        <en>'It's smiling, might be a good snack'</en>
+        <ja>「スナック菓子みたい」</ja>
+        <description>元ネタがスナック菓子なのだが、もちろん日本には無い</description>
+      </tooltip>
+      <tooltip>
+        <int>266</int>
+        <en>'This is a good idea!'</en>
+        <ja>「これは良いアイデア！」</ja>
+      </tooltip>
+      <tooltip>
+        <int>267</int>
+        <en>'You are a terrible person.'</en>
+        <ja>「君は酷い人だ…」</ja>
+      </tooltip>
+      <tooltip>
+        <int>268</int>
+        <en>Greatly extends underwater breathing</en>
+        <ja>水中にとても長く居られる</ja>
+      </tooltip>
+      <tooltip>
+        <int>272</int>
+        <en>Casts a demon scythe</en>
+        <ja>デーモンサイスを召喚する</ja>
+      </tooltip>
+      <tooltip>
+        <int>281</int>
+        <en>Allows the collection of seeds for ammo</en>
+        <ja>弾薬用の種を拾える</ja>
+      </tooltip>
+      <tooltip>
+        <int>282</int>
+        <en>Works when wet</en>
+        <ja>水中でも使える</ja>
+      </tooltip>
+      <tooltip>
+        <int>283</int>
+        <en>For use with Blowpipe</en>
+        <ja>吹き筒用の弾薬</ja>
+      </tooltip>
+      <tooltip>
+        <int>285</int>
+        <en>5% increased movement speed</en>
+        <ja>移動速度 +5%</ja>
+      </tooltip>
+      <tooltip>
+        <int>288</int>
+        <en>Provides immunity to lava</en>
+        <ja>溶岩耐性が付く</ja>
+      </tooltip>
+      <tooltip>
+        <int>289</int>
+        <en>Provides life regeneration</en>
+        <ja>ライフが自動回復する</ja>
+      </tooltip>
+      <tooltip>
+        <int>290</int>
+        <en>25% increased movement speed</en>
+        <ja>移動速度 +25%</ja>
+      </tooltip>
+      <tooltip>
+        <int>291</int>
+        <en>Breathe water instead of air</en>
+        <ja>空気の変わりに水で呼吸する</ja>
+      </tooltip>
+      <tooltip>
+        <int>292</int>
+        <en>Increase defense by 8</en>
+        <ja>ディフェンス +8</ja>
+      </tooltip>
+      <tooltip>
+        <int>293</int>
+        <en>Increased mana regeneration</en>
+        <ja>マナ回復速度が増加</ja>
+      </tooltip>
+      <tooltip>
+        <int>294</int>
+        <en>20% increased magic damage</en>
+        <ja>魔法ダメージ +20%</ja>
+      </tooltip>
+      <tooltip>
+        <int>295</int>
+        <en>Slows falling speed</en>
+        <ja>落下速度が減少する</ja>
+      </tooltip>
+      <tooltip>
+        <int>296</int>
+        <en>Shows the location of treasure and ore</en>
+        <ja>宝と鉱石が光って見える</ja>
+      </tooltip>
+      <tooltip>
+        <int>297</int>
+        <en>Grants invisibility</en>
+        <ja>透明になる</ja>
+      </tooltip>
+      <tooltip>
+        <int>298</int>
+        <en>Emits an aura of light</en>
+        <ja>体が光る</ja>
+      </tooltip>
+      <tooltip>
+        <int>299</int>
+        <en>Increases night vision</en>
+        <ja>視界が明るくなる</ja>
+      </tooltip>
+      <tooltip>
+        <int>300</int>
+        <en>Increases enemy spawn rate</en>
+        <ja>敵の発生率を上げる</ja>
+      </tooltip>
+      <tooltip>
+        <int>301</int>
+        <en>Attackers also take damage</en>
+        <ja>ダメージの一部を反射する</ja>
+      </tooltip>
+      <tooltip>
+        <int>302</int>
+        <en>Allows the ability to walk on water</en>
+        <ja>水上を歩ける</ja>
+      </tooltip>
+      <tooltip>
+        <int>303</int>
+        <en>20% increased arrow speed and damage</en>
+        <ja>矢の速度とダメージ +20%</ja>
+      </tooltip>
+      <tooltip>
+        <int>304</int>
+        <en>Shows the location of enemies</en>
+        <ja>敵が光って見える</ja>
+      </tooltip>
+      <tooltip>
+        <int>305</int>
+        <en>Allows the control of gravity</en>
+        <ja>重力をコントロールできる</ja>
+      </tooltip>
+      <tooltip>
+        <int>324</int>
+        <en>'Banned in most places'</en>
+        <ja>「多くの国で違法」</ja>
+      </tooltip>
+      <tooltip>
+        <int>327</int>
+        <en>Opens one Gold Chest</en>
+        <ja>金の宝箱を開ける</ja>
+      </tooltip>
+      <tooltip>
+        <int>329</int>
+        <en>Opens all Shadow Chests</en>
+        <ja>シャドウチェストを開ける</ja>
+      </tooltip>
+      <tooltip>
+        <int>332</int>
+        <en>Used for crafting cloth</en>
+        <ja>布をクラフトする時に使用</ja>
+      </tooltip>
+      <tooltip>
+        <int>352</int>
+        <en>Used for brewing ale</en>
+        <ja>エールを作成する時に使用</ja>
+      </tooltip>
+      <tooltip>
+        <int>357</int>
+        <en>Minor improvements to all stats</en>
+        <ja>全てのステータスが微増加する</ja>
+      </tooltip>
+      <tooltip>
+        <int>361</int>
+        <en>Summons a Goblin Army</en>
+        <ja>ゴブリンアーミーを召喚する</ja>
+      </tooltip>
+      <tooltip>
+        <int>363</int>
+        <en>Used for advanced wood crafting</en>
+        <ja>木の加工に使用</ja>
+      </tooltip>
+      <tooltip>
+        <int>367</int>
+        <en>Strong enough to destroy Demon Altars</en>
+        <ja>デーモンアルターを破壊できる</ja>
+      </tooltip>
+      <tooltip>
+        <int>371</int>
+        <en>Increases maximum mana by 40</en>
+        <ja>最大マナ +40</ja>
+      </tooltip>
+      <tooltip>
+        <int>372</int>
+        <en>7% increased movement speed</en>
+        <ja>移動速度 +7%</ja>
+      </tooltip>
+      <tooltip>
+        <int>373</int>
+        <en>10% increased ranged damage</en>
+        <ja>レンジダメージ +10%</ja>
+      </tooltip>
+      <tooltip>
+        <int>376</int>
+        <en>Increases maximum mana by 60</en>
+        <ja>最大マナ +60</ja>
+      </tooltip>
+      <tooltip>
+        <int>377</int>
+        <en>5% increased melee critical strike chance</en>
+        <ja>近接クリティカル率 +5%</ja>
+      </tooltip>
+      <tooltip>
+        <int>378</int>
+        <en>12% increased ranged damage</en>
+        <ja>レンジダメージ +12%</ja>
+      </tooltip>
+      <tooltip>
+        <int>385</int>
+        <en>Can mine Mythril</en>
+        <ja>ミスリルを採掘可能</ja>
+      </tooltip>
+      <tooltip>
+        <int>386</int>
+        <en>Can mine Adamantite</en>
+        <ja>アダマンタイトを採掘可能</ja>
+      </tooltip>
+      <tooltip>
+        <int>389</int>
+        <en>Has a chance to confuse</en>
+        <ja>敵を混乱させる</ja>
+      </tooltip>
+      <tooltip>
+        <int>393</int>
+        <en>Shows horizontal position</en>
+        <ja>横位置を表示する</ja>
+      </tooltip>
+      <tooltip>
+        <int>394</int>
+        <en>Grants the ability to swim</en>
+        <ja>泳げるようになる</ja>
+      </tooltip>
+      <tooltip>
+        <int>395</int>
+        <en>Shows position</en>
+        <ja>現在位置を表示する</ja>
+      </tooltip>
+      <tooltip>
+        <int>396</int>
+        <en>Negates fall damage</en>
+        <ja>落下ダメージを無効化する</ja>
+      </tooltip>
+      <tooltip>
+        <int>397</int>
+        <en>Grants immunity to knockback</en>
+        <ja>ノックバックを無効化する</ja>
+      </tooltip>
+      <tooltip>
+        <int>398</int>
+        <en>Allows the combining of some accessories</en>
+        <ja>特殊なアクセサリーをクラフトできる</ja>
+      </tooltip>
+      <tooltip>
+        <int>399</int>
+        <en>Allows the holder to double jump</en>
+        <ja>ダブルジャンプできる</ja>
+      </tooltip>
+      <tooltip>
+        <int>400</int>
+        <en>Increases maximum mana by 80</en>
+        <ja>最大マナ +80</ja>
+      </tooltip>
+      <tooltip>
+        <int>401</int>
+        <en>7% increased melee critical strike chance</en>
+        <ja>近接クリティカル率 +7%</ja>
+      </tooltip>
+      <tooltip>
+        <int>402</int>
+        <en>14% increased ranged damage</en>
+        <ja>レンジダメージ +14%</ja>
+      </tooltip>
+      <tooltip>
+        <int>403</int>
+        <en>6% increased damage</en>
+        <ja>ダメージ +6%</ja>
+      </tooltip>
+      <tooltip>
+        <int>404</int>
+        <en>4% increased critical strike chance</en>
+        <ja>クリティカル率 +4%</ja>
+      </tooltip>
+      <tooltip>
+        <int>405</int>
+        <en>Allows flight</en>
+        <ja>空を飛べる</ja>
+      </tooltip>
+      <tooltip>
+        <int>407</int>
+        <en>Increases block placement range</en>
+        <ja>より遠くにブロックを配置できる</ja>
+      </tooltip>
+      <tooltip>
+        <int>422</int>
+        <en>Spreads the Hallow to some blocks</en>
+        <ja>ブロックを聖域に変える</ja>
+      </tooltip>
+      <tooltip>
+        <int>423</int>
+        <en>Spreads the corruption to some blocks</en>
+        <ja>ブロックを不浄に変える</ja>
+      </tooltip>
+      <tooltip>
+        <int>425</int>
+        <en>Summons a magical fairy</en>
+        <ja>魔法の妖精を召喚する</ja>
+      </tooltip>
+      <tooltip>
+        <int>434</int>
+        <en>Three round burst</en>
+        <ja>三点バースト</ja>
+      </tooltip>
+      <tooltip>
+        <int>485</int>
+        <en>Turns the holder into a werewolf on full moons</en>
+        <ja>満月の時にワーウルフに変身する</ja>
+      </tooltip>
+      <tooltip>
+        <int>486</int>
+        <en>Creates a grid on screen for block placement</en>
+        <ja>画面にグリッドを表示する</ja>
+      </tooltip>
+      <tooltip>
+        <int>489</int>
+        <en>15% increased magic damage</en>
+        <ja>魔法ダメージ +15%</ja>
+      </tooltip>
+      <tooltip>
+        <int>490</int>
+        <en>15% increased melee damage</en>
+        <ja>近接ダメージ 15%</ja>
+      </tooltip>
+      <tooltip>
+        <int>491</int>
+        <en>15% increased ranged damage</en>
+        <ja>レンジダメージ 15%</ja>
+      </tooltip>
+      <tooltip>
+        <int>492</int>
+        <en>Allows flight and slow fall</en>
+        <ja>空を飛ぶことができ、落下速度が減少する</ja>
+      </tooltip>
+      <tooltip>
+        <int>493</int>
+        <en>Allows flight and slow fall</en>
+        <ja>空を飛ぶことができ、落下速度が減少する</ja>
+      </tooltip>
+      <tooltip>
+        <int>495</int>
+        <en>Casts a controllable rainbow</en>
+        <ja>自由に操作できる虹を召喚する</ja>
+      </tooltip>
+      <tooltip>
+        <int>496</int>
+        <en>Summons a block of ice</en>
+        <ja>氷のブロックを召喚する</ja>
+      </tooltip>
+      <tooltip>
+        <int>497</int>
+        <en>Transforms the holder into merfolk when entering water</en>
+        <ja>水中で半魚人に変身する</ja>
+      </tooltip>
+      <tooltip>
+        <int>506</int>
+        <en>Uses gel for ammo</en>
+        <ja>弾薬としてジェルを使用する</ja>
+      </tooltip>
+      <tooltip>
+        <int>509</int>
+        <en>Places wire</en>
+        <ja>ワイヤーを設置する</ja>
+      </tooltip>
+      <tooltip>
+        <int>510</int>
+        <en>Removes wire</en>
+        <ja>ワイヤーを除去する</ja>
+      </tooltip>
+      <tooltip>
+        <int>515</int>
+        <en>Creates several crystal shards on impact</en>
+        <ja>ヒット時に分裂する</ja>
+      </tooltip>
+      <tooltip>
+        <int>516</int>
+        <en>Summons falling stars on impact</en>
+        <ja>ヒット時に流れ星を落とす</ja>
+      </tooltip>
+      <tooltip>
+        <int>517</int>
+        <en>A magical returning dagger</en>
+        <ja>自動で手元に戻る魔法のダガー</ja>
+      </tooltip>
+      <tooltip>
+        <int>518</int>
+        <en>Summons rapid fire crystal shards</en>
+        <ja>クリスタルの欠片を高速で発射する</ja>
+      </tooltip>
+      <tooltip>
+        <int>519</int>
+        <en>Summons unholy fire balls</en>
+        <ja>呪いの炎を発射する</ja>
+      </tooltip>
+      <tooltip>
+        <int>520</int>
+        <en>'The essence of light creatures'</en>
+        <ja>「光の生物のエッセンス」</ja>
+      </tooltip>
+      <tooltip>
+        <int>521</int>
+        <en>'The essence of dark creatures'</en>
+        <ja>「闇の生物のエッセンス」</ja>
+      </tooltip>
+      <tooltip>
+        <int>522</int>
+        <en>'Not even water can put the flame out'</en>
+        <ja>「水中でも消えない炎」</ja>
+      </tooltip>
+      <tooltip>
+        <int>523</int>
+        <en>Can be placed in water</en>
+        <ja>「水中に設置可能」</ja>
+      </tooltip>
+      <tooltip>
+        <int>524</int>
+        <en>Used to smelt adamantite ore</en>
+        <ja>アダマンタイトの鉱石を溶かせる</ja>
+      </tooltip>
+      <tooltip>
+        <int>525</int>
+        <en>Used to craft items from mythril and adamantite bars</en>
+        <ja>ミスリルとアダマンタイトのアイテムを作成可能</ja>
+      </tooltip>
+      <tooltip>
+        <int>526</int>
+        <en>'Sharp and magical!'</en>
+        <ja>「先の鋭い魔法のアイテム」</ja>
+      </tooltip>
+      <tooltip>
+        <int>527</int>
+        <en>'Sometimes carried by creatures in corrupt deserts'</en>
+        <ja>「不浄の砂漠にいる生物が持っている」</ja>
+      </tooltip>
+      <tooltip>
+        <int>528</int>
+        <en>'Sometimes carried by creatures in light deserts'</en>
+        <ja>「聖域の砂漠にいる生物が持っている」</ja>
+      </tooltip>
+      <tooltip>
+        <int>529</int>
+        <en>Activates when stepped on</en>
+        <ja>踏むと作動する</ja>
+      </tooltip>
+      <tooltip>
+        <int>531</int>
+        <en>Can be enchanted</en>
+        <ja>魔法をエンチャントできる</ja>
+      </tooltip>
+      <tooltip>
+        <int>532</int>
+        <en>Causes stars to fall when injured</en>
+        <ja>ダメージを受けると流れ星を落とす</ja>
+      </tooltip>
+      <tooltip>
+        <int>533</int>
+        <en>50% chance to not consume ammo</en>
+        <ja>50%の確率で弾薬非消費</ja>
+      </tooltip>
+      <tooltip>
+        <int>534</int>
+        <en>Fires a spread of bullets</en>
+        <ja>散弾を発射する</ja>
+      </tooltip>
+      <tooltip>
+        <int>535</int>
+        <en>Reduces the cooldown of healing potions</en>
+        <ja>ポーション使用間隔を短縮する</ja>
+      </tooltip>
+      <tooltip>
+        <int>536</int>
+        <en>Increases melee knockback</en>
+        <ja>近接ノックバックを増加する</ja>
+      </tooltip>
+      <tooltip>
+        <int>541</int>
+        <en>Activates when stepped on</en>
+        <ja>踏むと作動する</ja>
+      </tooltip>
+      <tooltip>
+        <int>542</int>
+        <en>Activates when stepped on</en>
+        <ja>踏むと作動する</ja>
+      </tooltip>
+      <tooltip>
+        <int>543</int>
+        <en>Activates when stepped on</en>
+        <ja>踏むと作動する</ja>
+      </tooltip>
+      <tooltip>
+        <int>544</int>
+        <en>Summons The Twins</en>
+        <ja>ツインズを召喚する</ja>
+      </tooltip>
+      <tooltip>
+        <int>547</int>
+        <en>'The essence of pure terror'</en>
+        <ja>「純粋な恐怖のエッセンス」</ja>
+      </tooltip>
+      <tooltip>
+        <int>548</int>
+        <en>'The essence of the destroyer'</en>
+        <ja>「破壊者のエッセンス」</ja>
+      </tooltip>
+      <tooltip>
+        <int>549</int>
+        <en>'The essence of omniscient watchers'</en>
+        <ja>「全知の番人のエッセンス」</ja>
+      </tooltip>
+      <tooltip>
+        <int>551</int>
+        <en>7% increased critical strike chance</en>
+        <ja>クリティカル率 +7%</ja>
+      </tooltip>
+      <tooltip>
+        <int>552</int>
+        <en>7% increased damage</en>
+        <ja>ダメージ +7%</ja>
+      </tooltip>
+      <tooltip>
+        <int>553</int>
+        <en>15% increased ranged damage</en>
+        <ja>レンジダメージ +15%</ja>
+      </tooltip>
+      <tooltip>
+        <int>554</int>
+        <en>Increases length of invincibility after taking damage</en>
+        <ja>ダメージ後の無敵時間を延長する</ja>
+      </tooltip>
+      <tooltip>
+        <int>555</int>
+        <en>8% reduced mana usage</en>
+        <ja>消費マナ -8%</ja>
+      </tooltip>
+      <tooltip>
+        <int>556</int>
+        <en>Summons Destroyer</en>
+        <ja>デストロイヤーを召喚する</ja>
+      </tooltip>
+      <tooltip>
+        <int>557</int>
+        <en>Summons Skeletron Prime</en>
+        <ja>スケルトロンプライムを召喚する</ja>
+      </tooltip>
+      <tooltip>
+        <int>558</int>
+        <en>Increases maximum mana by 100</en>
+        <ja>最大マナ +100</ja>
+      </tooltip>
+      <tooltip>
+        <int>559</int>
+        <en>10% increased melee damage and critical strike chance</en>
+        <ja>近接ダメージ・近接クリティカル率 +10%</ja>
+      </tooltip>
+      <tooltip>
+        <int>560</int>
+        <en>Summons King Slime</en>
+        <ja>キングスライムを召喚する</ja>
+      </tooltip>
+      <tooltip>
+        <int>561</int>
+        <en>Stacks up to 5</en>
+        <ja>5個までスタック可</ja>
+      </tooltip>
+      <tooltip>
+        <int>575</int>
+        <en>'The essence of powerful flying creatures'</en>
+        <ja>「強大な飛行生物のエッセンス」</ja>
+      </tooltip>
+      <tooltip>
+        <int>576</int>
+        <en>Has a chance to record songs</en>
+        <ja>BGMを記録可能</ja>
+      </tooltip>
+      <tooltip>
+        <int>579</int>
+        <en>'Not to be confused with a hamsaw'</en>
+        <ja>「ノコギリでもハンマーでもない」</ja>
+        <description>hamsaw = hammer sawだと思うが、上手く訳せない…</description>
+      </tooltip>
+      <tooltip>
+        <int>580</int>
+        <en>Explodes when activated</en>
+        <ja>起動すると爆発する</ja>
+      </tooltip>
+      <tooltip>
+        <int>581</int>
+        <en>Sends water to outlet pumps</en>
+        <ja>アウトプットポンプに水を送る</ja>
+      </tooltip>
+      <tooltip>
+        <int>582</int>
+        <en>Receives water from inlet pumps</en>
+        <ja>インプットポンプから水を受ける</ja>
+      </tooltip>
+      <tooltip>
+        <int>583</int>
+        <en>Activates every second</en>
+        <ja>毎秒ごとに起動する</ja>
+      </tooltip>
+      <tooltip>
+        <int>584</int>
+        <en>Activates every 3 seconds</en>
+        <ja>3秒ごとに起動する</ja>
+      </tooltip>
+      <tooltip>
+        <int>585</int>
+        <en>Activates every 5 seconds</en>
+        <ja>5秒ごとに起動する</ja>
+      </tooltip>
+      <tooltip>
+        <int>599</int>
+        <en>Right click to open</en>
+        <ja>右クリックでオープン</ja>
+      </tooltip>
+      <tooltip>
+        <int>600</int>
+        <en>Right click to open</en>
+        <ja>右クリックでオープン</ja>
+      </tooltip>
+      <tooltip>
+        <int>601</int>
+        <en>Right click to open</en>
+        <ja>右クリックでオープン</ja>
+      </tooltip>
+      <tooltip>
+        <int>602</int>
+        <en>Summons the Frost Legion</en>
+        <ja>フロストリージョンを召喚する</ja>
+      </tooltip>
+      <tooltip>
+        <int>603</int>
+        <en>Summons a pet bunny</en>
+        <ja>ペットバニーを召喚する</ja>
+      </tooltip>
+    </tooltips>
+    <tooltip2s>
+      <tooltip2>
+        <int>65</int>
+        <en>'Forged with the fury of heaven'</en>
+        <ja>「天の怒りが込められている」</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>98</int>
+        <en>'Half shark, half gun, completely awesome.'</en>
+        <ja>「半分サメ、半分銃。マジですげぇ」</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>228</int>
+        <en>3% increased magic critical strike chance</en>
+        <ja>魔法クリティカル率 +3%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>229</int>
+        <en>3% increased magic critical strike chance</en>
+        <ja>魔法クリティカル率 +3%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>230</int>
+        <en>3% increased magic critical strike chance</en>
+        <ja>魔法クリティカル率 +3%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>371</int>
+        <en>9% increased magic critical strike chance</en>
+        <ja>魔法クリティカル率 +9%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>372</int>
+        <en>12% increased melee speed</en>
+        <ja>近接攻撃速度 +12%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>373</int>
+        <en>6% increased ranged critical strike chance</en>
+        <ja>レンジクリティカル率 +6%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>374</int>
+        <en>3% increased critical strike chance</en>
+        <ja>クリティカル率 +3%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>375</int>
+        <en>10% increased movement speed</en>
+        <ja>移動速度 +10%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>376</int>
+        <en>15% increased magic damage</en>
+        <ja>魔法ダメージ +15%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>377</int>
+        <en>10% increased melee damage</en>
+        <ja>近接ダメージ +10%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>378</int>
+        <en>7% increased ranged critical strike chance</en>
+        <ja>レンジクリティカル率 +7%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>379</int>
+        <en>5% increased damage</en>
+        <ja>ダメージ +5%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>380</int>
+        <en>3% increased critical strike chance</en>
+        <ja>クリティカル率 +3%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>389</int>
+        <en>'Find your inner pieces'</en>
+        <ja>「バラバラにしてやる」</ja>
+        <description>inner peaceとinner piecesを掛けている。</description>
+      </tooltip2>
+      <tooltip2>
+        <int>394</int>
+        <en>Greatly extends underwater breathing</en>
+        <ja>水中にとても長く居られる</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>395</int>
+        <en>Tells the time</en>
+        <ja>時間が分かる</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>396</int>
+        <en>Grants immunity to fire blocks</en>
+        <ja>燃えるブロックのダメージを無効化する</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>397</int>
+        <en>Grants immunity to fire blocks</en>
+        <ja>燃えるブロックのダメージを無効化する</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>399</int>
+        <en>Increases jump height</en>
+        <ja>ジャンプの高さが上昇する</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>400</int>
+        <en>11% increased magic damage and critical strike chance</en>
+        <ja>魔法ダメージ・魔法クリティカル率 +11%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>401</int>
+        <en>14% increased melee damage</en>
+        <ja>近接ダメージ +14%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>402</int>
+        <en>8% increased ranged critical strike chance</en>
+        <ja>レンジクリティカル率 +8%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>404</int>
+        <en>5% increased movement speed</en>
+        <ja>移動速度 +5%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>405</int>
+        <en>The wearer can run super fast</en>
+        <ja>走る速度が上がる</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>434</int>
+        <en>Only the first shot consumes ammo</en>
+        <ja>初弾のみ弾薬消費</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>533</int>
+        <en>'Minishark's older brother'</en>
+        <ja>「ミニシャークの兄」</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>552</int>
+        <en>8% increased movement speed</en>
+        <ja>移動速度 +8%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>553</int>
+        <en>8% increased ranged critical strike chance</en>
+        <ja>レンジクリティカル率 +8%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>555</int>
+        <en>Automatically use mana potions when needed</en>
+        <ja>マナポーションを自動で使用してくれる</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>558</int>
+        <en>12% increased magic damage and critical strike chance</en>
+        <ja>魔法ダメージ・魔法クリティカル率 +12%</ja>
+      </tooltip2>
+      <tooltip2>
+        <int>559</int>
+        <en>10% increased melee haste</en>
+        <ja>近接攻撃速度 +10%</ja>
+        <description>hasteはspeedの表記ミスらしい</description>
+      </tooltip2>
+    </tooltip2s>
+    <setbonuses>
+      <setbonus>
+        <int>0</int>
+        <en>2 defense</en>
+        <ja>ディフェンス +2</ja>
+      </setbonus>
+      <setbonus>
+        <int>1</int>
+        <en>3 defense</en>
+        <ja>ディフェンス +3</ja>
+      </setbonus>
+      <setbonus>
+        <int>2</int>
+        <en>15% increased movement speed</en>
+        <ja>移動速度 +15%</ja>
+      </setbonus>
+      <setbonus>
+        <int>3</int>
+        <en>Space Gun costs 0 mana</en>
+        <ja>スペースガンの消費マナが0になる</ja>
+      </setbonus>
+      <setbonus>
+        <int>4</int>
+        <en>20% chance to not consume ammo</en>
+        <ja>20%の確率で弾薬非消費</ja>
+      </setbonus>
+      <setbonus>
+        <int>5</int>
+        <en>16% reduced mana usage</en>
+        <ja>消費マナ -16%</ja>
+      </setbonus>
+      <setbonus>
+        <int>6</int>
+        <en>17% extra melee damage</en>
+        <ja>近接ダメージ +17%</ja>
+      </setbonus>
+      <setbonus>
+        <int>7</int>
+        <en>20% increased mining speed</en>
+        <ja>採掘速度 +20%</ja>
+      </setbonus>
+      <setbonus>
+        <int>8</int>
+        <en>14% reduced mana usage</en>
+        <ja>消費マナ -14%</ja>
+      </setbonus>
+      <setbonus>
+        <int>9</int>
+        <en>15% increased melee speed</en>
+        <ja>近接攻撃速度 +15%</ja>
+      </setbonus>
+      <setbonus>
+        <int>10</int>
+        <en>20% chance to not consume ammo</en>
+        <ja>20%の確率で弾薬非消費</ja>
+      </setbonus>
+      <setbonus>
+        <int>11</int>
+        <en>17% reduced mana usage</en>
+        <ja>消費マナ -17%</ja>
+      </setbonus>
+      <setbonus>
+        <int>12</int>
+        <en>5% increased melee critical strike chance</en>
+        <ja>近接クリティカル率 +5%</ja>
+      </setbonus>
+      <setbonus>
+        <int>13</int>
+        <en>20% chance to not consume ammo</en>
+        <ja>20%の確率で弾薬非消費</ja>
+      </setbonus>
+      <setbonus>
+        <int>14</int>
+        <en>19% reduced mana usage</en>
+        <ja>消費マナ -19%</ja>
+      </setbonus>
+      <setbonus>
+        <int>15</int>
+        <en>18% increased melee and movement speed</en>
+        <ja>近接攻撃速度・移動速度 +18%</ja>
+      </setbonus>
+      <setbonus>
+        <int>16</int>
+        <en>25% chance to not consume ammo</en>
+        <ja>25%の確率で弾薬非消費</ja>
+      </setbonus>
+      <setbonus>
+        <int>17</int>
+        <en>20% reduced mana usage</en>
+        <ja>消費マナ -20%</ja>
+      </setbonus>
+      <setbonus>
+        <int>18</int>
+        <en>19% increased melee and movement speed</en>
+        <ja>近接攻撃速度・移動速度 +19%</ja>
+      </setbonus>
+      <setbonus>
+        <int>19</int>
+        <en>25% chance to not consume ammo</en>
+        <ja>25%の確率で弾薬非消費</ja>
+      </setbonus>
+    </setbonuses>
   </lang>
 </language>

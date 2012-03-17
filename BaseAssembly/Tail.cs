@@ -53,16 +53,19 @@ namespace Terraria
             type.InvokeMember("fontCombatText", BindingFlags.SetField, null, this, new object[] { 1, fontCombatCrit });
         }
 
-        public void TailAffixName()
+        public void TailInitialize()
         {
-            Type.GetType("Terraria.Lang").GetMethod("_AffixName").Invoke(this, null);
+            Type.GetType("Terraria.Main").GetMethod("_Initialize").Invoke(this, null);
         }
 
-        public string _AffixName()
+        public void _Initialize()
         {
-
-
-            return "";
+            // これを追加しないと一部のアイテムの処理がおかしくなる
+            var type = Type.GetType("Terraria.Main");
+            for (int i = 0; i < 604; i++)
+            {
+                type.InvokeMember("itemName", BindingFlags.SetField, null, this, new object[] { i, Terraria.Ja.GetItemName_en(i) });
+            }
         }
     }
 }

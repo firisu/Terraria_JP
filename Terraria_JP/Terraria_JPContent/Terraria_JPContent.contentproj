@@ -86,6 +86,7 @@
       <ProcessorParameters_HasKatakana>True</ProcessorParameters_HasKatakana>
       <ProcessorParameters_HasSpecialCharacters>True</ProcessorParameters_HasSpecialCharacters>
       <ProcessorParameters_HasJisKanjiLevel1>True</ProcessorParameters_HasJisKanjiLevel1>
+      <SubType>Designer</SubType>
     </None>
   </ItemGroup>
   <ItemGroup>

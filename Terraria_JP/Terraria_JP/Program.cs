@@ -125,6 +125,9 @@ namespace Terraria_JP
                     RenameMethod(type, "npcName");
                     RenameMethod(type, "setLang");
                     RenameMethod(type, "itemName");
+                    RenameMethod(type, "toolTip");
+                    RenameMethod(type, "toolTip2");
+                    RenameMethod(type, "setBonus");
                 }
                 // Steam.Init
                 else if (type.Name == "Steam") RenameMethod(type, "Init");
@@ -185,6 +188,7 @@ namespace Terraria_JP
                 if (type.Name == "Main")
                 {
                     TailMethod(type, tail, "LoadContent");
+                    TailMethod(type, tail, "Initialize");
                 }
             }
 
