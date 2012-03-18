@@ -190,6 +190,11 @@ namespace Terraria_JP
                     TailMethod(type, tail, "LoadContent");
                     TailMethod(type, tail, "Initialize");
                 }
+                else if (type.Name == "Item")
+                {
+                    //TailMethod(type, tail, "SetDefaults");
+                    RemakeMethod(type, tail, "SetDefaults");
+                }
             }
 
             var fs3 = new FileStream("Terraria_JP/asm_merge.exe", FileMode.Create);
@@ -203,6 +208,12 @@ namespace Terraria_JP
             {
                 if (method1.Name == method_name)
                 {
+                    // Item.SetDefaultsは特別扱い
+                    if (method_name == "SetDefaults")
+                    {
+                        if (method1.Parameters.Count != 1) continue;
+                    }
+                    
                     foreach (var method2 in tail.Methods)
                     {
                         // 末尾命令の追加
@@ -212,18 +223,27 @@ namespace Terraria_JP
                             var last = instr1[instr1.Count - 1];
                             if (last.OpCode == OpCodes.Ret) instr1.Remove(last);
 
-                            foreach (var item in method2.Body.Instructions) instr1.Add(item);
+                            //foreach (var item in method2.Body.Instructions) instr1.Add(item);
+                            var il1 = method1.Body.GetILProcessor();
+                            foreach (var item in method2.Body.Instructions) il1.Append(item);
+                            method1.Body.MaxStackSize += 5; // これをしないと、Item.SetDefaultsの.maxstacksizeが不足する
+                           
                         }
                         // 末尾命令で呼び出されるメソッドの追加
                         else if (method2.Name == "_" + method_name)
                         {
                             var new_method = new MethodDefinition(method2.Name, method2.Attributes, method2.ReturnType);
 
+                            // パラメータの追加
+                            foreach (var item in method2.Parameters) new_method.Parameters.Add(item);
+
                             // ローカル変数の追加
                             foreach (var item in method2.Body.Variables) new_method.Body.Variables.Add(item);
 
                             // メソッド本体の追加
-                            foreach (var item in method2.Body.Instructions) new_method.Body.Instructions.Add(item);
+                            //foreach (var item in method2.Body.Instructions) new_method.Body.Instructions.Add(item);
+                            var il_new = new_method.Body.GetILProcessor();
+                            foreach (var item in method2.Body.Instructions) il_new.Append(item);
 
                             // 新メソッドを追加
                             type.Methods.Add(new_method);
@@ -271,23 +291,39 @@ namespace Terraria_JP
             }
         }
 
-        static void ConcatMethod(MethodDefinition method_to, MethodDefinition method_from)
+        static void RemakeMethod(TypeDefinition type, TypeDefinition tail, string method_name)
         {
-            var instr1 = method_to.Body.Instructions;
+            // 先に元のメソッドを保存しておく
+            RenameMethod(type, "SetDefaults");
 
-            // 最後がリターン命令だったら削除する（引数無し限定）
-            var last = instr1[instr1.Count - 1];
-            if (last.OpCode == OpCodes.Ret) instr1.Remove(last);
-
-            var local1 = method_to.Body.Variables;
-            foreach (var item in method_from.Body.Variables)
+            foreach (var method1 in type.Methods)
             {
-                local1.Add(new VariableDefinition(item.VariableType));
-            }
+                if (method1.Name == method_name)
+                {
+                    // Item.SetDefaultsは特別扱い
+                    if (method_name == "SetDefaults")
+                    {
+                        if (method1.Parameters.Count != 1) continue;
+                    }
 
-            foreach (var item in method_from.Body.Instructions)
-            {
-                instr1.Add(item);
+                    foreach (var method2 in tail.Methods)
+                    {
+                        // Tailクラスから元のクラスへメソッドをコピー
+                        if (method2.Name == method_name)
+                        {
+                            method1.Body.Instructions.Clear();
+                            method1.Body.Variables.Clear();
+
+                            // ローカル変数の追加
+                            foreach (var item in method2.Body.Variables) method1.Body.Variables.Add(item);
+
+                            // メソッド本体の追加
+                            var il1 = method1.Body.GetILProcessor();
+                            foreach (var item in method2.Body.Instructions) il1.Append(item);
+                        }
+                    }
+                    return;
+                }
             }
         }
     }

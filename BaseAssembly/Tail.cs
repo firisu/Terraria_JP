@@ -72,5 +72,68 @@ namespace Terraria
             type.InvokeMember("numRecipes", BindingFlags.SetField, null, null, new object[] { 0 });
             var mi = type.GetMethod("SetupRecipes").Invoke(null, null);
         }
+
+        /*
+        public void TailSetDefaults(string ItemName)
+        {
+            Type.GetType("Terraria.Item").GetMethod("_SetDefaults").Invoke(this, new object[] { ItemName });
+            //var mi = Type.GetType("Terraria.Item").GetMethod("_SetDefaults");
+            //mi.Invoke(this, new object[] { ItemName });
+        }
+
+        public void SetDefaults(string ItemName)
+        {
+            var type = Type.GetType("Terraria.Ja");
+            var language = (Dictionary<string, Dictionary<int, string>>)type.GetField("language").GetValue(null);
+
+            if (language == null) return;
+
+            // 辞書を取得
+            Dictionary<int, string> dic;
+            if (language.TryGetValue("items", out dic))
+            {
+                foreach (var pair in dic)
+                {
+                    if (ItemName == pair.Value)
+                    {
+                        Type.GetType("Terraria.Item").GetMethod("SetDefaults").Invoke(this, new object[] { pair.Key, false });
+                    }
+                }
+            }
+        }
+        */
+
+        public void SetDefaults(string ItemName)
+        {
+            var type = Type.GetType("Terraria.Item");
+
+            // 元のメソッドを呼び出す
+            type.GetMethod("_SetDefaults").Invoke(this, new object[] { ItemName });
+
+            // アイテム名を取得
+            var iname = (string)type.GetField("name").GetValue(this);
+
+            // 既にアイテム名がセットされていれば何もしない
+            if (iname != "") return;
+
+            // 日本語アイテム名から英語アイテム名を呼び出し、再度自分を呼び出す
+            Dictionary<int, string> dic;
+            Dictionary<int, string> dic_en;
+            if (Ja.language.TryGetValue("items", out dic) && Ja.language.TryGetValue("items_en", out dic_en))
+            {
+                foreach (var pair in dic)
+                {
+                    if (ItemName == pair.Value)
+                    {
+                        var str_en = "";
+                        if (dic_en.TryGetValue(pair.Key, out str_en))
+                        {
+                            SetDefaults(str_en);
+                            return;
+                        }
+                    }
+                }
+            }
+        }
     }
 }
