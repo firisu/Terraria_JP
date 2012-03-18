@@ -8787,5 +8787,87 @@
         <ja>25%の確率で弾薬非消費</ja>
       </setbonus>
     </setbonuses>
+    <titles>
+      <title>
+        <int>0</int>
+        <en>Terraria: Dig Peon, Dig!</en>
+        <ja></ja>
+      </title>
+      <title>
+        <int>1</int>
+        <en>Terraria: Epic Dirt</en>
+        <ja></ja>
+      </title>
+      <title>
+        <int>2</int>
+        <en>Terraria: Hey Guys!</en>
+        <ja></ja>
+      </title>
+      <title>
+        <int>3</int>
+        <en>Terraria: Sand is Overpowered</en>
+        <ja></ja>
+      </title>
+      <title>
+        <int>4</int>
+        <en>Terraria Part 3: The Return of the Guide</en>
+        <ja></ja>
+      </title>
+      <title>
+        <int>5</int>
+        <en>Terraria: A Bunnies Tale</en>
+        <ja></ja>
+      </title>
+      <title>
+        <int>6</int>
+        <en>Terraria: Dr. Bones and The Temple of Blood Moon</en>
+        <ja></ja>
+      </title>
+      <title>
+        <int>7</int>
+        <en>Terraria: Slimeassic Park</en>
+        <ja></ja>
+      </title>
+      <title>
+        <int>8</int>
+        <en>Terraria: The Grass is Greener on This Side</en>
+        <ja></ja>
+      </title>
+      <title>
+        <int>9</int>
+        <en>Terraria: Small Blocks, Not for Children Under the Age of 5</en>
+        <ja></ja>
+      </title>
+      <title>
+        <int>10</int>
+        <en>Terraria: Digger T' Blocks</en>
+        <ja></ja>
+      </title>
+      <title>
+        <int>11</int>
+        <en>Terraria: There is No Cow Layer</en>
+        <ja></ja>
+      </title>
+      <title>
+        <int>12</int>
+        <en>Terraria: Suspicous Looking Eyeballs</en>
+        <ja></ja>
+      </title>
+      <title>
+        <int>13</int>
+        <en>Terraria: Purple Grass!</en>
+        <ja></ja>
+      </title>
+      <title>
+        <int>14</int>
+        <en>Terraria: Noone Dug Behind!</en>
+        <ja></ja>
+      </title>
+      <title>
+        <int></int>
+        <en>Terraria: Shut Up and Dig Gaiden!</en>
+        <ja></ja>
+      </title>
+    </titles>
   </lang>
 </language>
