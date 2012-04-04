@@ -3157,7 +3157,7 @@
       <gen>
         <int>17</int>
         <en>Adding webs...</en>
-        <ja>蜘蛛の巣の追加</ja>
+        <ja>クモの巣の追加</ja>
       </gen>
       <gen>
         <int>18</int>
@@ -5060,7 +5060,7 @@
       <item>
         <int>206</int>
         <en>Water Bucket</en>
-        <ja>水入りバケツt</ja>
+        <ja>水入りバケツ</ja>
       </item>
       <item>
         <int>207</int>
